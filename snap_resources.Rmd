@@ -298,12 +298,12 @@ county1data_df<-reactive({
   buffer<-0.02
 
 output$map1<-renderLeaflet({
-  long_max3<-as.vector(st_bbox(cty_boundary2()))[3]+buffer
-  latit_max3<-as.vector(st_bbox(cty_boundary2()))[4]+buffer
-  long_min3<-as.vector(st_bbox(cty_boundary2()))[1]-buffer
-  latit_min3<-as.vector(st_bbox(cty_boundary2()))[2]-buffer
+  long_max3<-as.vector(st_bbox(cty_boundary3()))[3]+buffer
+  latit_max3<-as.vector(st_bbox(cty_boundary3()))[4]+buffer
+  long_min3<-as.vector(st_bbox(cty_boundary3()))[1]-buffer
+  latit_min3<-as.vector(st_bbox(cty_boundary3()))[2]-buffer
 
-  leaflet(cty_boundary2()) %>%
+  leaflet(cty_boundary3()) %>%
   fitBounds(long_min3,latit_min3,long_max3,latit_max3) %>%
    addProviderTiles(providers$CartoDB.Positron)
 })
@@ -321,10 +321,10 @@ observeEvent(c(input$officegroup, input$county1, input$loadstores2),{
  #storepal<-colorFactor(palette="YlOrRd",msadata_reactive()$year_range,reverse=TRUE)
   storepal<-colorFactor(palette="Dark2",county1data_reactive()$Type,reverse=TRUE)
 
-  long_max4<-as.vector(st_bbox(cty_boundary2()))[3]+buffer
-  latit_max4<-as.vector(st_bbox(cty_boundary2()))[4]+buffer
-  long_min4<-as.vector(st_bbox(cty_boundary2()))[1]+buffer
-  latit_min4<-as.vector(st_bbox(cty_boundary2()))[2]+buffer
+  long_max4<-as.vector(st_bbox(cty_boundary3()))[3]+buffer
+  latit_max4<-as.vector(st_bbox(cty_boundary3()))[4]+buffer
+  long_min4<-as.vector(st_bbox(cty_boundary3()))[1]+buffer
+  latit_min4<-as.vector(st_bbox(cty_boundary3()))[2]+buffer
   
  leafletProxy("map1") %>%
     clearMarkers() %>%
@@ -357,7 +357,7 @@ About this map
 1. SNAP-Ed Food Resources
 This map allows users to exlore the database of SNAP authorized retailers in 2018 in 159 counties in GA. Users can compare their locations to the WIC authorized retailers by using the "Source" check box in the sidebar. Also, SNAP exclusive/WIC exclusive/both SNAP & WIC authorized details are addressed in the pop-up box when users click on a point. 
 
-    <strong>SNAP authorized retailers are classified as follows (Store categoty): Farmers Market/Grocer/Local Foods/Small retail/Specialty/Supermarket/Other store.<br>
+    <strong>SNAP authorized retailers are classified as follows (Store category): Farmers Market/Grocer/Local Foods/Small retail/Specialty/Supermarket/Other store.<br>
     There is no specific category for WIC authorized retailers.</strong>
 
 
