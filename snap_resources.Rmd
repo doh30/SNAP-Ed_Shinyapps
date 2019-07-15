@@ -15,6 +15,7 @@ library(leaflet)
 library(sf)
 library(shinyWidgets)
 library(rgdal)
+library(ggmap)
 
 gacounties<-read_csv("data/county_list.csv") %>%
   arrange(fullname)
@@ -36,6 +37,10 @@ This map allows you to view SNAP and WIC authorized retailers in Georgia by. Cho
 ```{r}
 selectInput("county","County selection",
             choices=gacounties$fullname)
+
+textInput(inputId = "address", label = "Enter address:", 
+            value="", placeholder = "e.g. 210 Field St., Athens, GA, 30602")
+actionButton("update" , label = HTML("Update map and center<br />around provided address"), icon("refresh"), class = "btn btn-primary")
 
 # pickerInput(
 #   inputId = "years2", 
@@ -145,7 +150,7 @@ output$map<-renderLeaflet({
 
   leaflet(countydata_reactive()) %>%
   fitBounds(long_min,latit_min,long_max,latit_max) %>%
-   addProviderTiles(providers$CartoDB.Positron) 
+  addTiles() 
 })
 
 observeEvent(input$county,{
@@ -156,8 +161,22 @@ observeEvent(input$county,{
   
   leafletProxy("map") %>%
     fitBounds(long_min1,latit_min1,long_max1,latit_max1)})
-
-observeEvent(c(input$Source, input$store_grou, input$county, input$loadstores1),{
+    
+# Add in any manually entered address
+observeEvent(input$update,{
+  # Geocode address
+  full.address <- paste(input$address)
+  geocoded.address <- geocode(full.address, source=c("dsk"), messaging=TRUE, override_limit=TRUE)
+  longitude <- geocoded.address$lon
+  latitude <- geocoded.address$lat
+  
+  # this updates the map by: 
+  leafletProxy("map") %>% 
+  setView(lng=longitude, lat=latitude, zoom=12) %>%  # recentering it around the provided address and setting zoom level
+  addMarkers(lng=longitude, lat=latitude, popup=input$address) # adding a marker for the address
+    })
+    
+observeEvent(c(input$Source, input$store_grou, input$county, input$loadstores1, input$update),{
  #storepal<-colorFactor(palette="YlOrRd",msadata_reactive()$year_range,reverse=TRUE)
   storepal<-colorFactor(palette="Dark2",countydata_reactive()$store_grou,reverse=TRUE)
 
