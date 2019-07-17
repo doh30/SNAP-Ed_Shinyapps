@@ -55,7 +55,7 @@ actionButton("update" , label = HTML("Update map and center<br />around provided
 #   multiple = TRUE
 # )
 
-checkboxGroupInput("Authorized program", 
+checkboxGroupInput("auth_program", 
                     ("Source"), 
                     choices = list("SNAP" = "SNAP", 
                                    "WIC" = "WIC"),
@@ -129,7 +129,8 @@ countydata_reactive<-reactive({
                        "<br><b>Group category: </b>",store_grou,
                        "<br><b>Authorization: </b>",program,
                        # "<br><b>Years authorized for SNAP*: </b>",year_range,
-                       "<br>*2018 year data are available.",sep=""))
+                       "<br>*2018 year data are available.",sep="")) %>%
+    filter(Source %in% input$auth_program)
   })
 
 # observeEvent
