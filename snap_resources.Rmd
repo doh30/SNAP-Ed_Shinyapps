@@ -237,8 +237,8 @@ checkboxGroupInput("officegroup",
                                    "UGA SNAP-Ed" = "UGA Site Loc",
                                    "Open Hand Atlanta" = "Open Hand Atlanta",
                                    "HealthMPowers" = "HealthMPowers",
-                                   "Dept. of Public Health" = "DPH"),
-                              selected = c("UGA Extension","DFCS", "HealthDep", "UGA Site", "Open Hand Atlanta", "HealthMPower", "DPH"))
+                                   "Dept of Public Health" = "DPH"),
+                              selected = c("UGA Extension","DFCS", "HealthDep", "UGA Site Loc", "Open Hand Atlanta", "HealthMPowers", "DPH"))
 
 HTML("If no offices are visible, click on the button below")
 
