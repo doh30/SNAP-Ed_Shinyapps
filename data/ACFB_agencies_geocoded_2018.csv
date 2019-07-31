@@ -1,0 +1,696 @@
+Agency,id,Address,City,State,Zip,full_add,lon,lat,type,loctype,neighborhood,locality,administrative_area_level_2
+Tri State Food Pantry,P651,2026 HWY 136 West,Trenton,GA,30752,"2026 HWY 136 West, City, GA  30752",-85.5505746,34.862854,premise,rooftop,NA,Trenton,Dade County
+"Community Resource Center of Chattooga, Inc",P137,103 7th St,Summerville,GA,30747,"103 7th St, City, GA  30747",-85.3387676,34.4872526,street_address,range_interpolated,NA,Summerville,Chattooga County
+Dry Valley Baptist Church Inc.,P181,82 Dot Johnson Rd.,Summerville,GA,30747,"82 Dot Johnson Rd., City, GA  30747",-85.324449,34.5098793,street_address,range_interpolated,NA,Summerville,Chattooga County
+G Y Ministries Inc.,P254,62  Krannert Drive,Rome,GA,30165,"62  Krannert Drive, City, GA  30165",-85.3224945,34.2628737,street_address,range_interpolated,NA,Rome,Floyd County
+Community Christian Council,P127,734 Bowdon St,Tallapoosa,GA,30176,"734 Bowdon St, City, GA  30176",-85.2941139,33.7606237,street_address,rooftop,NA,Tallapoosa,Haralson County
+"Here I am, Inc/ The Care Mission",P300,105 North Chattanooga Street,LaFayette,GA,30728,"105 North Chattanooga Street, City, GA  30728",-85.2877295,34.7053715,street_address,rooftop,NA,LaFayette,Walker County
+Hope House Ministries of Lakeview,P312,140 Nason Street,Rossville,GA,30741,"140 Nason Street, City, GA  30741",-85.2619998,34.9775884,premise,rooftop,NA,Rossville,Catoosa County
+Cedartown United Fund Inc.,P087,445 S. College St,Cedartown,GA,30125,"445 S. College St, City, GA  30125",-85.2563906,34.0095413,street_address,rooftop,NA,Cedartown,Polk County
+Murphy-Harpst Children's Centers,P411,740 Fletcher St.,Cedartown,GA,30125,"740 Fletcher St., City, GA  30125",-85.2437223,34.0095032,street_address,rooftop,NA,Cedartown,Polk County
+"Just Us Ministries, Inc.",P340,904 Youngs Farm Rd.,Cedartown,GA,30125,"904 Youngs Farm Rd., City, GA  30125",-85.2395882,33.9403825,premise,rooftop,NA,Cedartown,Polk County
+Cedar Lake Christian Center,P085,1890 Rome HWY,Cedartown,GA,30125,"1890 Rome HWY, City, GA  30125",-85.2322288,34.0536811,street_address,rooftop,NA,Cedartown,Polk County
+Cedartown SDA-Good Neighbor Center,P086,71 Woodall Road,Cedartown,GA,30125,"71 Woodall Road, City, GA  30125",-85.2239459,34.0137385,street_address,rooftop,NA,Cedartown,Polk County
+Blake House,P061,60 Waco School Rd,Bremen,GA,30110,"60 Waco School Rd, City, GA  30110",-85.211658,33.7159329,street_address,rooftop,NA,Bremen,Haralson County
+R.A.M- West Rome Cancer Navigator,P503,1003 Shorter Ave SW,Rome,GA,30165,"1003 Shorter Ave SW, City, GA  30165",-85.2063369,34.2672029,street_address,range_interpolated,NA,Rome,Floyd County
+New Life of St. John Baptist Church-Rome,P435,419 Walter Street,Rome,GA,30165,"419 Walter Street, City, GA  30165",-85.201327,34.271111,street_address,rooftop,NA,Rome,Floyd County
+Arising Heights/Mission 2000,P036,500 North Division St.,Rome,GA,30165,"500 North Division St., City, GA  30165",-85.1985098,34.2707915,street_address,rooftop,NA,Rome,Floyd County
+Lovejoy Baptist Church,P374,436 Branham Avenue,Rome,GA,30161,"436 Branham Avenue, City, GA  30161",-85.1833725,34.2453166,premise,rooftop,NA,Rome,Floyd County
+R.A.M. - Seasonal Programs,P504,207 East 19th Street,Rome,GA,30162,"207 East 19th Street, City, GA  30162",-85.1704966,34.2299097,premise,rooftop,NA,Rome,Floyd County
+R.A.M.- Journey Evening Pantry,P505,207 East 19th St.,Rome,GA,30161,"207 East 19th St., City, GA  30161",-85.1704966,34.2299097,premise,rooftop,NA,Rome,Floyd County
+R.A.M.- New Beginnings,P506,207 East 19th Street,Rome,GA,30162,"207 East 19th Street, City, GA  30162",-85.1704966,34.2299097,premise,rooftop,NA,Rome,Floyd County
+Rome Action Ministries-Bagwell Pantry,P528,207 East 19th Street,Rome,GA,30161,"207 East 19th Street, City, GA  30161",-85.1704966,34.2299097,premise,rooftop,NA,Rome,Floyd County
+Rome Action Ministries-Polk County  Back Pack,P530,207 East 19th Street,Rome,GA,30161,"207 East 19th Street, City, GA  30161",-85.1704966,34.2299097,premise,rooftop,NA,Rome,Floyd County
+Rome Urban Ministries-Backpack Buddies,P531,207 East 19th St.,Rome,GA,30162,"207 East 19th St., City, GA  30162",-85.1704966,34.2299097,premise,rooftop,NA,Rome,Floyd County
+Rome Action Ministries-Bread of Life FP,P529,210 East 18th Street,Rome,GA,30161,"210 East 18th Street, City, GA  30161",-85.1678096,34.2308264,street_address,rooftop,NA,Rome,Floyd County
+Metropolitan United Methodist,P391,700 Broad St,Rome,GA,30161,"700 Broad St, City, GA  30161",-85.1671166,34.2563347,street_address,rooftop,NA,Rome,Floyd County
+Rome-Floyd County Community Soup Kitchen,P532,4 Calhoun Avenue,Rome,GA,30161,"4 Calhoun Avenue, City, GA  30161",-85.1561313,34.2637839,street_address,range_interpolated,NA,Rome,Floyd County
+Victory Baptist Church,P666,15 Hendrix Rd,Rockmart,GA,30153,"15 Hendrix Rd, City, GA  30153",-85.1529078,34.0031418,street_address,rooftop,NA,Cedartown,Polk County
+Rock Bridge Community Church-Ringgold,P525,120 Remco Shops Lane   GA,Ringgold,GA,30736,"120 Remco Shops Lane   GA, City, GA  30736",-85.1308409,34.9116641,street_address,rooftop,NA,Ringgold,Catoosa County
+Christ Chapel Share & Care Mission,P100,323 Inman Street,Ringgold,GA,30736,"323 Inman Street, City, GA  30736",-85.1027171,34.9209833,street_address,range_interpolated,NA,Ringgold,Catoosa County
+Carroll County Soup Kitchen,P080,345 Beulah Church Road,Carrollton,GA,30117,"345 Beulah Church Road, City, GA  30117",-85.0988352,33.6008387,premise,rooftop,NA,Carrollton,Carroll County
+Franklin Housing & Redevelopment Inc.,P247,900 S. River Road,Franklin,GA,30217,"900 S. River Road, City, GA  30217",-85.0979356,33.2646974,street_address,rooftop,NA,Franklin,Heard County
+WestCare Youth Academy,P677,23850 Oak Grove Church Rd,Carroll,GA,30117,"23850 Oak Grove Church Rd, City, GA  30117",-85.0937766,33.5116563,route,geometric_center,NA,Carrollton,Carroll County
+Glenloch Baptist Church,P265,2807 Glenloch Road,Franklin,GA,30217,"2807 Glenloch Road, City, GA  30217",-85.0869333,33.4131829,premise,rooftop,NA,Franklin,Heard County
+Developing and Nurturing Needy Youth Center Inc.,P175,"4395, 201 Trojan Dr,",Carrollton,GA,30117,"4395, 201 Trojan Dr,, City, GA  30117",-85.0809144,33.5672334,subpremise,rooftop,NA,Carrollton,Carroll County
+Open Hands United Christian Ministry,P472,505 Newnan Street,Carrollton,GA,30117,"505 Newnan Street, City, GA  30117",-85.0705463,33.5798486,premise,rooftop,NA,Carrollton,Carroll County
+Open Hands United Christian Ministry,P473,505 Newnan Street,Carrollton,GA,30117,"505 Newnan Street, City, GA  30117",-85.0705463,33.5798486,premise,rooftop,NA,Carrollton,Carroll County
+Mt. Pleasant Baptist Church-Manna House,P409,403 Mandeville Avenue,Carrollton,GA,30116,"403 Mandeville Avenue, City, GA  30116",-85.062694,33.5770883,street_address,range_interpolated,NA,Carrollton,Carroll County
+Aragon UMC,P035,101 New Prospect Road,Aragon,GA,30104,"101 New Prospect Road, City, GA  30104",-85.059941,34.0419126,street_address,range_interpolated,NA,Aragon,Polk County
+West Georgia Concil on Aging,P676,1130 Cedar St.,Carrollton,GA,30117,"1130 Cedar St., City, GA  30117",-85.053036,33.584296,street_address,rooftop,NA,Carrollton,Carroll County
+Deeper Life Christian Center,P173,1860 Highway 113,Carrollton,GA,30117,"1860 Highway 113, City, GA  30117",-85.051565,33.647387,street_address,rooftop,NA,Carrollton,Carroll County
+Mount Vernon United Methodist Church,P404,597 Lafayette Road,Rocky Face,GA,30740,"597 Lafayette Road, City, GA  30740",-85.0507051,34.7838806,premise,rooftop,NA,Rocky Face,Whitfield County
+Soul Station Ministries Inc.,P572,3517 Chattanooga Road,Tunnel Hill,GA,30755,"3517 Chattanooga Road, City, GA  30755",-85.0476921,34.8427166,street_address,rooftop,NA,Tunnel Hill,Whitfield County
+SDA-Bible Fellowship -Helping Hands,P552,221 South Piedmont Avenue,Rockmart,GA,30153,"221 South Piedmont Avenue, City, GA  30153",-85.0419387,33.995039,premise,rooftop,NA,Rockmart,Polk County
+Temple Senior Center,P616,280 Rome Street,Temple,GA,30179,"280 Rome Street, City, GA  30179",-85.0318098,33.7438351,establishment,rooftop,NA,Temple,Carroll County
+First Fruits Ministry of NW GA Inc.,P227,615 Reeves Station Rd,Calhoun,GA,30701,"615 Reeves Station Rd, City, GA  30701",-84.991263,34.4616294,street_address,range_interpolated,NA,Calhoun,Gordon County
+Calhoun Seventh Day Adventist Church,P073,1411 Rome Road SW,Calhoun,GA,30701,"1411 Rome Road SW, City, GA  30701",-84.9826548,34.4628897,street_address,rooftop,NA,Calhoun,Gordon County
+Salvation Army - Dalton,P539,1109 North Thornton Avenue,Dalton,GA,30720,"1109 North Thornton Avenue, City, GA  30720",-84.9774875,34.7854932,premise,rooftop,NA,Dalton,Whitfield County
+Lifeline Mission,P361,3970 Carrolton Villa Rica Highway,Carrolton,GA,30116,"3970 Carrolton Villa Rica Highway, City, GA  30116",-84.9713918,33.6449395,street_address,rooftop,NA,Carrollton,Carroll County
+Rock Bridge Community Church-Dalton,P523,115 W. Crawford St.  GA,Dalton,GA,30720,"115 W. Crawford St.  GA, City, GA  30720",-84.968558,34.771154,street_address,rooftop,NA,Dalton,Whitfield County
+Dalton Women's Home/Chaplain's Place,P163,"638 S. Hamilton Street, Suite A",Dalton,GA,30720,"638 S. Hamilton Street, Suite A, City, GA  30720",-84.9682218,34.7642774,subpremise,rooftop,NA,Dalton,Whitfield County
+Parkway Human Services Corp. DBA City of Refuge,P481,201 Bryant Avenue,Dalton,GA,30721,"201 Bryant Avenue, City, GA  30721",-84.967978,34.7575512,premise,rooftop,NA,Dalton,Whitfield County
+Providence Ministries,P499,711 South Hamilton Street,Dalton,GA,30720,"711 South Hamilton Street, City, GA  30720",-84.9670432,34.7622054,premise,rooftop,NA,Dalton,Whitfield County
+Chattanooga Area Food Bank-NW Georgia Branch,P096,1111 S. Hamilton,Dalton,GA,30702,"1111 S. Hamilton, City, GA  30702",-84.96572,34.75443,point,manual,NA,Dalton,Whitfield County
+Varnell United Methodist Church,P664,3485 Hwy 2,Cohutta,GA,30721,"3485 Hwy 2, City, GA  30721",-84.959351,34.89959,point,manual,NA,Dalton,Whitfield County
+First Baptist Church of Villa Rica,P223,1483 W. Highway 78,Villa Rica,GA,30180,"1483 W. Highway 78, City, GA  30180",-84.9584262,33.7350783,premise,rooftop,NA,Villa Rica,Carroll County
+Community Housing Resource,P135,704 Gist Place,Dalton,GA,30721,"704 Gist Place, City, GA  30721",-84.9431342,34.7828685,street_address,rooftop,NA,Dalton,Whitfield County
+Adairsville-N. Bartow Comm. Services,P017,2397 Hall Station Road,Adairsville,GA,30103,"2397 Hall Station Road, City, GA  30103",-84.9406367,34.3746635,street_address,rooftop,NA,Adairsville,Bartow County
+Oothcalooga Baptist Church,P471,10 Woody Road,Adairsville,GA,30103,"10 Woody Road, City, GA  30103",-84.936564,34.383828,street_address,rooftop,NA,Adairsville,Bartow County
+East Calhoun Church of God,P185,401 Peters St,Calhoun,GA,30701,"401 Peters St, City, GA  30701",-84.9356175,34.4836026,premise,rooftop,NA,Calhoun,Gordon County
+Mount Prospect Baptist Church,P403,133 Thomas Dorsey Drive,Villa Rica,GA,30180,"133 Thomas Dorsey Drive, City, GA  30180",-84.914386,33.7282681,premise,rooftop,NA,Villa Rica,Carroll County
+"Northpointe Church of Adairsville, Inc",P460,4645 Joe Frank Harris Pkwy,Adairsville,GA,30103,"4645 Joe Frank Harris Pkwy, City, GA  30103",-84.8978319,34.316804,street_address,rooftop,NA,Adairsville,Bartow County
+New Georgia Baptist Church,P427,6092 Mulberry Rock Road,Villa Rica,GA,30180,"6092 Mulberry Rock Road, City, GA  30180",-84.8915379,33.8082777,street_address,rooftop,NA,Villa Rica,Paulding County
+SVDP - Dallas Family Support Center,P604,651 W Memorial Dr Ste A,Dallas,GA,30132,"651 W Memorial Dr Ste A, City, GA  30132",-84.8554086,33.9206728,subpremise,rooftop,NA,Dallas,Paulding County
+Helping Hands of Paulding Co.,P298,228 West Spring Street,Dallas,GA,30132,"228 West Spring Street, City, GA  30132",-84.8421108,33.9224425,premise,rooftop,NA,Dallas,Paulding County
+Heritage SDA Church,P302,6969 Highway 5,Douglasville,GA,30135,"6969 Highway 5, City, GA  30135",-84.835825,33.616727,street_address,rooftop,NA,Douglasville,Douglas County
+Coweta Community Food Pantry,P155,251 Temple Avenue,Newnan,GA,30263,"251 Temple Avenue, City, GA  30263",-84.8204238,33.3876671,street_address,range_interpolated,NA,Newnan,Coweta County
+Grace Baptist Church,P275,477 Old Cassville  White Road NW,Cartersville,GA,30121,"477 Old Cassville  White Road NW, City, GA  30121",-84.817763,34.2680785,street_address,rooftop,NA,Cartersville,Bartow County
+Rock Bridge Community Church-Murray,P524,40 Bowtie Blvd.,Chatsworth,GA,30705,"40 Bowtie Blvd., City, GA  30705",-84.816788,34.782376,point,manual,NA,Chatsworth,Murray County
+Faith United Methodist Church,P208,501 Grassdale Road,Cartersville,GA,30121,"501 Grassdale Road, City, GA  30121",-84.8163094,34.2138384,street_address,rooftop,NA,Cartersville,Bartow County
+Bridging the Gap,P067,19 1st. Ave,Newnan,GA,30263,"19 1st. Ave, City, GA  30263",-84.8028919,33.3725304,premise,rooftop,NA,Newnan,Coweta County
+First Baptist Church Newnan,P220,70 Madison Street,Newnan,GA,30263,"70 Madison Street, City, GA  30263",-84.8027288,33.3760201,premise,rooftop,NA,Newnan,Coweta County
+Church of the Ascension Food Pantry,P106,201 West Cherokee Ave,Cartersville,GA,30120,"201 West Cherokee Ave, City, GA  30120",-84.800813,34.1655655,premise,rooftop,NA,Cartersville,Bartow County
+First Presbyterian Church of Cartersville,P229,183 West Main Street,Cartersville,GA,30120,"183 West Main Street, City, GA  30120",-84.7996309,34.1645188,premise,rooftop,NA,Cartersville,Bartow County
+Meals on Wheels of Coweta Inc.,P386,8 Savannah st,Newnan,GA,30263,"8 Savannah st, City, GA  30263",-84.7991417,33.3712373,premise,rooftop,NA,Newnan,Coweta County
+Lighthouse Food Pantry,P364,294 W/I Parkway,Dallas,GA,30132,"294 W/I Parkway, City, GA  30132",-84.7984,33.91154,point,manual,NA,Dallas,Paulding County
+St. Francis of Assisi Catholic Church,P586,140 Douglas Street,Cartersville,GA,30120,"140 Douglas Street, City, GA  30120",-84.795269,34.1724379,premise,rooftop,NA,Cartersville,Bartow County
+"Family Choices, Inc.",P211,6345 Queens Road,Douglasville,GA,30135,"6345 Queens Road, City, GA  30135",-84.7829359,33.6832705,premise,rooftop,NA,Douglasville,Douglas County
+Friendship Baptist Church,P250,194 Poplar Road,Newnan,GA,30263,"194 Poplar Road, City, GA  30263",-84.7725329,33.3621719,street_address,rooftop,NA,Newnan,Coweta County
+The Salvation Army-Murray Food Centers,P638,211 W Fort Street,Chatsworth,GA,30705,"211 W Fort Street, City, GA  30705",-84.7718235,34.7664352,premise,rooftop,NA,Chatsworth,Murray County
+Developing and Nurturing Needy Youth Center Inc.,P174,5960 Stewart Parkway,Douglasville,GA,30135,"5960 Stewart Parkway, City, GA  30135",-84.7699067,33.7203735,premise,rooftop,NA,Douglasville,Douglas County
+Helping Hands Food Pantry - Chatsworth,P297,4540 North 411,Eton,GA,30724,"4540 North 411, City, GA  30724",-84.76471,34.81853,route,manual,NA,Crandall,Murray County
+Life Tools Community Development Corp.,P359,9633 Hwy-5,Douglasville,GA,30135,"9633 Hwy-5, City, GA  30135",-84.7640742,33.7222605,premise,rooftop,NA,Douglasville,Douglas County
+Cartersville Church of God- Ch.  at Liberty Square,P081,61 Old Tennesee Highway,Cartersville,GA,30121,"61 Old Tennesee Highway, City, GA  30121",-84.7603319,34.2662671,street_address,range_interpolated,NA,White,Bartow County
+Hiram United Methodist-Food for Friends,P308,324 Hiram Douglasville Highway,Hiram,GA,30141,"324 Hiram Douglasville Highway, City, GA  30141",-84.7578739,33.8872323,premise,rooftop,NA,Hiram,Paulding County
+Vision 21 Concepts Inc.,P668,6976 West Broad Street,Douglasville,GA,30134,"6976 West Broad Street, City, GA  30134",-84.7570581,33.7470415,premise,rooftop,NA,Douglasville,Douglas County
+Philadelphie SDA Church,P488,6784 Church Street,Douglasville,GA,30134,"6784 Church Street, City, GA  30134",-84.749491,33.749986,point,manual,NA,Douglasville,Douglas County
+Saint James AME Church,P536,8310 Elm Street,Douglasville,GA,30135,"8310 Elm Street, City, GA  30135",-84.7494602,33.7540204,street_address,range_interpolated,NA,Douglasville,Douglas County
+Good Samaritan Center of Douglas County,P272,8366 Grady St.,Douglasville,GA,30134,"8366 Grady St., City, GA  30134",-84.7389223,33.7525181,premise,rooftop,NA,Douglasville,Douglas County
+God’s Place Outreach Ministry,P268,8510 Newman St.,Douglasville,GA,30134,"8510 Newman St., City, GA  30134",-84.7326582,33.7480943,premise,rooftop,NA,Douglasville,Douglas County
+Northwest Christian Church,P462,3737 Dallas Acworth Highway,Acworth,GA,30101,"3737 Dallas Acworth Highway, City, GA  30101",-84.7276949,34.0462137,street_address,range_interpolated,NA,Acworth,Cobb County
+Lutheran Church of the Good Shepherd,P378,3099 Chapel Hill Rd,Douglasville,GA,30135,"3099 Chapel Hill Rd, City, GA  30135",-84.7259647,33.7222096,premise,rooftop,NA,Douglasville,Douglas County
+Sheltering Arms - Longview Center,P562,3833 Longview Drive,Douglasville,GA,30135,"3833 Longview Drive, City, GA  30135",-84.7014134,33.744164,street_address,rooftop,NA,Douglasville,Douglas County
+Allatoona Resource Center,P024,6503 Glade Rd.,Acworth,GA,30102,"6503 Glade Rd., City, GA  30102",-84.681162,34.1137254,street_address,rooftop,NA,Acworth,Bartow County
+Pelagie Foundation,P484,3459 Acworth Due West rd,Acworth,GA,30141,"3459 Acworth Due West rd, City, GA  30141",-84.6757126,34.0370943,street_address,rooftop,NA,Kennesaw,Cobb County
+Pelagie Foundation,P485,3459 Acworth Due West rd,Acworth,GA,30141,"3459 Acworth Due West rd, City, GA  30141",-84.6757126,34.0370943,street_address,rooftop,NA,Kennesaw,Cobb County
+Backpack Buddies of Georgia Inc.,P048,"2015 Hwy 154, Ste.101",Newnan,GA,30265,"2015 Hwy 154, Ste.101, City, GA  30265",-84.6732063,33.3860966,subpremise,rooftop,NA,Newnan,Coweta County
+Lakeview Seventh- Day Adventist Church,P349,4001 Macedonia Road,Powder Springs,GA,30127,"4001 Macedonia Road, City, GA  30127",-84.6713239,33.87436,street_address,rooftop,NA,Powder Springs,Cobb County
+Reflections of Trinity Inc.,P512,4037 Austell Powder Springs Rd.,Powder Springs,GA,30127,"4037 Austell Powder Springs Rd., City, GA  30127",-84.6697798,33.8559853,establishment,rooftop,NA,Powder Springs,Cobb County
+Palmetto Baptist Church,P478,504 Center Street,Palmetto,GA,30268,"504 Center Street, City, GA  30268",-84.6692842,33.5194529,premise,rooftop,NA,Palmetto,Fulton County
+Gift of Love Services of W. Georgia,P262,3900 Veterans Memorial Highway,Lithia Springs,GA,30122,"3900 Veterans Memorial Highway, City, GA  30122",-84.6674144,33.7927635,street_address,rooftop,NA,Lithia Springs,Douglas County
+"Chestnut Manor, Inc.",P097,8673 Chestnut Lane,Lithia Springs,GA,30122,"8673 Chestnut Lane, City, GA  30122",-84.6599069,33.7441694,premise,rooftop,NA,Lithia Springs,Douglas County
+Light of Hope & Love Ministries,P362,3117 Macedonia Ct.,Powder Springs,GA,30127,"3117 Macedonia Ct., City, GA  30127",-84.6444471,33.8749016,street_address,range_interpolated,NA,Powder Springs,Cobb County
+Sweetwater Mission Inc,P612,"6289 Veteran's Memorial Hwy.,Bldg.12A",Austell,GA,30168,"6289 Veteran's Memorial Hwy.,Bldg.12A, City, GA  30168",-84.6404368,33.8045698,establishment,rooftop,NA,Austell,Douglas County
+Cobb Vineyard /Vineyard Christian Fellow,P121,3206 Old Highway 41,Kennesaw,GA,30144,"3206 Old Highway 41, City, GA  30144",-84.6386338,34.0331538,premise,rooftop,NA,Kennesaw,Cobb County
+Hollydale UMC,P310,2364 Powder Springs Road,Marietta,GA,30064,"2364 Powder Springs Road, City, GA  30064",-84.6212451,33.8797017,street_address,range_interpolated,NA,Marietta,Cobb County
+Faith Christian Family Church-Child Care,P204,2555 Cobb Parkway NW,Kennesaw,GA,30152,"2555 Cobb Parkway NW, City, GA  30152",-84.6159012,34.016887,premise,rooftop,NA,Kennesaw,Cobb County
+Food Security For America - Walton Crossing,P238,1820 Mulkey Road,Austell,GA,30106,"1820 Mulkey Road, City, GA  30106",-84.6077667,33.8604812,street_address,rooftop,NA,Austell,Cobb County
+Parents With A Purpose Inc.-Walton Reserve,P480,7075 Walton Reserve Way,Austell,GA,30168,"7075 Walton Reserve Way, City, GA  30168",-84.6024831,33.7816036,street_address,rooftop,Walton Reserve Place,Austell,Cobb County
+Food Security For America - Walton Reserve,P240,7075 Walton Reserve Lane,Austell,GA,30168,"7075 Walton Reserve Lane, City, GA  30168",-84.602483,33.781604,establishment,rooftop,Walton Reserve Place,Austell,Cobb County
+Mt. Zion AME Church,P410,4163 Wade Green Road,Kennesaw,GA,30144,"4163 Wade Green Road, City, GA  30144",-84.595053,34.0521535,street_address,rooftop,NA,Kennesaw,Cobb County
+Highest Praise Church of God,P304,3771 Floyd Road,Austell,GA,30106,"3771 Floyd Road, City, GA  30106",-84.5939014,33.8628774,street_address,rooftop,NA,Austell,Cobb County
+Food Security For America - Walton Ridenour,P241,1425 Ridenour Boulevard,Kennesaw,GA,30152,"1425 Ridenour Boulevard, City, GA  30152",-84.5914124,33.993928,street_address,rooftop,NA,Kennesaw,Cobb County
+Margies House,P383,304 Fairburn Industrial Blvd.,Fairburn,GA,30213,"304 Fairburn Industrial Blvd., City, GA  30213",-84.589059,33.556121,street_address,rooftop,NA,Fairburn,Fulton County
+Feeding GA Families,P218,93 Howell Ave,Fairburn,GA,30213,"93 Howell Ave, City, GA  30213",-84.5866439,33.5572128,street_address,range_interpolated,NA,Fairburn,Fulton County
+Milford Baptist Church,P393,1030 Milford Church Road,Marietta,GA,30060,"1030 Milford Church Road, City, GA  30060",-84.5838722,33.8810676,premise,rooftop,NA,Marietta,Cobb County
+New Horizons in Faith Church,P431,81 West Campbellton Street,Fairburn,GA,30213,"81 West Campbellton Street, City, GA  30213",-84.5831563,33.5687429,premise,rooftop,NA,Fairburn,Fulton County
+New City Church Peachtree-City Bridges Food Pantry,P424,320 Dividend DR,Peachtree City,GA,30269,"320 Dividend DR, City, GA  30269",-84.5826447,33.381878,premise,rooftop,NA,Peachtree City,Fayette County
+First Baptist Church of Fairburn,P222,"23 Malone Street, SE",Fairburn,GA,30213,"23 Malone Street, SE, City, GA  30213",-84.5823992,33.5642391,premise,rooftop,NA,Fairburn,Fulton County
+FBCM Food Pantry-First Baptist Church of Mableton,P217,5385 Church St,Mableton,GA,30126,"5385 Church St, City, GA  30126",-84.581935,33.819965,point,manual,NA,Mableton,Cobb County
+KSU Foundation,P348,585 Cobb Ave NW,Kennesaw,GA,30144,"585 Cobb Ave NW, City, GA  30144",-84.5805988,34.0386409,premise,rooftop,Town Center,Kennesaw,Cobb County
+Grandview Seventh-day Adventist Church,P278,750 Lansky Werber Road,Austell,GA,30168,"750 Lansky Werber Road, City, GA  30168",-84.5768919,33.7741458,street_address,rooftop,NA,Austell,Cobb County
+Heritage Presbyterian Church,P301,5323 Bells Ferry Road,Acworth,GA,30102,"5323 Bells Ferry Road, City, GA  30102",-84.5747471,34.0798949,premise,rooftop,NA,Acworth,Cherokee County
+Vision for Souls Outreach Center Church,P669,6519 Factory Shoals Rd,Mableton,GA,30126,"6519 Factory Shoals Rd, City, GA  30126",-84.572025,33.795338,street_address,rooftop,NA,Mableton,Cobb County
+In His Image Ministry Day Care,P320,630 Kurt Drive,Marietta,GA,30008,"630 Kurt Drive, City, GA  30008",-84.5715104,33.9008035,street_address,rooftop,NA,Marietta,Cobb County
+"Forever Fed, Inc.",P245,4474 Towne Lake Parkway,Woodstock,GA,30189,"4474 Towne Lake Parkway, City, GA  30189",-84.570642,34.1299436,street_address,rooftop,NA,Woodstock,Cherokee County
+Pleasant Grove Missionary Bapt. Church,P493,566 Whitlock Avenue,Marietta,GA,30064,"566 Whitlock Avenue, City, GA  30064",-84.5694678,33.9525521,premise,rooftop,NA,Marietta,Cobb County
+Must Ministries Inc.- Marietta Program Services Ce,P412,1407 Cobb Pkwy N,Marietta,GA,30062,"1407 Cobb Pkwy N, City, GA  30062",-84.5691403,33.9851891,premise,rooftop,NA,Marietta,Cobb County
+Schaffer Road Church of Christ,P550,554 Schaffer Road,Marietta,GA,30060,"554 Schaffer Road, City, GA  30060",-84.5691338,33.8989496,street_address,rooftop,NA,Marietta,Cobb County
+Family Life Restoration Center Inc.,P213,6105 Mableton Parkway,Mableton,GA,30126,"6105 Mableton Parkway, City, GA  30126",-84.568322,33.805079,street_address,rooftop,NA,Mableton,Cobb County
+South Fulton Community Coalition,P577,5650 Byrd Road,Union City,GA,30291,"5650 Byrd Road, City, GA  30291",-84.565047,33.576161,street_address,rooftop,NA,Union City,Fulton County
+Words Of Faith AME Church,P687,5719 Garner Road,Mableton,GA,30126,"5719 Garner Road, City, GA  30126",-84.5632875,33.8138607,premise,rooftop,NA,Mableton,Cobb County
+Woodstock Christian Church,P683,7700 Highway 92,Woodstock,GA,30189,"7700 Highway 92, City, GA  30189",-84.5604294,34.0836246,street_address,rooftop,NA,Woodstock,Cherokee County
+Maximum Impact Love Inc.,P384,5315 Tulane Dr SW,Atlanta,GA,30336,"5315 Tulane Dr SW, City, GA  30336",-84.560345,33.75063,street_address,rooftop,NA,Atlanta,Fulton County
+MUST Ministries-Save It Forward,P413,1280 Field Parkway,Marietta,GA,30066,"1280 Field Parkway, City, GA  30066",-84.5602994,33.9835837,premise,rooftop,NA,Marietta,Cobb County
+Food Security For America - Walton Legacy,P239,1570 Roberta Drive SW,Marietta,GA,30008,"1570 Roberta Drive SW, City, GA  30008",-84.558599,33.913677,street_address,rooftop,NA,Marietta,Cobb County
+Food Security For America - Walton Village,P242,"1570 Roberta Drive, SW",Marietta,GA,30008,"1570 Roberta Drive, SW, City, GA  30008",-84.558599,33.913677,street_address,rooftop,NA,Marietta,Cobb County
+Sheltering Arms - Cobb,P561,1585 Roberta Dr.,Marietta,GA,30008,"1585 Roberta Dr., City, GA  30008",-84.5564925,33.9142342,premise,rooftop,NA,Marietta,Cobb County
+SVDP St. Joseph Church,P606,87 Lacy Street,Marietta,GA,30060,"87 Lacy Street, City, GA  30060",-84.5539134,33.9659353,premise,rooftop,NA,Marietta,Cobb County
+First United Methodist Church of Marietta,P234,56 Whitlock Ave NW,Marietta,GA,30064,"56 Whitlock Ave NW, City, GA  30064",-84.5530947,33.9528721,premise,rooftop,NA,Marietta,Cobb County
+Real Life Center-Braelinn,P511,220 Parkade Court,Peachtree City,GA,30269,"220 Parkade Court, City, GA  30269",-84.5526034,33.354085,premise,rooftop,NA,Peachtree City,Fayette County
+MUST-Elizabeth Inn Homeless Shelter,P414,55 Elizabeth Church Rd,Marietta`,GA,30062,"55 Elizabeth Church Rd, City, GA  30062",-84.5515799,33.9774246,premise,rooftop,NA,Marietta,Cobb County
+Norton Park Elementary,P463,"3041 Gray Rd, SE",Smyrna,GA,30082,"3041 Gray Rd, SE, City, GA  30082",-84.5500652,33.8801879,street_address,rooftop,NA,Smyrna,Cobb County
+Cornerstone Community Baptist Church,P147,"4895 Campbellton Road, SW",Atlanta,GA,30331,"4895 Campbellton Road, SW, City, GA  30331",-84.5461867,33.7027957,street_address,rooftop,Sandtown,Atlanta,Fulton County
+Salvation Army-Marietta Corps,P546,202 Waterman Street,Marietta,GA,30060,"202 Waterman Street, City, GA  30060",-84.5460528,33.9480444,premise,rooftop,NA,Marietta,Cobb County
+"Leap 2 Grow, Inc - Leapfrog Academy",P354,6400 Shannon Parkway,Union City,GA,30291,"6400 Shannon Parkway, City, GA  30291",-84.5406071,33.5789319,premise,rooftop,NA,Union City,Fulton County
+Greater Community Church of God in Christ,P280,406 Roswell Street,Marietta,GA,30065,"406 Roswell Street, City, GA  30065",-84.5402771,33.9500734,street_address,rooftop,NA,Marietta,Cobb County
+MUST Ministries Smyrna Program Services,P003,460 Pat Mell Rd SE,Smyrna,GA,30080,"460 Pat Mell Rd SE, City, GA  30080",-84.5397063,33.9017617,premise,rooftop,NA,Smyrna,Cobb County
+Turner Hill Community Development,P655,527 Lawrence Street,Marietta,GA,30060,"527 Lawrence Street, City, GA  30060",-84.5368603,33.9533047,premise,rooftop,NA,Marietta,Cobb County
+Anointed Living in Victory Empowered Christian Cen,P032,102 S Fairground St SE,Marietta,GA,30060,"102 S Fairground St SE, City, GA  30060",-84.5364303,33.9493121,street_address,rooftop,NA,Marietta,Cobb County
+First Christian Church of Marietta,P225,569 Frasier Street,Marietta,GA,30060,"569 Frasier Street, City, GA  30060",-84.5361027,33.9473868,premise,rooftop,NA,Marietta,Cobb County
+Storehouse Ministries,P600,1348 Canton Road,Marietta,GA,30066,"1348 Canton Road, City, GA  30066",-84.5360253,33.9837796,street_address,range_interpolated,NA,Marietta,Cobb County
+Green Acres Elementary,P285,2000 Gober Ave SE,Smyrna,GA,30080,"2000 Gober Ave SE, City, GA  30080",-84.5357342,33.904497,premise,rooftop,NA,Smyrna,Cobb County
+Kingdom of Christ Church Ministries Inc.,P345,4485 Fulton Industrial Blvd Sw,Atlanta,GA,30336,"4485 Fulton Industrial Blvd Sw, City, GA  30336",-84.5352428,33.7635957,premise,rooftop,NA,Atlanta,Fulton County
+Providence Community Baptist Church,P498,38 Austin Avenue,Marietta,GA,30060,"38 Austin Avenue, City, GA  30060",-84.5328074,33.9517066,street_address,rooftop,NA,Marietta,Cobb County
+Jubilee Church of Atlanta Inc.,P338,260 Parkway 575,Woodstock,GA,30188,"260 Parkway 575, City, GA  30188",-84.5305332,34.0886922,premise,rooftop,NA,Woodstock,Cherokee County
+Shiloh Seventh Day Adventist Church,P565,810 Church Street,Smyrna,GA,30080,"810 Church Street, City, GA  30080",-84.529796,33.880117,premise,rooftop,NA,Smyrna,Cobb County
+Never Alone Inc,P419,291 Rope Mill Road,Woodstock,GA,30188,"291 Rope Mill Road, City, GA  30188",-84.5292431,34.1156662,premise,rooftop,NA,Woodstock,Cherokee County
+Sheltering Grace Ministry Ltd.,P564,797 Roswell Street,Marietta,GA,30060,"797 Roswell Street, City, GA  30060",-84.5288611,33.951043,street_address,rooftop,NA,Marietta,Cobb County
+Grace Community Fellowship Church,P276,4215 Wendell Drive / Suites E & F,Atlanta,GA,30336,"4215 Wendell Drive / Suites E & F, City, GA  30336",-84.5251071,33.769502,church,rooftop,NA,Atlanta,Fulton County
+Ben Hill - Tri-Cities Food Co-op - Jesus Place ICM,P051,4099 Sunset Drive,Atlanta,GA,30331,"4099 Sunset Drive, City, GA  30331",-84.5231778,33.6982321,street_address,rooftop,Ben Hill Terrace,Atlanta,Fulton County
+"Center for Family Resources, Inc.",P088,995 Roswell Street NE Suite 100,Marietta,GA,30060,"995 Roswell Street NE Suite 100, City, GA  30060",-84.52312,33.951718,subpremise,rooftop,NA,Marietta,Cobb County
+Sheltering Arms-Marietta,P563,995 Roswell Street,Marietta,GA,30060,"995 Roswell Street, City, GA  30060",-84.52312,33.951718,premise,rooftop,NA,Marietta,Cobb County
+Life Learning Community Center,P358,1083 Allgood Road,Marietta,GA,30062,"1083 Allgood Road, City, GA  30062",-84.5227253,33.9781083,street_address,rooftop,NA,Marietta,Cobb County
+SVDP St. Thomas,P608,4300 King Springs Road,Smyrna,GA,30080,"4300 King Springs Road, City, GA  30080",-84.5218093,33.8492928,premise,rooftop,NA,Smyrna,Cobb County
+"Quality Living Services, INC",P501,"4001 Danforth Rd., SW",Atlanta,GA,30331,"4001 Danforth Rd., SW, City, GA  30331",-84.5196383,33.726651,premise,rooftop,NA,Atlanta,Fulton County
+American Legion Post 160,P028,160 Legion Drive,Smyrna,GA,30080,"160 Legion Drive, City, GA  30080",-84.5184914,33.8763994,premise,rooftop,NA,Smyrna,Cobb County
+Second Chance For Success,P554,"1184 Concord Rd. SE, STE 5",Smyrna,GA,30080,"1184 Concord Rd. SE, STE 5, City, GA  30080",-84.5183685,33.876959,subpremise,rooftop,NA,Smyrna,Cobb County
+Christian City Home for Children,P103,7501 Red Oak Rd,Union City,GA,30291,"7501 Red Oak Rd, City, GA  30291",-84.514729,33.5555811,street_address,rooftop,NA,Union City,Fulton County
+Agape Behavioral Healthcare,P021,3830 Old Gordon Rd,Atlanta,GA,30336,"3830 Old Gordon Rd, City, GA  30336",-84.5143186,33.7697298,street_address,rooftop,Old Gordon,Atlanta,Fulton County
+Adamsville Elementary,P018,"286 Wilson Mill Rd., SW",Atlanta,GA,30331-4199,"286 Wilson Mill Rd., SW, City, GA  30331-4199",-84.5135756,33.7546728,premise,rooftop,Wisteria Gardens,Atlanta,Fulton County
+"Leap 2 Grow, Inc - Leapfrog Early Learning Academy",P355,3740 Flat Shoals Road,Union City,GA,30291,"3740 Flat Shoals Road, City, GA  30291",-84.5116912,33.5836716,premise,rooftop,NA,Union City,Fulton County
+Dorthy Helping Hands,P180,3724 Martin Luther King Jr. Dr. SW,Atlanta,GA,30331,"3724 Martin Luther King Jr. Dr. SW, City, GA  30331",-84.5107899,33.7638614,premise,rooftop,Adamsville,Atlanta,Fulton County
+Ben Hill United Methodist Church,P052,2099 Fairburn Road SW,Atlanta,GA,30331,"2099 Fairburn Road SW, City, GA  30331",-84.5103802,33.6979413,premise,rooftop,NA,Atlanta,Fulton County
+Dorothy's Helping Hands Inc,P179,2685 Barge Road,Atlanta,GA,30331,"2685 Barge Road, City, GA  30331",-84.5066724,33.6810764,premise,rooftop,Ben Hill Pines,Atlanta,Fulton County
+Adamsville Green Senior Apartments,P019,3537 Martin Luther King Jr. Dr.,Atlanta,GA,30331,"3537 Martin Luther King Jr. Dr., City, GA  30331",-84.5025957,33.7589718,premise,rooftop,Adamsville,Atlanta,Fulton County
+New City Church Fairburn-City Bridges Food Pantry,P423,3355 Old Jonesboro Road,Fairburn,GA,30213,"3355 Old Jonesboro Road, City, GA  30213",-84.5019782,33.5540752,street_address,rooftop,NA,Fairburn,Fulton County
+"S.R.T.,INC.",P535,534 Fairburn Road,Atlanta,GA,30331,"534 Fairburn Road, City, GA  30331",-84.501327,33.770332,street_address,rooftop,Fairburn Heights,Atlanta,Fulton County
+Fain Elementary,P201,101 Hemphill School rd NW,Atlanta,GA,30331,"101 Hemphill School rd NW, City, GA  30331",-84.5005941,33.7588249,street_address,rooftop,Oakcliff,Atlanta,Fulton County
+Greater St. Stephen Ministries  dba Changing SW,P283,3350 Greenbriar Pkwy SW,Atlanta,GA,30331,"3350 Greenbriar Pkwy SW, City, GA  30331",-84.4988669,33.6832774,premise,rooftop,Greenbriar,Atlanta,Fulton County
+Harper-Archer Middle,P292,"3399 Collier Dr, NW",Atlanta,GA,30331,"3399 Collier Dr, NW, City, GA  30331",-84.4987545,33.7695811,street_address,rooftop,Fairburn Heights,Atlanta,Fulton County
+"Carrie Steele-Pitts Home, Inc.",P079,"667 Fairburn Road, NW",Atlanta,GA,30331,"667 Fairburn Road, NW, City, GA  30331",-84.4981703,33.7721766,premise,rooftop,Fairburn Heights,Atlanta,Fulton County
+Ashbury Harris Epworth Towers,P038,3033 Continental Colony Parkway  SW,Atlanta,GA,30331,"3033 Continental Colony Parkway  SW, City, GA  30331",-84.494892,33.6827088,premise,rooftop,Greenbriar,Atlanta,Fulton County
+"Concerned Citizens of Atlanta, Inc.",P139,3201 M.L.K. Jr Dr SW,Atlanta,GA,30311,"3201 M.L.K. Jr Dr SW, City, GA  30311",-84.4918471,33.7541215,street_address,rooftop,NA,Atlanta,Fulton County
+Keepers Movement Inc. DBA K.E.P.T OUTREACH MIN.,P341,4504 Wasington Rd,College Park,GA,30349,"4504 Wasington Rd, City, GA  30349",-84.4916945,33.6331592,street_address,rooftop,NA,Atlanta,Fulton County
+Cascade United Methodist Church,P083,3144 Cascade Road SW,Atlanta,GA,30311,"3144 Cascade Road SW, City, GA  30311",-84.4914906,33.7195239,premise,rooftop,Cascade Heights,Atlanta,Fulton County
+Life Tools Community Development Corp.-Atlanta,P360,4330 Washington Rd,Atlanta,GA,30344,"4330 Washington Rd, City, GA  30344",-84.4911674,33.6379685,street_address,rooftop,NA,Atlanta,Fulton County
+Emma's Place Inc.,P193,4790 Yates Rd,College Park,GA,30337,"4790 Yates Rd, City, GA  30337",-84.4871049,33.6262591,premise,rooftop,NA,College Park,Fulton County
+Coretta Scott King Academy,P146,"1190 Northwest Dr, NW",Atlanta,GA,30318,"1190 Northwest Dr, NW, City, GA  30318",-84.4828304,33.790332,street_address,rooftop,Brookview Heights,Atlanta,Fulton County
+"Landing Tracts for Advanced Living, Inc.",P350,2865 Donald Lee Hollowell Pkwy NW,Atlanta,GA,30318,"2865 Donald Lee Hollowell Pkwy NW, City, GA  30318",-84.4813673,33.7810858,premise,rooftop,Brookview Heights,Atlanta,Fulton County
+Rainbow Housing at Seven Courts,P509,2800 Martin Luther King Blvd. SW,Atlanta,GA,30311,"2800 Martin Luther King Blvd. SW, City, GA  30311",-84.478873,33.753839,street_address,rooftop,Harland Terrace,Atlanta,Fulton County
+St Paul's Outreach Center-Food Pantry,P585,365 Peyton Rd.,Atlanta,GA,30311,"365 Peyton Rd., City, GA  30311",-84.4787234,33.7462673,premise,rooftop,Peyton Forest,Atlanta,Fulton County
+Synergy Test Agency,P613,new test phys 2,Social Circle,GA,30312,"new test phys 2, City, GA  30312",-84.4778699,33.8597582,establishment,rooftop,Cumberland,Atlanta,Cobb County
+Gods Promise Ministries/Avalon Park Apt.,P270,2798 Peek Rd NW,Atlanta,GA,30318,"2798 Peek Rd NW, City, GA  30318",-84.4775414,33.7762993,street_address,rooftop,Collier Heights,Atlanta,Fulton County
+A. D. Williams Elementary,P006,1065 Wilkes Cir NW,Atlanta,GA,30318,"1065 Wilkes Cir NW, City, GA  30318",-84.4773802,33.7851697,street_address,rooftop,Brookview Heights,Atlanta,Fulton County
+Travelers' Aid of Metro Inc.,P649,180 Peyton Place SW,Atlanta,GA,30311,"180 Peyton Place SW, City, GA  30311",-84.4748703,33.7495579,street_address,rooftop,Harland Terrace,Atlanta,Fulton County
+St. Michael the Archangel,P590,490 Arnold Mill Road,Woodstock,GA,30188,"490 Arnold Mill Road, City, GA  30188",-84.4730854,34.1170594,street_address,rooftop,NA,Woodstock,Cherokee County
+Scott Elementary,P551,1752 Hollywood Rd,Atlanta,GA,30318,"1752 Hollywood Rd, City, GA  30318",-84.471701,33.803378,street_address,rooftop,Scotts Crossing,Atlanta,Fulton County
+World Changers Church International,P688,2500 Burdette Road,College Park,GA,30349,"2500 Burdette Road, City, GA  30349",-84.4715311,33.5943139,street_address,rooftop,NA,College Park,Fulton County
+Heart of Christ Church Inc.,P295,2459 Roosevelt Hwy,College Park,GA,30337,"2459 Roosevelt Hwy, City, GA  30337",-84.470921,33.631623,street_address,rooftop,NA,Atlanta,Fulton County
+New Life Presbyterian-Inez Wagner Food,P436,6600 Old National Highway,College Park,GA,30349,"6600 Old National Highway, City, GA  30349",-84.4698893,33.574751,premise,rooftop,NA,Atlanta,Fulton County
+Berean Seventh-day Adventist Church,P054,291 Hamilton E. Holmes Drive NW,Atlanta,GA,30318,"291 Hamilton E. Holmes Drive NW, City, GA  30318",-84.469533,33.763029,street_address,rooftop,Center Hill,Atlanta,Fulton County
+Frederick Douglas High,P248,"225 Hamilton E Holmes Dr, NW",Atlanta,GA,30318,"225 Hamilton E Holmes Dr, NW, City, GA  30318",-84.4694881,33.7607365,street_address,rooftop,Center Hill,Atlanta,Fulton County
+Collins Memorial UMC,P122,2220 Bolton Road,Atlanta,GA,30318,"2220 Bolton Road, City, GA  30318",-84.465951,33.8164128,street_address,rooftop,Bolton,Atlanta,Fulton County
+Its Your Health Inc.,P329,2295 Benjamin E Mays Dr SW,Atlanta,GA,30311,"2295 Benjamin E Mays Dr SW, City, GA  30311",-84.4637467,33.723213,street_address,rooftop,Cascade Road,Atlanta,Fulton County
+Providence Missionary Baptist Church,P500,"2295 Benjamin E. Mays Dr., SW",Atlanta,GA,30311,"2295 Benjamin E. Mays Dr., SW, City, GA  30311",-84.4637467,33.723213,street_address,rooftop,Cascade Road,Atlanta,Fulton County
+Sunshine Community Brotherhood Foundation-Atlanta,P603,2283 Baker Rd NW,Atlanta,GA,30318,"2283 Baker Rd NW, City, GA  30318",-84.4629194,33.7704285,premise,rooftop,Center Hill,Atlanta,Fulton County
+Metro YMCA SW Branch,P390,2220 Campbellton Rd. SW,Atlanta,GA,30311,"2220 Campbellton Rd. SW, City, GA  30311",-84.4616483,33.7044344,premise,rooftop,Campbellton Road,Atlanta,Fulton County
+Families United Services,P210,500 West Lanier Avenue,Fayetteville,GA,30214,"500 West Lanier Avenue, City, GA  30214",-84.4616073,33.4455921,premise,rooftop,NA,Fayetteville,Fayette County
+Timothy Lutheran Ch-Timothy's Cupboard,P645,556 Arnold Mill Road,Woodstock,GA,30188,"556 Arnold Mill Road, City, GA  30188",-84.4598415,34.1149384,street_address,rooftop,NA,Woodstock,Cherokee County
+Timothy Lutheran-Cartersville pickup,P646,556 Arnold Mill Road,Woodstock,GA,30188,"556 Arnold Mill Road, City, GA  30188",-84.4598415,34.1149384,street_address,rooftop,NA,Woodstock,Cherokee County
+Gate City Day Nursery Assoc- Campbellton,P256,2035 Campbellton Rd SW,Atlanta,GA,30311,"2035 Campbellton Rd SW, City, GA  30311",-84.4553745,33.7075929,premise,rooftop,Venetian Hills,Atlanta,Fulton County
+Veronica Mounts Ministry-Land Of Promise,P665,2075 Princeton Avenue,College Park,GA,30337,"2075 Princeton Avenue, City, GA  30337",-84.4553554,33.6546152,street_address,range_interpolated,NA,College Park,Fulton County
+Gate City Day Nursery Assoc.-Cascade,P257,2080 Cascade RD SW,Atlanta,GA,30311,"2080 Cascade RD SW, City, GA  30311",-84.4552515,33.7210391,premise,rooftop,Adams Park,Atlanta,Fulton County
+Making A Way Housing Inc.,P381,377 Westchester Blvd.,Atlanta,GA,30314,"377 Westchester Blvd., City, GA  30314",-84.4528936,33.7656064,premise,rooftop,Grove Park,Atlanta,Fulton County
+Favor House Inc.,P216,1926 John Calvin Ave,College Park,GA,30337,"1926 John Calvin Ave, City, GA  30337",-84.4521964,33.6579147,premise,rooftop,NA,College Park,Fulton County
+Boyd Elementary,P063,1891 Johnson Rd NW,Atlanta,GA,30318,"1891 Johnson Rd NW, City, GA  30318",-84.4494955,33.7862516,street_address,rooftop,Rockdale,Atlanta,Fulton County
+Providence Baptist Church S. Atlanta,P497,1773 Hawthorne Avenue,College Park,GA,30337,"1773 Hawthorne Avenue, City, GA  30337",-84.4473581,33.6573288,premise,rooftop,NA,College Park,Fulton County
+KIPP Atlanta Collegiate,P346,"98 Anderson Ave, SW",Atlanta,GA,30314,"98 Anderson Ave, SW, City, GA  30314",-84.446074,33.7519897,street_address,range_interpolated,Penelope Neighbors,Atlanta,Fulton County
+Metro Atlanta Urban Farm in College Park Inc.,P389,3271 Main St.,College Park,GA,30337,"3271 Main St., City, GA  30337",-84.445237,33.6668091,street_address,rooftop,NA,East Point,Fulton County
+East Point Church of the Nazarene,P187,2736 Cheney Street,East Point,GA,30344,"2736 Cheney Street, City, GA  30344",-84.4448553,33.6806255,premise,rooftop,Frog Hollow,Atlanta,Fulton County
+Woodson Park Academy,P681,20 Evelyn Way NW,Atlanta,GA,30318,"20 Evelyn Way NW, City, GA  30318",-84.4438706,33.7719483,street_address,rooftop,Grove Park,Atlanta,Fulton County
+Woodson Park Elementary,P682,"20 Evelyn Way, NW",Atlatna,GA,30318,"20 Evelyn Way, NW, City, GA  30318",-84.4438706,33.7719483,street_address,rooftop,Grove Park,Atlanta,Fulton County
+Paradise Missionary Baptist Church,P479,1711 Donald L. Hollowell Parkway,Atlanta,GA,30318,"1711 Donald L. Hollowell Parkway, City, GA  30318",-84.4435379,33.7738593,church,rooftop,Grove Park,Atlanta,Fulton County
+East Point First Mallalieu UMC,P188,2651 Church Street,East Point,GA,30344,"2651 Church Street, City, GA  30344",-84.4423328,33.6830598,premise,rooftop,Frog Hollow,East Point,Fulton County
+Teens at Work,P615,1622 Ware Ave.,East Point,GA,30344,"1622 Ware Ave., City, GA  30344",-84.4419842,33.681803,premise,rooftop,Downtown,Atlanta,Fulton County
+"Saint Peter Ministries, Inc. - Feed the Community",P537,1558 Venetian Drive SW,Atlanta,GA,30311,"1558 Venetian Drive SW, City, GA  30311",-84.4402992,33.71421,street_address,rooftop,Venetian Hills,Atlanta,Fulton County
+Ye Visited Me Ministries/ Fragments Food Pantry,P691,110 Evergreen Road,Canton,GA,30114,"110 Evergreen Road, City, GA  30114",-84.4394492,34.2830373,street_address,range_interpolated,NA,Canton,Cherokee County
+Covenant House Georgia,P151,1559 Johnson Rd. NW,Atlanta,GA,30318,"1559 Johnson Rd. NW, City, GA  30318",-84.4379877,33.7882303,street_address,rooftop,Rockdale,Atlanta,Fulton County
+My Sister's Keeper,P415,7431 Petunia Drive,Riverdale,GA,30296,"7431 Petunia Drive, City, GA  30296",-84.4379644,33.552895,premise,rooftop,NA,Riverdale,Clayton County
+Calvary United Methodist Church,P075,"1471 Ralph D. Abernathy Blvd., SW",Atlanta,GA,30310,"1471 Ralph D. Abernathy Blvd., SW, City, GA  30310",-84.4357699,33.7418831,street_address,rooftop,Westview,Atlanta,Fulton County
+Action Ministries- Feed the Hungry Newton,P011,2160 Hills Ave,Atlanta,GA,30318,"2160 Hills Ave, City, GA  30318",-84.4330147,33.8169537,street_address,rooftop,Buckhead,Atlanta,Fulton County
+Action Ministries- Feed the Hungry-Douglas,P012,2160 Hills Ave Suite F,Atlanta,GA,30318,"2160 Hills Ave Suite F, City, GA  30318",-84.4330147,33.8169537,subpremise,rooftop,Buckhead,Atlanta,Fulton County
+Action Ministries-Cobb,P013,2160 Hills Ave,Atlanta,GA,30318,"2160 Hills Ave, City, GA  30318",-84.4330147,33.8169537,street_address,rooftop,Buckhead,Atlanta,Fulton County
+Action Ministries-Feed the Hungry,P014,2160 Hills Ave Suite F,Atlanta,GA,30318,"2160 Hills Ave Suite F, City, GA  30318",-84.4330147,33.8169537,subpremise,rooftop,Buckhead,Atlanta,Fulton County
+Action Ministries-Gwinnett,P015,2160 Hills Ave,Atlanta,GA,30318,"2160 Hills Ave, City, GA  30318",-84.4330147,33.8169537,street_address,rooftop,Buckhead,Atlanta,Fulton County
+"The Pathway Home Foundation, Inc-Fayette",P631,101 Kenwood Rd #50,Fayetteville,GA,30214,"101 Kenwood Rd #50, City, GA  30214",-84.4317508,33.5123525,subpremise,rooftop,NA,Fayetteville,Fayette County
+Sanctified Mt. Zion Church,P548,1324 Eason Street NW,Atlanta,GA,30314,"1324 Eason Street NW, City, GA  30314",-84.4307036,33.7581257,premise,rooftop,Hunter Hills,Atlanta,Fulton County
+"City of Refuge, Inc. 180 Kitchen",P111,1300 Joseph E. Boone Blvd,Atlanta,GA,30318,"1300 Joseph E. Boone Blvd, City, GA  30318",-84.4305997,33.7622814,street_address,rooftop,Hunter Hills,Atlanta,Fulton County
+Atlanta Harm Reduction Coalition,P043,1233 Joseph E Boone Blvd,Atlanta,GA,30314,"1233 Joseph E Boone Blvd, City, GA  30314",-84.4282453,33.7639146,street_address,range_interpolated,Hunter Hills,Atlanta,Fulton County
+Seeds of Love Foster Resources Center,P555,1249 Donald Lee Hollowell Pkwy,Atlanta,GA,30318,"1249 Donald Lee Hollowell Pkwy, City, GA  30318",-84.4281838,33.7737531,street_address,rooftop,Knight Park/Howell Station,Atlanta,Fulton County
+West End SDA - WE-Serve Community Outreach,P675,1191 Donnelly Avenue,Atlanta,GA,30310,"1191 Donnelly Avenue, City, GA  30310",-84.4269908,33.7336539,premise,rooftop,West End,Atlanta,Fulton County
+Gilmer Community Food Pantry,P263,5273 Hwy. 52 E,Ellijay,GA,30536,"5273 Hwy. 52 E, City, GA  30536",-84.4256984,34.6523132,premise,rooftop,NA,Ellijay,Gilmer County
+Cathedral of Faith Church,P084,1137 Avon Avenue,Atlanta,GA,30310,"1137 Avon Avenue, City, GA  30310",-84.4256969,33.7226007,street_address,rooftop,Oakland City,Atlanta,Fulton County
+"New Day Church of the Nazarene, Inc",P425,8561 Ga. Hwy 85,Riverdale,GA,30296,"8561 Ga. Hwy 85, City, GA  30296",-84.4253367,33.5219119,street_address,rooftop,NA,Riverdale,Clayton County
+YMCA-Carl E. Sanders at Buckhead,P693,1160 Moores Mill Rd.,Atlanta,GA,30327,"1160 Moores Mill Rd., City, GA  30327",-84.424826,33.8314093,street_address,rooftop,Brandon,Atlanta,Fulton County
+Community Friendship - Phoenix House,P132,1296 Murphy Ave.,Atlanta,GA,30310,"1296 Murphy Ave., City, GA  30310",-84.4234008,33.7195855,premise,rooftop,Capitol View,Atlanta,Fulton County
+Sound Landing Inc,P573,"410 Temple Street NW, Apt 5",Atlanta,GA,30314,"410 Temple Street NW, Apt 5, City, GA  30314",-84.422293,33.7657087,subpremise,rooftop,Bankhead,Atlanta,Fulton County
+M. Agnes Jones Elementary,P380,"1040 Fair St, NW",Atlanta,GA,30314,"1040 Fair St, NW, City, GA  30314",-84.421616,33.7487739,premise,rooftop,Ashview Heights,Atlanta,Fulton County
+Southwest Ecumenical Emergency Assistanc,P582,1040 Ralph David Abernathy Blvd SW,Atlanta,GA,30310,"1040 Ralph David Abernathy Blvd SW, City, GA  30310",-84.421616,33.7374592,street_address,rooftop,West End,Atlanta,Fulton County
+First Riverdale SDA Church,P231,8258 Thomas Rd.,Jonesboro,GA,30238,"8258 Thomas Rd., City, GA  30238",-84.4198829,33.5244451,street_address,rooftop,NA,Jonesboro,Clayton County
+Mission Agape Corp.,P395,953 Martin Luther King Jr Dr NW,Atlanta,GA,30314,"953 Martin Luther King Jr Dr NW, City, GA  30314",-84.4188144,33.7549344,street_address,range_interpolated,Washington Park,Atlanta,Fulton County
+ACFB Direct Distribution Through Nutrition,P009,732 Joseph E Lowery Blvd NW,Atlanta,GA,30318,"732 Joseph E Lowery Blvd NW, City, GA  30318",-84.4186617,33.7743982,premise,rooftop,Bankhead,Atlanta,Fulton County
+Seasonal Shopper,P553,732 Joseph E Lowery Blvd NW,A,GA,33018,"732 Joseph E Lowery Blvd NW, City, GA  33018",-84.4186617,33.7743982,premise,rooftop,Bankhead,Atlanta,Fulton County
+Atrium at Collegetown,P047,435 Joseph E. lowery Blvd. SE,Atlanta,GA,30310,"435 Joseph E. lowery Blvd. SE, City, GA  30310",-84.418152,33.7427453,street_address,rooftop,College Town at West End,Atlanta,Fulton County
+Church Street Elementary,P108,7013 Church St,Riverdale,GA,30274,"7013 Church St, City, GA  30274",-84.418077,33.563362,street_address,rooftop,NA,Riverdale,Clayton County
+Warren Memorial United Methodist Church,P672,181 Joseph E. Lowery Blvd SW,Atlanta,GA,30314,"181 Joseph E. Lowery Blvd SW, City, GA  30314",-84.4179641,33.749697,premise,rooftop,Ashview Heights,Atlanta,Fulton County
+Rice Memorial Presbyterian Church,P518,"1515 Brewer Blvd., SW",Atlanta,GA,30310,"1515 Brewer Blvd., SW, City, GA  30310",-84.4178,33.7133039,premise,rooftop,Sylvan Hills,Atlanta,Fulton County
+Community Food Center,P129,27 Joseph E Lowery Blvd NW,Atlanta,GA,30314,"27 Joseph E Lowery Blvd NW, City, GA  30314",-84.4174309,33.755438,street_address,rooftop,Vine City,Atlanta,Fulton County
+ACFB Distribution with Empty Stocking Fund,P010,915 Jefferson St NW,Atlanta,GA,30318,"915 Jefferson St NW, City, GA  30318",-84.4172722,33.7761916,street_address,range_interpolated,English Avenue,Atlanta,Fulton County
+Mt. Moriah Baptist Church,P407,200 Joseph E. Lowery Blvd SW,Atlanta,GA,30314,"200 Joseph E. Lowery Blvd SW, City, GA  30314",-84.4171229,33.7493761,premise,rooftop,Atlanta University Center,Atlanta,Fulton County
+Lindsay Street Baptist Church,P365,550 Lindsay Street NW,Atlanta,GA,30314,"550 Lindsay Street NW, City, GA  30314",-84.416757,33.769772,street_address,rooftop,English Avenue,Atlanta,Fulton County
+Jesus Set The Captives Free,P331,871 Dill Ave,Atlanta,GA,30310,"871 Dill Ave, City, GA  30310",-84.416569,33.7185591,premise,rooftop,Capitol View,Atlanta,Fulton County
+Quest Community Development,P502,878 Rock Street NW,Atlanta,GA,30314,"878 Rock Street NW, City, GA  30314",-84.4162612,33.7619558,premise,rooftop,Vine City,Atlanta,Fulton County
+Create Your Dreams,P156,887 West Marietta St NW,Atlanta,GA,30318,"887 West Marietta St NW, City, GA  30318",-84.4161997,33.7822913,premise,rooftop,English Avenue,Atlanta,Fulton County
+Trinity Towers,P652,2611 Springdale Rd. SW.,Atlanta,GA,30315,"2611 Springdale Rd. SW., City, GA  30315",-84.4157073,33.6832112,premise,rooftop,Perkerson Park,Atlanta,Fulton County
+"The Pathway Home Foundation, Inc",P630,6390 Church Street,Riverdale,GA,30274,"6390 Church Street, City, GA  30274",-84.41542,33.5810281,premise,rooftop,NA,Riverdale,Clayton County
+"North West Youth Power, Inc.",P459,815 Magnolia,Atlanta,GA,30314,"815 Magnolia, City, GA  30314",-84.4144027,33.7583048,street_address,rooftop,Vine City,Atlanta,Fulton County
+"CARES, Inc.",P077,89 Cares Drive,Jasper,GA,30143,"89 Cares Drive, City, GA  30143",-84.4138607,34.4573687,premise,rooftop,NA,Jasper,Pickens County
+People United for Change,P487,801 Joseph E. Boone Blvd NW,Atlanta,GA,30314,"801 Joseph E. Boone Blvd NW, City, GA  30314",-84.413635,33.763621,premise,rooftop,English Avenue,Atlanta,Fulton County
+Simpson St. Church of Christ,P568,800 Joseph E. Boone Blvd,Atlanta,GA,30314,"800 Joseph E. Boone Blvd, City, GA  30314",-84.4134093,33.7630234,premise,rooftop,Vine City,Atlanta,Fulton County
+Greater Bethany Baptist Church,P279,786 Thurmond Street,Atlanta,GA,30314,"786 Thurmond Street, City, GA  30314",-84.4132041,33.760273,premise,rooftop,Vine City,Atlanta,Fulton County
+"Hearts to Nourish Hope, Inc.",P296,640 Highway 138 SW,Riverdale,GA,30274,"640 Highway 138 SW, City, GA  30274",-84.411606,33.547012,point,manual,NA,Riverdale,Clayton County
+"Chris Kids, Inc.- At Promise",P099,740 Cameron Madison Alexander Blvd NW,Atlanta,GA,30318,"740 Cameron Madison Alexander Blvd NW, City, GA  30318",-84.4116036,33.7678146,premise,rooftop,English Avenue,Atlanta,Fulton County
+Hollis Innovation Academy,P309,"225 Griffin St, NW",Atlanta,GA,30314,"225 Griffin St, NW, City, GA  30314",-84.4111762,33.7607455,street_address,rooftop,Vine City,Atlanta,Fulton County
+Atlanta Union Mission-My Sister's House,P046,921 Howell Mill Rd.,Atlanta,GA,30318,"921 Howell Mill Rd., City, GA  30318",-84.4101673,33.7802351,premise,rooftop,Home Park,Atlanta,Fulton County
+Hutchinson Elementary,P317,"650 Cleveland Ave, SW",Atlanta,GA,30315,"650 Cleveland Ave, SW, City, GA  30315",-84.409839,33.6807254,street_address,rooftop,Hammond Park,Atlanta,Fulton County
+New Beginnings Praise and Worship Center,P420,1091 South Jeff Davis Drive,Fayetteville,GA,30215,"1091 South Jeff Davis Drive, City, GA  30215",-84.409163,33.425037,street_address,rooftop,NA,Fayetteville,Fayette County
+Christian Outreach Evangelistic Church,P104,6120 Highway 85,Riverdale,GA,30274,"6120 Highway 85, City, GA  30274",-84.4089286,33.5878558,street_address,rooftop,NA,Riverdale,Clayton County
+Family Life Ministries,P212,612 College St,Hapeville,GA,30354,"612 College St, City, GA  30354",-84.408708,33.656681,street_address,rooftop,NA,Hapeville,Fulton County
+"Essence of Hope, Inc.",P199,2031 Metropolitan Pkwy SW,Atlanta,GA,30315,"2031 Metropolitan Pkwy SW, City, GA  30315",-84.4081967,33.6987501,street_address,rooftop,Sylvan Hills,Atlanta,Fulton County
+Center Helping Obesity in Children End Successfull,P090,2805 Metropolitan PKWY SW,Atlanta,GA,30315,"2805 Metropolitan PKWY SW, City, GA  30315",-84.4081488,33.6787973,street_address,rooftop,Hammond Park,Atlanta,Fulton County
+Cosmopolitan AME Church,P148,170 Vine Street NW,Atlanta,GA,30314,"170 Vine Street NW, City, GA  30314",-84.407511,33.75955,street_address,rooftop,Vine City,Atlanta,Fulton County
+Salvation Army-Ray & Joan Kroc Corps Ctr,P547,967 Dewey Street SW,Atlanta,GA,30310,"967 Dewey Street SW, City, GA  30310",-84.407489,33.7289613,street_address,rooftop,Pittsburgh,Atlanta,Fulton County
+Joseph E Lowery Institute for Justice and Human Ri,P335,266 Lee Lane,Atlanta,GA,30314,"266 Lee Lane, City, GA  30314",-84.407433,33.751999,point,manual,NA,Atlanta,Fulton County
+Higher Ground Empowerment Center,P303,561 Spencer St. NW,Atlanta,GA,30314,"561 Spencer St. NW, City, GA  30314",-84.4056529,33.7603666,premise,rooftop,Vine City,Atlanta,Fulton County
+Kindezi at Gideons,P343,897 Welch St SW,Atlanta,GA,30310,"897 Welch St SW, City, GA  30310",-84.4056216,33.7308133,street_address,rooftop,Pittsburgh,Atlanta,Fulton County
+"Antioch Urban Ministries, Inc.",P034,540 CM Alexander Blvd. NW,Atlanta,GA,30318,"540 CM Alexander Blvd. NW, City, GA  30318",-84.405384,33.767839,church,rooftop,English Avenue,Atlanta,Fulton County
+Central United Methodist Church,P093,501 Mitchell Street SW,Atlanta,GA,30314,"501 Mitchell Street SW, City, GA  30314",-84.40383,33.7541244,street_address,rooftop,Atlanta University Center,Atlanta,Fulton County
+Pittsburgh Kingdom Doors Baptist Church Inc.,P490,884 Coleman St SW,Atlanta,GA,30310,"884 Coleman St SW, City, GA  30310",-84.4038265,33.7307582,premise,rooftop,Pittsburgh,Atlanta,Fulton County
+Friendship Tower Apartments,P252,35 Northside Drive SW,Atlanta,GA,30313,"35 Northside Drive SW, City, GA  30313",-84.4032267,33.7535032,street_address,rooftop,Atlanta University Center,Atlanta,Fulton County
+The King's Way Bapt Church DBA Atlanta City BRC,P628,316 Peters St.,Atlanta,GA,30313,"316 Peters St., City, GA  30313",-84.4030261,33.7459756,premise,rooftop,Castleberry Hill,Atlanta,Fulton County
+Salvation Army Adult Rehabilitation Ctr,P540,740 Marietta St,Atlanta,GA,30318,"740 Marietta St, City, GA  30318",-84.4026098,33.7725744,street_address,rooftop,Marietta Street Artery,Atlanta,Fulton County
+Dunbar Elementary,P182,"500 Whitehall Terrace, SW",Atlanta,GA,30312,"500 Whitehall Terrace, SW, City, GA  30312",-84.401286,33.7412855,street_address,rooftop,Mechanicsville,Atlanta,Fulton County
+Andrew P. Stewart Center,P029,987 Ira Street SW,Atlanta,GA,30310,"987 Ira Street SW, City, GA  30310",-84.4002146,33.7279833,premise,rooftop,Pittsburgh,Atlanta,Fulton County
+The Beloved Community Development Corporation,P622,"1113 Ira St SW,",Atlanta,GA,30310,"1113 Ira St SW,, City, GA  30310",-84.4002146,33.7244578,premise,rooftop,Pittsburgh,Atlanta,Fulton County
+Southside Springfield,P581,1094 Garibaldi Street,Atlanta,GA,30310,"1094 Garibaldi Street, City, GA  30310",-84.3990037,33.7249905,premise,rooftop,Pittsburgh,Atlanta,Fulton County
+Truly Living Well-Yo! Pittsburgh Food Co-Op,P654,1093 West Ave,Atlanta,GA,30315,"1093 West Ave, City, GA  30315",-84.3965061,33.7249218,street_address,rooftop,Pittsburgh,Atlanta,Fulton County
+ReNew Atlanta Corporation,P514,256 Memorial Dr SW,Atlanta,GA,30303,"256 Memorial Dr SW, City, GA  30303",-84.3961714,33.7465789,premise,rooftop,Downtown,Atlanta,Fulton County
+Salvation Army Red Shield,P541,469 Luckie Street NW,Atlanta,GA,30313-2099,"469 Luckie Street NW, City, GA  30313-2099",-84.3958355,33.7668431,street_address,rooftop,Downtown,Atlanta,Fulton County
+Arthur M. Blank Family Youth YMCA,P037,555 Luckie Street,Atlanta,GA,30313,"555 Luckie Street, City, GA  30313",-84.3954736,33.7703472,premise,rooftop,Downtown,Atlanta,Fulton County
+The  Genesis Mission,P618,1121 Fortress Ave.,Atlanta,GA,30315,"1121 Fortress Ave., City, GA  30315",-84.3947142,33.7241651,premise,rooftop,Pittsburgh,Atlanta,Fulton County
+Gateway Center,P258,275 Pryor St SW,Atlanta,GA,30303,"275 Pryor St SW, City, GA  30303",-84.3945705,33.7475942,premise,rooftop,Downtown,Atlanta,Fulton County
+Renaissance At Park Place,P513,240 Amal Dr. SW,Atlanta,GA,30315,"240 Amal Dr. SW, City, GA  30315",-84.394493,33.706543,street_address,rooftop,Betmar La Villa,Atlanta,Fulton County
+Atlanta Union Mission-Men-Shepherd's Inn,P045,156 Mills Street,Atlanta,GA,30313,"156 Mills Street, City, GA  30313",-84.3926495,33.7651624,street_address,rooftop,Downtown,Atlanta,Fulton County
+Hope House- Caring Works,P311,275 Washington Rd,Atlanta,GA,30303,"275 Washington Rd, City, GA  30303",-84.3911017,33.7472846,premise,rooftop,Downtown,Atlanta,Fulton County
+Shrine of the Immaculate Conception/St.F,P567,48 Martin Luther King Jr. Drive,Atlanta,GA,30303,"48 Martin Luther King Jr. Drive, City, GA  30303",-84.3896238,33.7504376,premise,rooftop,Downtown,Atlanta,Fulton County
+Central Outreach & Advocacy Center,P091,"201 Washington St., SW",Atlanta,GA,30303,"201 Washington St., SW, City, GA  30303",-84.3888304,33.7499044,street_address,rooftop,Downtown,Atlanta,Fulton County
+After School All Stars,P020,1 Park Place South,Atlanta,GA,30303,"1 Park Place South, City, GA  30303",-84.3887312,33.7543538,street_address,rooftop,Downtown,Atlanta,Fulton County
+Emmaus House,P194,1017 Hank Aaron Drive,Atlanta,GA,30315,"1017 Hank Aaron Drive, City, GA  30315",-84.3883512,33.7267927,premise,rooftop,Peoplestown,Atlanta,Fulton County
+"Communities in Schools of Atlanta,Inc.",P124,260 Peachtree St,Atlanta,GA,30303,"260 Peachtree St, City, GA  30303",-84.3879612,33.7615226,premise,rooftop,Downtown,Atlanta,Fulton County
+Midtown Assistance Center,P392,30 Porter Place NE,Atlanta,GA,30308,"30 Porter Place NE, City, GA  30308",-84.3867634,33.764486,street_address,rooftop,Downtown,Atlanta,Fulton County
+Caring for Others Inc,P078,3537 Browns Mill Road Suite 2,Atlanta,GA,30354,"3537 Browns Mill Road Suite 2, City, GA  30354",-84.3866474,33.6601216,subpremise,rooftop,Glenrose Heights,Atlanta,Fulton County
+"First Presbyterian Church, Atlanta",P230,1328 Peachtree Street,Atlanta,GA,30309,"1328 Peachtree Street, City, GA  30309",-84.3856084,33.7907208,street_address,rooftop,Midtown,Atlanta,Fulton County
+Georgia Avenue Co-op - Jonesboro Road,P260,1297 Jonesboro Road,Atlanta,GA,30315,"1297 Jonesboro Road, City, GA  30315",-84.3852157,33.7190564,street_address,rooftop,South Atlanta,Atlanta,Fulton County
+Atlanta Inner- City Ministry Inc,P044,"1966 Lakewood Terrace, SE",Atlanta,GA,30315,"1966 Lakewood Terrace, SE, City, GA  30315",-84.3849641,33.7016311,premise,rooftop,Lakewood Heights,Atlanta,Fulton County
+Community Friendship-Social Club,P133,"85 Renaissance Pkwy., NE",Atlanta,GA,30308,"85 Renaissance Pkwy., NE, City, GA  30308",-84.3846151,33.7683969,premise,rooftop,Downtown,Atlanta,Fulton County
+St. Luke's Episcopal Church - Crossroads,P589,420 Courtland Street NE,Atlanta,GA,30308,"420 Courtland Street NE, City, GA  30308",-84.3844099,33.7661254,premise,rooftop,Downtown,Atlanta,Fulton County
+Sandy Springs UMC,P549,86 Mt. Vernon Highway,Atlanta,GA,30328,"86 Mt. Vernon Highway, City, GA  30328",-84.3841381,33.9235597,street_address,rooftop,NA,Sandy Springs,Fulton County
+Mount Pleasant Baptist Church,P402,17 Meldon Avenue,Atlanta,GA,30315,"17 Meldon Avenue, City, GA  30315",-84.3838145,33.7116786,premise,rooftop,South Atlanta,Atlanta,Fulton County
+Maranatha Community Services Food Pantry,P382,2730 Brown Mill Road,Atlanta,GA,30354,"2730 Brown Mill Road, City, GA  30354",-84.3835682,33.6799715,premise,rooftop,Rosedale Heights,Atlanta,Fulton County
+D. H. Stanton Elementary,P162,"970 Martin St, SE",Atlanta,GA,30315,"970 Martin St, SE, City, GA  30315",-84.3826764,33.7281397,street_address,rooftop,Peoplestown,Atlanta,Fulton County
+Lutheran Towers,P379,727Juniper St. NE,Atlanta,GA,30308,"727Juniper St. NE, City, GA  30308",-84.3826649,33.774464,premise,rooftop,Midtown,Atlanta,Fulton County
+"Faith Open Door Community, Inc.",P207,259 Arrowhead Blvd,Jonesboro,GA,30236,"259 Arrowhead Blvd, City, GA  30236",-84.3823365,33.5762199,premise,rooftop,NA,Jonesboro,Clayton County
+Project Open Hand,P496,"176 Ottley Dr., NE",Atlanta,GA,30324,"176 Ottley Dr., NE, City, GA  30324",-84.3823365,33.8085482,premise,rooftop,Armour,Atlanta,Fulton County
+Word of God In Christ Full Gospel,P686,1401 Lakewood Avenue SE,Atlanta,GA,30315,"1401 Lakewood Avenue SE, City, GA  30315",-84.3817411,33.7160463,premise,rooftop,South Atlanta,Atlanta,Fulton County
+Butler St. CME Church,P070,23 Jesse Hill Drive SE,Atlanta,GA,30303,"23 Jesse Hill Drive SE, City, GA  30303",-84.3811231,33.7539492,street_address,rooftop,Downtown,Atlanta,Fulton County
+Greater Works Miss. Baptist Church,P284,285 Morrow Road,Forest Park,GA,30297,"285 Morrow Road, City, GA  30297",-84.3809405,33.5911516,premise,rooftop,NA,Forest Park,Clayton County
+Odyssey III- Community Concerns,P468,276 Decatur St.,Atlanta,GA,30312,"276 Decatur St., City, GA  30312",-84.3807762,33.749927,premise,rooftop,Sweet Auburn,Atlanta,Fulton County
+Brotherhood of the Cross and Star Central Bethel I,P068,345 Blair Villa Dr,Atlanta,GA,30354,"345 Blair Villa Dr, City, GA  30354",-84.3801193,33.6577783,premise,rooftop,Blair Villa/Poole Creek,Hapeville,Fulton County
+Living Faith Tabernacle,P368,5880 Old Dixie Road,Forrest Park,GA,30297,"5880 Old Dixie Road, City, GA  30297",-84.3777169,33.5963887,street_address,range_interpolated,NA,Forest Park,Clayton County
+Butler Street Baptist Church,P071,315 Ralph McGill Blvd. NE,Atlanta,GA,30312,"315 Ralph McGill Blvd. NE, City, GA  30312",-84.3774914,33.7637878,premise,rooftop,Old Fourth Ward,Atlanta,Fulton County
+Girls on the Run of Atlanta Inc.,P264,"1904 Monroe Dr NE Ste 100,",Atlanta,GA,30324,"1904 Monroe Dr NE Ste 100,, City, GA  30324",-84.3769165,33.8073449,subpremise,rooftop,Piedmont Heights,Atlanta,Fulton County
+Urban Recipe - Co-op #2,P662,645 Grant St. SE,Atlanta,GA,30312,"645 Grant St. SE, City, GA  30312",-84.3766702,33.7369467,premise,rooftop,Grant Park,Atlanta,Fulton County
+Urban Recipe- Co-op #1,P663,645 Grant Street,Atlanta,GA,30312,"645 Grant Street, City, GA  30312",-84.3766702,33.7369467,premise,rooftop,Grant Park,Atlanta,Fulton County
+Humphries Elementary,P316,"3029 Humphries Dr, SE",Atlanta,GA,30354,"3029 Humphries Dr, SE, City, GA  30354",-84.3761648,33.6719054,street_address,rooftop,Orchard Knob,Atlanta,Fulton County
+The Love of Giving Inc.,P629,512 Grant ST,Atlanta,GA,30312,"512 Grant ST, City, GA  30312",-84.3759516,33.7406348,premise,rooftop,Grant Park,Atlanta,Fulton County
+Wheat St. Bapt.-Action Mission Ministry,P678,359 Auburn Ave NE,Atlanta,GA,30312,"359 Auburn Ave NE, City, GA  30312",-84.3757248,33.7554122,street_address,rooftop,Sweet Auburn,Atlanta,Fulton County
+Rosaleana's Community Development Center Inc,P533,350 Schoen St SE,Atlanta,GA,30315,"350 Schoen St SE, City, GA  30315",-84.3756333,33.7043308,premise,rooftop,Lakewood Heights,Atlanta,Fulton County
+International Christian Fellowship,P321,3076 Humphries Drive SE,Atlanta,GA,30354,"3076 Humphries Drive SE, City, GA  30354",-84.3753511,33.6713208,street_address,range_interpolated,Orchard Knob,Atlanta,Fulton County
+Community Friendship - O'Hearn House,P131,16 William Holmes Borders Dr.,Atlanta,GA,30312,"16 William Holmes Borders Dr., City, GA  30312",-84.3751923,33.7539428,street_address,rooftop,Sweet Auburn,Atlanta,Fulton County
+Truly Living Well-Yo! Blvd Food Co-Op,P653,355 North Ave NE,Atlanta,GA,30308,"355 North Ave NE, City, GA  30308",-84.3751612,33.7708237,street_address,rooftop,Old Fourth Ward,Atlanta,Fulton County
+"P.E.A.C.E./Operation Peace, INC.",P477,366 Pine Street NE,Atlanta,GA,30308,"366 Pine Street NE, City, GA  30308",-84.374839,33.7682675,street_address,range_interpolated,Old Fourth Ward,Atlanta,Fulton County
+Ebenezer Baptist Church,P189,407 Auburn Avenue,Atlanta,GA,30312,"407 Auburn Avenue, City, GA  30312",-84.3742064,33.7551977,premise,rooftop,Sweet Auburn,Atlanta,Fulton County
+St. John Eastern Orthodox Church,P588,543 Cherokee Avenue SE,Atlanta,GA,30312,"543 Cherokee Avenue SE, City, GA  30312",-84.373968,33.739839,street_address,rooftop,Grant Park,Atlanta,Fulton County
+SVDP St. Philip Benizi Catholic Church,P607,591 Flint River Road,Jonesboro,GA,30238,"591 Flint River Road, City, GA  30238",-84.3730603,33.5193262,street_address,rooftop,NA,Jonesboro,Clayton County
+Community Support Services Inc.,P138,1422 Piedmont Ave NE,Atlanta,GA,30309,"1422 Piedmont Ave NE, City, GA  30309",-84.3728848,33.7937663,street_address,rooftop,Ansley Park,Atlanta,Fulton County
+Atlanta Center  for Self Sufficiency / Cafe 458,P041,458 Edgewood Avenue SE,Atlanta,GA,30312,"458 Edgewood Avenue SE, City, GA  30312",-84.3727011,33.7543963,street_address,rooftop,Sweet Auburn,Atlanta,Fulton County
+Dobbs Elementary,P178,"2025 Jonesboro Rd, SE",Atlanta,GA,30315,"2025 Jonesboro Rd, SE, City, GA  30315",-84.3723821,33.698284,street_address,rooftop,Lakewood,Atlanta,Fulton County
+Fort Street United Methodist Church,P246,562 Boulevard NE,Atlanta,GA,30308,"562 Boulevard NE, City, GA  30308",-84.3722195,33.7694733,street_address,rooftop,Old Fourth Ward,Atlanta,Fulton County
+Action Ministries-Women's Community Kitchen,P016,458 Ponce de Leon Ave NE,Atlanta,GA,30308,"458 Ponce de Leon Ave NE, City, GA  30308",-84.3719889,33.7738913,premise,rooftop,Midtown,Atlanta,Fulton County
+Our Lady of Lourdes Catholic Church,P474,29 Boulevard NE,Atlanta,GA,30312,"29 Boulevard NE, City, GA  30312",-84.3718246,33.7550023,premise,rooftop,Old Fourth Ward,Atlanta,Fulton County
+Youthserv360 Inc.,P694,4296 Hendrix Dr,Forest Park,GA,30297,"4296 Hendrix Dr, City, GA  30297",-84.3711388,33.6373807,street_address,range_interpolated,NA,Forest Park,Clayton County
+First Baptist- Forest Park,P224,634 Main Street,Forest Park,GA,30297,"634 Main Street, City, GA  30297",-84.3692754,33.6229643,premise,rooftop,NA,Forest Park,Clayton County
+Buckhead Christian Ministry,P069,2847 Piedmont Rd. NE,Atlanta,GA,30305,"2847 Piedmont Rd. NE, City, GA  30305",-84.3675331,33.8324618,premise,rooftop,Buckhead,Atlanta,Fulton County
+World Harvest Church-High Hope,P689,320 Hardscrabble Road,Roswell,GA,30075,"320 Hardscrabble Road, City, GA  30075",-84.3669377,34.0725972,premise,rooftop,NA,Roswell,Fulton County
+"New Life Tabernacle COGIC, Inc.",P437,715 Cleveland Avenue SE,Atlanta,GA,30354,"715 Cleveland Avenue SE, City, GA  30354",-84.3666059,33.6785183,street_address,rooftop,South River Gardens,Atlanta,Fulton County
+Restoration & Deliverance COGIC,P516,721  Morrow Rd.,Forest Park,GA,30297,"721  Morrow Rd., City, GA  30297",-84.3665336,33.5900829,street_address,rooftop,NA,Forest Park,Clayton County
+Benteen Elementary,P053,200 Cassanova St SE,Atlanta,GA,30315-4208,"200 Cassanova St SE, City, GA  30315-4208",-84.3646028,33.7163181,street_address,rooftop,Benteen,Atlanta,Fulton County
+Central Spanish S.D.A,P092,5241 Ash Street,Forest Park,GA,30297,"5241 Ash Street, City, GA  30297",-84.3641038,33.6115675,premise,rooftop,NA,Forest Park,Clayton County
+Lost-N-Found Youth Inc,P371,"729 Lambert Drive, NE",Atlanta,GA,30324,"729 Lambert Drive, NE, City, GA  30324",-84.3638069,33.8120873,street_address,rooftop,Lindridge-Martin Manor,Atlanta,Fulton County
+South Atlanta High,P575,800 Hutchens Rd SE,Atlanta,GA,30354,"800 Hutchens Rd SE, City, GA  30354",-84.3619385,33.6708384,street_address,rooftop,South River Gardens,Atlanta,Fulton County
+Reynoldstown Senior Residences,P517,695 Field St. SE,Atlanta,GA,30316,"695 Field St. SE, City, GA  30316",-84.3611467,33.7513829,premise,rooftop,Reynoldstown,Atlanta,Fulton County
+"Bible Way Ministries International, Inc.",P059,894 Constitution Rd SE,Atlanta,GA,30315,"894 Constitution Rd SE, City, GA  30315",-84.3605994,33.6937038,street_address,rooftop,Norwood Manor,Atlanta,Fulton County
+Pleasant Hill Missionary Baptist Church,P494,728 Bush Street,Roswell,GA,30075,"728 Bush Street, City, GA  30075",-84.3603047,34.018359,premise,rooftop,NA,Roswell,Fulton County
+Forest Park Elementary,P244,"930 Finely Dr,",Atlanta,GA,30297,"930 Finely Dr,, City, GA  30297",-84.3593394,33.6215469,premise,rooftop,NA,Forest Park,Clayton County
+Haitian Ministry Theophile Church in Chr,P289,930 Custer Avenue SE,Atlanta,GA,30316,"930 Custer Avenue SE, City, GA  30316",-84.35779,33.7174444,street_address,rooftop,Custer/McDonough/Guice,Atlanta,Fulton County
+Jonesboro First UMC Food Co Op,P334,142 South Main Street,Jonesboro,GA,30236,"142 South Main Street, City, GA  30236",-84.3553326,33.5195744,street_address,rooftop,NA,Jonesboro,Clayton County
+Thomasville Heights Elementary,P642,"1820 Henry Thomas Dr, SE",Atlanta,GA,30315,"1820 Henry Thomas Dr, SE, City, GA  30315",-84.3548373,33.7043013,street_address,rooftop,Thomasville Heights,Atlanta,Fulton County
+Intown Collaborative Ministries Inc,P327,1026 Ponce De Leon Ave. NE,Atlanta,GA,30306,"1026 Ponce De Leon Ave. NE, City, GA  30306",-84.3538352,33.7744553,street_address,rooftop,Virginia Highland,Atlanta,Fulton County
+Intown Collaborative Ministries,P323,1050 Ponce de Leon Ave NE,Atlanta,GA,30307,"1050 Ponce de Leon Ave NE, City, GA  30307",-84.353445,33.7743288,premise,rooftop,Virginia Highland,Atlanta,Fulton County
+Intown Collaborative Ministries,P324,1050 Ponce De Leon Ave NE,Atlanta,GA,30307,"1050 Ponce De Leon Ave NE, City, GA  30307",-84.353445,33.7743288,premise,rooftop,Virginia Highland,Atlanta,Fulton County
+South Atlanta Asian Community,P574,4917 Jonesboro Road,Forest Park,GA,30297,"4917 Jonesboro Road, City, GA  30297",-84.351961,33.6202241,street_address,range_interpolated,NA,Forest Park,Clayton County
+Andrews Chapel United Methodist Church,P030,122 Watterson Street,Jonesboro,GA,30236,"122 Watterson Street, City, GA  30236",-84.3517813,33.5252972,premise,rooftop,NA,Jonesboro,Clayton County
+Vietnamese Elder Association South,P667,1171 Main St.,Forrest Park,GA,30297,"1171 Main St., City, GA  30297",-84.351617,33.618145,premise,rooftop,NA,Forest Park,Clayton County
+Intown Collaborative Ministries Booth Towers CoOp1,P326,"1125 Ponce de Leon Avenue, NE",Atlanta,GA,30306,"1125 Ponce de Leon Avenue, NE, City, GA  30306",-84.3503024,33.7733369,premise,rooftop,Poncey-Highland,Atlanta,Fulton County
+Community Assistance Center,P126,1130 Hightower Trail,Sandy Springs,GA,30350,"1130 Hightower Trail, City, GA  30350",-84.3501381,33.988321,premise,rooftop,NA,Atlanta,Fulton County
+"The Providers, Inc.",P634,799 Moreland Ave SE.,Atlanta,GA,30316,"799 Moreland Ave SE., City, GA  30316",-84.3496657,33.7325606,premise,rooftop,Ormewood Park,Atlanta,Fulton County
+East Atlanta Kids Club,P184,602 Brownwood Avenue SE,Atlanta,GA,30316,"602 Brownwood Avenue SE, City, GA  30316",-84.3479392,33.7377778,street_address,rooftop,East Atlanta,Atlanta,DeKalb County
+Fulton Atlanta Community Action Authority,P253,1690 Chantilly Dr.,Atlanta,GA,30324,"1690 Chantilly Dr., City, GA  30324",-84.3473248,33.825064,street_address,rooftop,Lavista Park,Atlanta,DeKalb County
+Total Victory Worship,P648,1320 Rockcut Rd,Forest Park,GA,30297,"1320 Rockcut Rd, City, GA  30297",-84.3461942,33.6371547,premise,rooftop,NA,Forest Park,Clayton County
+Latin American Association,P351,2750 Buford Highway,Atlanta,GA,30324,"2750 Buford Highway, City, GA  30324",-84.346071,33.8290248,premise,rooftop,NA,Atlanta,DeKalb County
+Iskcon of Atlanta,P328,1287 S. Ponce de Leon Ave,Atlanta,GA,30306,"1287 S. Ponce de Leon Ave, City, GA  30306",-84.3451466,33.7734708,premise,rooftop,Druid Hills,Atlanta,DeKalb County
+Clayton Community Services Board,P118,1396 Southlake Plaza Drive,Morrow,GA,30260,"1396 Southlake Plaza Drive, City, GA  30260",-84.3450672,33.5783431,street_address,range_interpolated,NA,Morrow,Clayton County
+"Community Outreach In Action, Inc.",P136,7681 Southlake Parkway,Jonesboro,GA,30236,"7681 Southlake Parkway, City, GA  30236",-84.3437292,33.5450783,premise,rooftop,NA,Jonesboro,Clayton County
+ATL Projects,P039,6965 Commercial Drive,Morrow,GA,30260,"6965 Commercial Drive, City, GA  30260",-84.3420858,33.5648855,premise,rooftop,NA,Morrow,Clayton County
+Freedom Community Ministries Inc.,P249,6928 Commercial Dr,Morrow,GA,30260,"6928 Commercial Dr, City, GA  30260",-84.3410995,33.5661266,street_address,range_interpolated,NA,Morrow,Clayton County
+For His Brothers Food Pantry,P243,1600 Conley Road,Conley,GA,30288,"1600 Conley Road, City, GA  30288",-84.3374931,33.6475321,street_address,rooftop,NA,Conley,DeKalb County
+Woodward Elementary,P684,3034 Curtis Dr NE,Atlanta,GA,30319,"3034 Curtis Dr NE, City, GA  30319",-84.3373578,33.8413645,street_address,rooftop,NA,Atlanta,DeKalb County
+Morrow Presbyterian Church,P400,6171 Huie Drive,Morrow,GA,30260,"6171 Huie Drive, City, GA  30260",-84.3366966,33.5863647,street_address,rooftop,NA,Morrow,Clayton County
+North Fulton Community Charities,P456,11270 Elkins Road,Roswell,GA,30076,"11270 Elkins Road, City, GA  30076",-84.3357171,34.0532983,premise,rooftop,NA,Roswell,Fulton County
+Cowart Family YMCA,P154,3692 Ashford Dunwoody Rd,Atlanta,GA,30319,"3692 Ashford Dunwoody Rd, City, GA  30319",-84.3333749,33.8989743,premise,rooftop,North Brookhaven,Atlanta,DeKalb County
+Atlanta Blvd. SDA Community Center,P040,"240 Maynard Terrace, SE",Atlanta,GA,30316,"240 Maynard Terrace, SE, City, GA  30316",-84.3327519,33.7465991,street_address,rooftop,Kirkwood,Atlanta,DeKalb County
+Toco Hills Community Alliance,P647,1790 LaVista Road,Atlanta,GA,30329,"1790 LaVista Road, City, GA  30329",-84.3287877,33.817871,street_address,rooftop,Merry Hills,Atlanta,DeKalb County
+"Clifton Sanctuary Ministries, Inc.",P119,369 Connecticut Ave NE,Atlanta,GA,30307,"369 Connecticut Ave NE, City, GA  30307",-84.3281148,33.7643163,premise,rooftop,Lake Claire,Atlanta,DeKalb County
+Senior Day Out,P557,1879 Glenwood Avenue,Atlanta,GA,30316,"1879 Glenwood Avenue, City, GA  30316",-84.3257312,33.7393195,premise,rooftop,NA,Atlanta,DeKalb County
+The Greater Piney Grove Community Development,P626,1879 Glenwood Avenue,Atlanta,GA,30316,"1879 Glenwood Avenue, City, GA  30316",-84.3257312,33.7393195,premise,rooftop,NA,Atlanta,DeKalb County
+Eugene and Scilla Rice Ministries,P200,110 Howard Street NE,Atlanta,GA,30317,"110 Howard Street NE, City, GA  30317",-84.3236763,33.7550633,premise,rooftop,Kirkwood,Atlanta,DeKalb County
+Intown Collaborative Ministries,P325,1660 N. Decatur Road,Atlanta,GA,30307,"1660 N. Decatur Road, City, GA  30307",-84.3233896,33.78879,premise,rooftop,NA,Atlanta,DeKalb County
+Chris 180,P098,1017 Fayetteville Rd,Atlanta,GA,30316,"1017 Fayetteville Rd, City, GA  30316",-84.3219501,33.7266127,premise,rooftop,East Atlanta,Atlanta,DeKalb County
+Calvary New Life Tabernacle UPC,P074,3342-A International Park Drive SE,Atlanta,GA,30316,"3342-A International Park Drive SE, City, GA  30316",-84.3205527,33.686849,premise,rooftop,NA,Atlanta,DeKalb County
+Travelers Rest MBC - Glad Morning Comm.,P650,2112 Rex Road,Morrow,GA,30260,"2112 Rex Road, City, GA  30260",-84.319807,33.599949,street_address,rooftop,NA,Morrow,Clayton County
+The Church of God for All Nations,P623,2295 Bouldercrest Road SE,Atlanta,GA,30316,"2295 Bouldercrest Road SE, City, GA  30316",-84.3195608,33.6895447,street_address,rooftop,NA,Atlanta,DeKalb County
+Episcopal Church of the Epiphany,P196,2089 Ponce de Leon Avenue NE,Atlanta,GA,30307,"2089 Ponce de Leon Avenue NE, City, GA  30307",-84.3194509,33.770873,street_address,rooftop,NA,Atlanta,DeKalb County
+Yad L'Yad Charity Fund Inc.,P690,2056 Lavista Rd NE,Atlanta,GA,30329,"2056 Lavista Rd NE, City, GA  30329",-84.3174714,33.8155663,street_address,range_interpolated,Merry Hills,Atlanta,DeKalb County
+Briarcliff Oaks Inc.,P066,2982 Briarcliff Rd NE,Atlanta,GA,30329,"2982 Briarcliff Rd NE, City, GA  30329",-84.3161958,33.8376082,premise,rooftop,NA,Atlanta,DeKalb County
+Jewish Family Services-Food Pantry,P332,4549 Chamblee Dunwoody Road,Atlanta,GA,30338,"4549 Chamblee Dunwoody Road, City, GA  30338",-84.3145105,33.9252526,premise,rooftop,NA,Dunwoody,DeKalb County
+Fannin County Family Connection,P215,101 Industrial Park Road,Blue Ridge,GA,30513,"101 Industrial Park Road, City, GA  30513",-84.3113481,34.8843384,street_address,rooftop,NA,Blue Ridge,Fannin County
+"Oakhurst Recovery Program, INC",P467,232 East Lake Drive,Decatur,GA,30030,"232 East Lake Drive, City, GA  30030",-84.3108726,33.762632,premise,rooftop,Oakhurst,Decatur,DeKalb County
+Enough to Share,P195,560 Fayetteville Rd SE,Atlanta,GA,30316,"560 Fayetteville Rd SE, City, GA  30316",-84.3107345,33.7384493,street_address,rooftop,NA,Atlanta,DeKalb County
+Mercy Park,P387,5124 Peachtree rd.,Chamblee,GA,30341,"5124 Peachtree rd., City, GA  30341",-84.3098163,33.8870171,street_address,rooftop,NA,Chamblee,DeKalb County
+Not By Bread Alone,P464,2727 Bouldercrest Road,Atlanta,GA,30316,"2727 Bouldercrest Road, City, GA  30316",-84.3092488,33.6804517,premise,rooftop,NA,Atlanta,DeKalb County
+Chamblee Senior Residences,P094,3381 Malone Dr.,Chamblee,GA,30341,"3381 Malone Dr., City, GA  30341",-84.3065767,33.8895734,street_address,rooftop,NA,Atlanta,DeKalb County
+Flat Shoals United Methodist Church,P237,2400 Flat Shoals Road,Decatur,GA,30032,"2400 Flat Shoals Road, City, GA  30032",-84.3065529,33.719193,street_address,rooftop,NA,Decatur,DeKalb County
+Seventh Day Adventist- Dunwoody Hispanic,P559,2197 Peeler Road,Dunwoody,GA,30338,"2197 Peeler Road, City, GA  30338",-84.3049322,33.934755,premise,rooftop,NA,Dunwoody,DeKalb County
+St. Vincent De Paul Society-Administrati,P594,2050 Chamblee Tucker Road Suite C,Atlanta,GA,30341,"2050 Chamblee Tucker Road Suite C, City, GA  30341",-84.3043045,33.8862106,subpremise,rooftop,NA,Chamblee,DeKalb County
+Women's Resource Center of Dekalb,P680,Confidential,Decatur,GA,30031,"Confidential, City, GA  30031",-84.3042618,33.7752916,postal_code,approximate,Downtown Decatur,Decatur,DeKalb County
+Oglethorpe Pres. Church DBA Suthers Center,P469,3550 Broad Street,Chamblee,GA,30341,"3550 Broad Street, City, GA  30341",-84.3002042,33.8966208,premise,rooftop,NA,Chamblee,DeKalb County
+Clifton UMC,P120,2918 Clifton Church Road,Atlanta,GA,30316,"2918 Clifton Church Road, City, GA  30316",-84.299983,33.70134,street_address,rooftop,NA,Atlanta,DeKalb County
+St. Timothy's Episcopal Church,P593,2833 Flat Shoals Road,Decatur,GA,30034,"2833 Flat Shoals Road, City, GA  30034",-84.2992585,33.7058084,premise,rooftop,NA,Decatur,DeKalb County
+Decatur Housing Initiatives,P171,1450 Commerce Drive,Decatur,GA,30030,"1450 Commerce Drive, City, GA  30030",-84.2990287,33.7723234,street_address,rooftop,Downtown Decatur,Decatur,DeKalb County
+Helping Hands Pantry Inc.,P299,334 Carver Road,Griffin,GA,30224,"334 Carver Road, City, GA  30224",-84.2973439,33.2397653,street_address,rooftop,NA,Griffin,Spalding County
+"House of Hope, NG, Inc.",P314,11954 Cumming Hwy,Canton,GA,30115,"11954 Cumming Hwy, City, GA  30115",-84.297224,34.241809,street_address,rooftop,NA,Canton,Cherokee County
+Clairmont Oaks,P002,"441 Clairemont Avenue,",Decatur,GA,30030,"441 Clairemont Avenue,, City, GA  30030",-84.2962158,33.7804218,premise,rooftop,Great Lakes,Decatur,DeKalb County
+Bobby Dodd Institute,P062,"125 Clairemont Avenue, Suite 300",Decatur,GA,30030,"125 Clairemont Avenue, Suite 300, City, GA  30030",-84.2961258,33.7766426,subpremise,rooftop,Downtown Decatur,Decatur,DeKalb County
+Philips Tower,P489,218 E. Trinity Place,Decatur,GA,30030,"218 E. Trinity Place, City, GA  30030",-84.2943244,33.7727662,premise,rooftop,Downtown Decatur,Decatur,DeKalb County
+St. Patrick's Episcopal Church,P591,4755 North Peachtree Road,Atlanta,GA,30338,"4755 North Peachtree Road, City, GA  30338",-84.2941188,33.9342116,premise,rooftop,NA,Atlanta,DeKalb County
+SVDP-St. Peter & Paul Catholic Church,P611,2560 Tilson Road,Decatur,GA,30032,"2560 Tilson Road, City, GA  30032",-84.291601,33.7280688,street_address,rooftop,NA,Decatur,DeKalb County
+St. Philip AME Church,P592,240 Candler Road,Atlanta,GA,30317,"240 Candler Road, City, GA  30317",-84.2913637,33.746614,premise,rooftop,East Lake,Atlanta,DeKalb County
+"North Georgia Community Support Services, Inc.",P457,Confidential,Confidential,GA,30004,"Confidential, City, GA  30004",-84.2910759,34.1763063,postal_code,approximate,NA,Alpharetta,Fulton County
+"International Community School, Inc.",P322,2418 Wood Trail Lane,Decatur,GA,30033,"2418 Wood Trail Lane, City, GA  30033",-84.290103,33.802807,street_address,rooftop,Medlock Park,Decatur,DeKalb County
+Decatur Emergency Assistance Ministry,P170,515 E. Ponce de Leon Avenue,Decatur,GA,30030,"515 E. Ponce de Leon Avenue, City, GA  30030",-84.2889786,33.77539,premise,rooftop,Sycamore Ridge,Decatur,DeKalb County
+Glory Organized Company,P266,3187 Glenwood Rd,Decatur,GA,30032,"3187 Glenwood Rd, City, GA  30032",-84.2874653,33.7385734,street_address,rooftop,East Lake Terrace,Decatur,DeKalb County
+The Power of Healing & Deliverance Ministries In,P633,3021 Memorial DR SE,Atlanta,GA,30317,"3021 Memorial DR SE, City, GA  30317",-84.287171,33.74659,street_address,rooftop,NA,Atlanta,DeKalb County
+Center for Pan-Asian Community Services,P089,3510 Shallowford Road NE,Atlanta,GA,30341,"3510 Shallowford Road NE, City, GA  30341",-84.2869515,33.8914865,street_address,rooftop,NA,Atlanta,DeKalb County
+Decatur Coop Ministry-Food Co Op #1,P166,1523 Church St,Decatur,GA,30034,"1523 Church St, City, GA  30034",-84.284981,33.791668,point,manual,NA,Decatur,DeKalb County
+Decatur Coop Ministry-Food Co Op #2,P167,1523 Church St,Decatur,GA,30034,"1523 Church St, City, GA  30034",-84.284981,33.791668,point,manual,NA,Decatur,DeKalb County
+Decatur Coop Ministry-Food Co Op #4,P168,1523 Church St,Decatur,GA,30034,"1523 Church St, City, GA  30034",-84.284981,33.791668,point,manual,NA,Decatur,DeKalb County
+Decatur Cooperative Ministries - Food Co-op # 3,P169,1523 Church St,Decatur,GA,30034,"1523 Church St, City, GA  30034",-84.284981,33.791668,point,manual,NA,Decatur,DeKalb County
+Hampton UMC - Food Pantry,P291,10 West Main Street,Hampton,GA,30228,"10 West Main Street, City, GA  30228",-84.2836324,33.3860048,premise,rooftop,NA,Hampton,Henry County
+New Hope Seventh Day Adventist Church,P430,3979 Panthersville Road,Ellenwood,GA,30294,"3979 Panthersville Road, City, GA  30294",-84.2817011,33.6658161,street_address,rooftop,NA,Ellenwood,DeKalb County
+North Atlanta Hispanic SDA Church,P443,3554 Strait Street,Atlanta,GA,30340,"3554 Strait Street, City, GA  30340",-84.281458,33.8944584,street_address,rooftop,NA,Atlanta,DeKalb County
+"A Higher Calling,  Inc.",P005,305A Louise Lane,Griffin,GA,30223,"305A Louise Lane, City, GA  30223",-84.2813921,33.2527208,street_address,rooftop,NA,Griffin,Spalding County
+Shallowford Presbyterian Church,P560,2375 Shallowford Road NE,Atlanta,GA,30345,"2375 Shallowford Road NE, City, GA  30345",-84.2813842,33.8575335,street_address,rooftop,NA,Atlanta,DeKalb County
+Contribute 2America Food Cooperative,P141,4105 Briarcliff Rd NE,Atlanta,GA,30345,"4105 Briarcliff Rd NE, City, GA  30345",-84.2800131,33.8553219,premise,rooftop,NA,Atlanta,DeKalb County
+The Edge Church of the Nazarene dba Shop The Edge,P624,2718 E College Av,Decatur,GA,30030,"2718 E College Av, City, GA  30030",-84.278751,33.7750858,street_address,rooftop,NA,Decatur,DeKalb County
+Soldiers' Angels,P571,250 North Arcadia Ave.,Decatur,GA,30030,"250 North Arcadia Ave., City, GA  30030",-84.2784173,33.7823016,street_address,rooftop,NA,Decatur,DeKalb County
+Decatur Seventh Day Adventist Church,P172,2365 Candler Road,Decatur,GA,30032,"2365 Candler Road, City, GA  30032",-84.2778744,33.7214477,premise,rooftop,NA,Decatur,DeKalb County
+Southside Haitian COG,P580,47 McDonough Street,Hampton,GA,30228,"47 McDonough Street, City, GA  30228",-84.276436,33.383036,street_address,rooftop,NA,Hampton,Henry County
+Allegre Point Senior Residences,P025,3391 Flat Shoals Rd.,Decatur,GA,30034,"3391 Flat Shoals Rd., City, GA  30034",-84.2754888,33.7044496,premise,rooftop,NA,Decatur,DeKalb County
+Salvation Army-Griffin,P543,725 Meriwether Street,Griffin,GA,30224,"725 Meriwether Street, City, GA  30224",-84.2747072,33.2440271,premise,rooftop,NA,Griffin,Spalding County
+Salvation Army-Griffin Community Cent Boys & Girls,P544,725 Meriwether St.,Griffin,GA,30224,"725 Meriwether St., City, GA  30224",-84.2747072,33.2440271,premise,rooftop,NA,Griffin,Spalding County
+Salvation Army-Griffin-Shelter,P545,329 N. 13th St.,Griffin,GA,30224,"329 N. 13th St., City, GA  30224",-84.27346,33.252327,point,manual,NA,Griffin,Spalding County
+New Mercy Community Services Inc.,P438,742 Pimento Avenue,Griffin,GA,30224,"742 Pimento Avenue, City, GA  30224",-84.2734115,33.240359,premise,rooftop,NA,Griffin,Spalding County
+Congregation Beth Shalom Inc.,P140,5303 Winters Chapel Rd,Atlanta,GA,30360,"5303 Winters Chapel Rd, City, GA  30360",-84.2708691,33.951955,street_address,rooftop,NA,Atlanta,DeKalb County
+Beverly J. Searles Foundation,P058,5030 Nesbit Ferry Lane,Sandy Springs,GA,30350,"5030 Nesbit Ferry Lane, City, GA  30350",-84.2707378,33.9651887,premise,rooftop,NA,Atlanta,Fulton County
+Small Treasures Learning Center Inc.,P570,502 W Solomon St,Griffin,GA,30223,"502 W Solomon St, City, GA  30223",-84.2705527,33.248516,premise,rooftop,NA,Griffin,Spalding County
+Five Loaves and Two Fish Pantry,P236,412 West Slaton Ave,Griffin,GA,30223,"412 West Slaton Ave, City, GA  30223",-84.2692242,33.2492354,street_address,rooftop,NA,Griffin,Spalding County
+Oak View Elementary,P466,3574 Oakvale Rd,Decatur,GA,30034,"3574 Oakvale Rd, City, GA  30034",-84.2688369,33.6803257,street_address,rooftop,NA,Decatur,DeKalb County
+New Life Community Center,P434,3592 Flat Shoals Road,Decatur,GA,30034,"3592 Flat Shoals Road, City, GA  30034",-84.2682902,33.7036374,premise,rooftop,NA,Decatur,DeKalb County
+Cords of Life Inc.,P145,3013 Rainbow Dr. Suite C,Decatur,GA,30034,"3013 Rainbow Dr. Suite C, City, GA  30034",-84.2668503,33.7084023,subpremise,rooftop,NA,Decatur,DeKalb County
+Griffin Housing Authority,P287,518 Nine Oats Dr.,Griffin,GA,30224,"518 Nine Oats Dr., City, GA  30224",-84.2664609,33.2428097,street_address,range_interpolated,NA,Griffin,Spalding County
+Abundant Life Soup Kitchen-St.George Episcopal,P008,132 West Cherry Street,Griffin,GA,30224,"132 West Cherry Street, City, GA  30224",-84.2650402,33.2556097,premise,rooftop,NA,Griffin,Spalding County
+Impact Christian Ministries,P319,115 West Soloman St,Griffin,GA,30223,"115 West Soloman St, City, GA  30223",-84.2646282,33.2487841,street_address,rooftop,Downtown,Griffin,Spalding County
+Faith Community Development,P205,119 West Central Ave.,Griffin,GA,30223,"119 West Central Ave., City, GA  30223",-84.2645054,33.2516053,premise,rooftop,NA,Griffin,Spalding County
+Greater Fellowship Outreach & Developme,P281,3075 Rainbow Cir.,Decatur,GA,30034,"3075 Rainbow Cir., City, GA  30034",-84.2639911,33.7094232,premise,rooftop,NA,Decatur,DeKalb County
+Ahepa One Apartments,P023,2025 Ludovie Lane,Decatur,GA,30033,"2025 Ludovie Lane, City, GA  30033",-84.261877,33.843083,street_address,rooftop,Northlake,Decatur,DeKalb County
+Play Hard Elite Incorporated,P492,232 East Broad St,Griffin,GA,30223,"232 East Broad St, City, GA  30223",-84.2605164,33.2499718,street_address,rooftop,Downtown,Griffin,Spalding County
+Greenforest Baptist Church,P286,3250 Rainbow Dr.,Decatur,GA,30034,"3250 Rainbow Dr., City, GA  30034",-84.257564,33.7146938,street_address,rooftop,NA,Decatur,DeKalb County
+RSS&B,P534,3810 Waldrop Road,Decatur,GA,30034,"3810 Waldrop Road, City, GA  30034",-84.256541,33.677334,street_address,rooftop,NA,Decatur,DeKalb County
+Episcopal Church of the Holy Cross,P197,2005 S. Columbia Place,Decatur,GA,30032,"2005 S. Columbia Place, City, GA  30032",-84.256415,33.732717,street_address,rooftop,NA,Decatur,DeKalb County
+H. P. Taylor Brotherhood,P288,679 Glendale Road,Scottdale,GA,30079,"679 Glendale Road, City, GA  30079",-84.2535943,33.7962737,street_address,rooftop,NA,Scottdale,DeKalb County
+Church of God of Prophecy--Decatur,P105,3333 Covington Drive,Decatur,GA,30032,"3333 Covington Drive, City, GA  30032",-84.2535673,33.7607554,street_address,rooftop,NA,Decatur,DeKalb County
+Hillside Presbyterian Church,P307,1879 Columbia Drive,Decatur,GA,30032,"1879 Columbia Drive, City, GA  30032",-84.2533554,33.7357157,premise,rooftop,NA,Decatur,DeKalb County
+Columbia Drive United Methodist Church,P123,2067 Columbia Drive,Decatur,GA,30032,"2067 Columbia Drive, City, GA  30032",-84.2531847,33.7289373,street_address,rooftop,NA,Decatur,DeKalb County
+Stand Inc.,P595,3486 Covington Hwy,Decatur,GA,30032,"3486 Covington Hwy, City, GA  30032",-84.2507836,33.7678121,premise,rooftop,NA,Decatur,DeKalb County
+Embry Hills UMC - Snax Sax for Kids,P191,3304 Henderson Mill Road,Atlanta,GA,30341,"3304 Henderson Mill Road, City, GA  30341",-84.2473795,33.8814175,street_address,rooftop,NA,Chamblee,DeKalb County
+"Developmental Disabilities Ministries, Inc.",P176,6320 Amherst Court,Norcross,GA,30092,"6320 Amherst Court, City, GA  30092",-84.2449607,33.9539386,premise,rooftop,NA,Norcross,Gwinnett County
+County Line UMC,P149,4031 Old River Road,Ellenwood,GA,30294-1926,"4031 Old River Road, City, GA  30294-1926",-84.2446446,33.6579456,street_address,rooftop,NA,Ellenwood,DeKalb County
+"Early Learning Scholars & Family Services, Inc",P183,3534 Clarkston Industrial Blvd,Clarkston,GA,30021,"3534 Clarkston Industrial Blvd, City, GA  30021",-84.2444463,33.818222,premise,rooftop,NA,Clarkston,DeKalb County
+Church of the Holy Cross,P107,3175 Hathaway Court,Atlanta,GA,30341,"3175 Hathaway Court, City, GA  30341",-84.240624,33.8827471,street_address,rooftop,NA,Atlanta,DeKalb County
+Clarkston High,P116,618 N Indian Creek Dr,Clarkston,GA,30021,"618 N Indian Creek Dr, City, GA  30021",-84.2401641,33.7931943,street_address,rooftop,NA,Clarkston,DeKalb County
+Clarkston United Methodist Church,P117,3919 Church Street,Clarkston,GA,30021,"3919 Church Street, City, GA  30021",-84.2395431,33.808494,premise,rooftop,NA,Clarkston,DeKalb County
+East Griffin Baptist Church,P186,999 High Falls Road,Griffin,GA,30223,"999 High Falls Road, City, GA  30223",-84.2395282,33.2466475,premise,rooftop,NA,Griffin,Spalding County
+Clarkston Community Center Co-op,P113,3701 College Avenue,Clarkston,GA,30021,"3701 College Avenue, City, GA  30021",-84.2384564,33.8056627,street_address,rooftop,NA,Clarkston,DeKalb County
+Clarkston Community Center Food Pantry,P114,3701 College Avenue,Clarkston,GA,30021,"3701 College Avenue, City, GA  30021",-84.2384564,33.8056627,street_address,rooftop,NA,Clarkston,DeKalb County
+Living Grace Lutheran Church,P369,1812 Cooledge Road,Tucker,GA,30084,"1812 Cooledge Road, City, GA  30084",-84.238316,33.835598,street_address,rooftop,NA,Tucker,DeKalb County
+Clarkston First Bapt.-Food Program,P115,3983 Church Street,Clarkston,GA,30021,"3983 Church Street, City, GA  30021",-84.2380259,33.8107926,premise,rooftop,NA,Clarkston,DeKalb County
+Jodeco Road United Methodist,P333,1500 Jodeco Road,Stockbridge,GA,30281,"1500 Jodeco Road, City, GA  30281",-84.2369764,33.4925367,premise,rooftop,NA,Stockbridge,Henry County
+Peace on the Move /Peace Baptist Church FP,P483,4000 Covington Hwy.,Decatur,GA,30032,"4000 Covington Hwy., City, GA  30032",-84.2360068,33.7564018,street_address,rooftop,NA,Decatur,DeKalb County
+God Life and Living H C of Jesus Christ,P267,3837 Linecrest Road,Ellenwood,GA,30294,"3837 Linecrest Road, City, GA  30294",-84.2349184,33.6537146,premise,rooftop,NA,Ellenwood,DeKalb County
+Decatur All Nations Community Church,P165,3840 Kensington Rd.,Decatur,GA,30032,"3840 Kensington Rd., City, GA  30032",-84.234054,33.7683594,premise,rooftop,NA,Decatur,DeKalb County
+"Hightower Baptist Association, Inc.",P306,8630 Wallace Tatum Road,Cumming,GA,30028,"8630 Wallace Tatum Road, City, GA  30028",-84.232347,34.289371,street_address,rooftop,NA,Cumming,Forsyth County
+Mountainside SDA Church,P405,3936 Rainbow Drive,Decatur,GA,30034,"3936 Rainbow Drive, City, GA  30034",-84.2304318,33.7088416,premise,rooftop,NA,Decatur,DeKalb County
+Bethel UMC Food Co-op,P056,245 Fairview Road,Stockbridge,GA,30281,"245 Fairview Road, City, GA  30281",-84.230333,33.6150224,street_address,rooftop,NA,Stockbridge,Henry County
+Family Support Circle,P214,109 South Lee St,Stockbridge,GA,30281,"109 South Lee St, City, GA  30281",-84.2302671,33.5413768,premise,rooftop,NA,Stockbridge,Henry County
+The Smart Place:Adult & Children Service,P639,1916 Glenfair Rd.,Decatur,GA,30035,"1916 Glenfair Rd., City, GA  30035",-84.2295673,33.7340857,premise,rooftop,NA,Decatur,DeKalb County
+Ambassadors Life Center Inc.,P027,125 Rock Quarry Road,Stockbridge,GA,30281,"125 Rock Quarry Road, City, GA  30281",-84.2261918,33.5395738,premise,rooftop,NA,Stockbridge,Henry County
+First St. Peter AME Church,P233,1074 S. Indian Creek Drive,Stone Mountain,GA,30083,"1074 S. Indian Creek Drive, City, GA  30083",-84.2233847,33.7664016,street_address,rooftop,NA,Stone Mountain,DeKalb County
+"Beulah Urban Outreach, Inc-Coc",P057,2901 Wesley Chapel Rd,Decatur,GA,30034,"2901 Wesley Chapel Rd, City, GA  30034",-84.2224085,33.7030511,street_address,rooftop,NA,Decatur,DeKalb County
+Mt. Olive Outreach - 12 Baskets Food Pantry,P408,470 Mt. Olive Road,Stockbridge,GA,30281,"470 Mt. Olive Road, City, GA  30281",-84.2221827,33.4735816,street_address,range_interpolated,NA,Stockbridge,Henry County
+City of Hope Community Development,P109,182 Hunter Street,Norcross,GA,30071,"182 Hunter Street, City, GA  30071",-84.2210869,33.9377137,premise,rooftop,NA,Norcross,Gwinnett County
+Families Advocating for Voices of Resilience,P209,"798 Rays Rd, Suite 94",Stone Mountain,GA,30083,"798 Rays Rd, Suite 94, City, GA  30083",-84.2210869,33.8011967,subpremise,rooftop,NA,Stone Mountain,DeKalb County
+Love and Grace Christian Academy,P372,4164 Rainbow Dr,Decatur,GA,30034,"4164 Rainbow Dr, City, GA  30034",-84.2208399,33.7075669,premise,rooftop,NA,Decatur,DeKalb County
+Ellenwood Oaks Community Church,P190,1234 Panola Road,Ellenwood,GA,30294,"1234 Panola Road, City, GA  30294",-84.2201739,33.6292516,street_address,rooftop,NA,Ellenwood,Henry County
+Latter Rain Church of Jesus Christ Apostolic Inc.,P352,4633 Covington Hwy,Decatur,GA,30035,"4633 Covington Hwy, City, GA  30035",-84.2197077,33.7425641,premise,rooftop,NA,Decatur,DeKalb County
+"Teach ""O"" Rea Preparatory Preschool, Inc",P614,791 Rays Road,Stone Mountain,GA,30083,"791 Rays Road, City, GA  30083",-84.2196665,33.8011085,premise,rooftop,NA,Stone Mountain,DeKalb County
+Bethel Family Church - The Family Pantry,P055,2209 Wesley Chapel Road,Decatur,GA,30035,"2209 Wesley Chapel Road, City, GA  30035",-84.2145611,33.7241376,premise,rooftop,NA,Decatur,DeKalb County
+Kelley Chapel UMC,P342,3411 Kelley Chapel Road,Decatur,GA,30034,"3411 Kelley Chapel Road, City, GA  30034",-84.21417,33.683923,premise,rooftop,NA,Decatur,DeKalb County
+NETworks Cooperative Ministry,P417,2380 4th Street,Tucker,GA,30084,"2380 4th Street, City, GA  30084",-84.2135112,33.8551772,premise,rooftop,NA,Tucker,DeKalb County
+NETworks Cooperative Ministry-Food Co Op,P418,2380 4th St,Tucker,GA,30084,"2380 4th St, City, GA  30084",-84.2135112,33.8551772,premise,rooftop,NA,Tucker,DeKalb County
+One 2 One Educational Support,P470,4989 Peachtree Parkway,Peachtree Corners,GA,30092,"4989 Peachtree Parkway, City, GA  30092",-84.2117818,33.98754,premise,rooftop,NA,Peachtree Corners,Gwinnett County
+The Soul Factory,P640,5567 Memorial Drive,Stone Mountain,GA,30083,"5567 Memorial Drive, City, GA  30083",-84.2100246,33.7993845,street_address,rooftop,NA,Stone Mountain,DeKalb County
+Nehemiah Medical & Charitable Mission,P416,5320 Jimmy Carter Blvd.,Norcross,GA,30093,"5320 Jimmy Carter Blvd., City, GA  30093",-84.2067362,33.902781,street_address,rooftop,Gwinnett Village,Norcross,Gwinnett County
+The Abba House - Rowland Road,P620,730 Rowland Road,Stone Mountain,GA,30083,"730 Rowland Road, City, GA  30083",-84.2055227,33.7762022,premise,rooftop,NA,Stone Mountain,DeKalb County
+Big Step International Support Inc.,P001,6051 Oakbrook Pkwy,Norcross,GA,30093,"6051 Oakbrook Pkwy, City, GA  30093",-84.20496,33.911344,street_address,rooftop,Gwinnett Village,Norcross,Gwinnett County
+"Alyssa and Brothers,Inc.-Rowley Residenc",P026,4552 Dorset Circle,Decatur,GA,30035,"4552 Dorset Circle, City, GA  30035",-84.2044314,33.7190504,premise,rooftop,NA,Decatur,DeKalb County
+Korean American Senior Citizens League,P347,5900 Brook Hollow Pkwy,Norcross,GA,30071,"5900 Brook Hollow Pkwy, City, GA  30071",-84.2027635,33.9188338,premise,rooftop,Gwinnett Village,Norcross,Gwinnett County
+Norcross Cooperative Ministry,P442,2275 Mitchell Road,Norcross,GA,30071,"2275 Mitchell Road, City, GA  30071",-84.2014868,33.9319306,premise,rooftop,Gwinnett Village,Norcross,Gwinnett County
+Crossroad Christian Church Inc.,P159,3545 N Henry Blvd,Stockbridge,GA,30281,"3545 N Henry Blvd, City, GA  30281",-84.201398,33.5361969,premise,rooftop,NA,Stockbridge,Henry County
+The Abba House,P619,4590 Arbor Walk Court,Stone Mountain,GA,30083,"4590 Arbor Walk Court, City, GA  30083",-84.2012603,33.7842001,premise,rooftop,NA,Stone Mountain,DeKalb County
+Champions Christian Academy,P095,1125 South Hairston Road,Stone Mountain,GA,30088,"1125 South Hairston Road, City, GA  30088",-84.1975331,33.7631268,street_address,rooftop,NA,Stone Mountain,DeKalb County
+No Longer Bound,P441,2725 Pine Grove Rd,Cumming,GA,30041,"2725 Pine Grove Rd, City, GA  30041",-84.1975096,34.1113222,street_address,rooftop,NA,Alpharetta,Forsyth County
+"Healing for the Soul Ministries, Inc",P294,1683 South Hairston Rd,Stone Mountain,GA,30088,"1683 South Hairston Rd, City, GA  30088",-84.1970151,33.744727,street_address,rooftop,NA,Stone Mountain,DeKalb County
+Antioch AME Church-Ruby Hoke WMS,P033,765 South Hairston Road,Stone Mountain,GA,30083,"765 South Hairston Road, City, GA  30083",-84.194503,33.7763459,street_address,rooftop,NA,Stone Mountain,DeKalb County
+Stone Mill Elementary,P597,4900 Sheila Ln,Stone Mountain,GA,30083,"4900 Sheila Ln, City, GA  30083",-84.1897922,33.8155455,establishment,rooftop,NA,Stone Mountain,DeKalb County
+New Hope Church of God,P428,1783 Fairvew Rd,Stockbridge,GA,30281,"1783 Fairvew Rd, City, GA  30281",-84.1879869,33.6057015,street_address,range_interpolated,NA,Stockbridge,Henry County
+ICNA  Relief USA Programs Inc.,P318,6200 Memorial Dr,Stone Mountain,GA,30083,"6200 Memorial Dr, City, GA  30083",-84.1879285,33.8073273,establishment,rooftop,NA,Stone Mountain,DeKalb County
+Reach Community Development Center Inc,P510,6212- B Memorial Drive,Stone Mountain,GA,30083,"6212- B Memorial Drive, City, GA  30083",-84.1875246,33.8080739,street_address,rooftop,NA,Stone Mountain,DeKalb County
+Atlanta General Education Center Inc.,P042,2211 Beaver Ruin Rd,Norcross,GA,30071,"2211 Beaver Ruin Rd, City, GA  30071",-84.1861392,33.9358292,street_address,rooftop,Gwinnett Village,Norcross,Gwinnett County
+"White Dove Church Of God, Inc.",P679,2251 Hwy 42 N,McDonough,GA,30253,"2251 Hwy 42 N, City, GA  30253",-84.1855055,33.5026107,premise,rooftop,NA,McDonough,Henry County
+"Camp of Champions, Inc",P076,3261 Panola Rd,Lithonia,GA,30038,"3261 Panola Rd, City, GA  30038",-84.176733,33.690935,street_address,rooftop,NA,Lithonia,DeKalb County
+First African Community Development Corporation,P219,5197 Salem Road,Lithonia,GA,30038,"5197 Salem Road, City, GA  30038",-84.176442,33.678064,premise,rooftop,NA,Lithonia,DeKalb County
+South East Atlanta Seventh Day Baptist Church,P576,60 Dailey Mill Road,McDonough,GA,30253,"60 Dailey Mill Road, City, GA  30253",-84.173174,33.4589117,street_address,rooftop,NA,McDonough,Henry County
+Creekside United Methodist Church,P157,673 Peachtree Parkway,Cumming,GA,30041,"673 Peachtree Parkway, City, GA  30041",-84.1712243,34.1451645,street_address,rooftop,NA,Cumming,Forsyth County
+A Friends House,P004,111 Henry Pkwy,McDonough,GA,30253,"111 Henry Pkwy, City, GA  30253",-84.1712079,33.4265454,street_address,rooftop,NA,McDonough,Henry County
+Stone Mountain Ecumenical Co-Op Ministri,P598,5324 W. Mountain Street,Stone Mountain,GA,30083,"5324 W. Mountain Street, City, GA  30083",-84.1707355,33.8083305,street_address,rooftop,NA,Stone Mountain,DeKalb County
+Community Connections of Atlanta,P128,5705 Memorial Drive,Stone Mountain,GA,30083,"5705 Memorial Drive, City, GA  30083",-84.1699962,33.804964,courthouse,rooftop,NA,Stone Mountain,DeKalb County
+SVDP Stone Mountain Family Support Center,P609,4871 Memorial Drive,Stone Mountain,GA,30083,"4871 Memorial Drive, City, GA  30083",-84.1699962,33.804964,courthouse,rooftop,NA,Stone Mountain,DeKalb County
+Kingdom Life Church Worldwide Ministries,P344,2360 Mellon Ct.,Decatur,GA,30035,"2360 Mellon Ct., City, GA  30035",-84.1681189,33.7188446,premise,rooftop,NA,Decatur,DeKalb County
+"Weekes House,Inc.",P674,5430 Rocky Pine Dr.,Lithonia,GA,30038,"5430 Rocky Pine Dr., City, GA  30038",-84.1678923,33.6854289,premise,rooftop,NA,Lithonia,DeKalb County
+Sunshine Community Brotherhood Foundation,P602,2750 Panola Rd.,Lithonia,GA,30058,"2750 Panola Rd., City, GA  30058",-84.1672948,33.7080129,premise,rooftop,NA,Lithonia,DeKalb County
+Fairington Elementary,P203,5505 Phillip Bradely Dr,Lithonia,GA,30038,"5505 Phillip Bradely Dr, City, GA  30038",-84.164416,33.69565,street_address,rooftop,NA,Lithonia,DeKalb County
+"Yesana Mission Church, Inc.",P692,4335 Abbotts Bridge RD,Duluth,GA,30097,"4335 Abbotts Bridge RD, City, GA  30097",-84.1628473,34.0215317,street_address,range_interpolated,NA,Duluth,Gwinnett County
+Light of the World Christian Church,P363,5883 Hwy 155 North,Stockbridge,GA,30281,"5883 Hwy 155 North, City, GA  30281",-84.1607505,33.6053691,church,rooftop,NA,Stockbridge,Henry County
+Stone Mountain SDA Church,P599,1350 Silver Hill Road,Stone Mountain,GA,30087,"1350 Silver Hill Road, City, GA  30087",-84.1607013,33.8210502,premise,rooftop,NA,Stone Mountain,DeKalb County
+Cumming First United Methodist Church,P161,770 Canton Highway,Cumming,GA,30040,"770 Canton Highway, City, GA  30040",-84.1605837,34.2286206,street_address,rooftop,NA,Cumming,Forsyth County
+North Central - There's Hope Dawson County,P444,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central - There's Hope Hall County,P445,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central - There's Hope Lumpkin County,P446,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central - There's Hope Union County,P447,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central /There's Hope--Bartow,P448,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central /There's Hope-Fulton,P449,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central /There's Hope-Gwinnett,P450,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central /There's Hope-Paulding,P451,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central/There's Hope,P452,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central/There's Hope-Cobb,P453,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central/There's Hope-Floyd,P454,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+North Central/There's Hope-Pickens,P455,1230 Samples Industrial Drive,Cumming,GA,30041,"1230 Samples Industrial Drive, City, GA  30041",-84.1554672,34.1622226,premise,rooftop,NA,Cumming,Forsyth County
+Meals by Grace Inc,P385,432 Canton Rd,Cumming,GA,30040,"432 Canton Rd, City, GA  30040",-84.1504888,34.2154808,street_address,rooftop,NA,Cumming,Forsyth County
+North Lanier Baptist Church,P458,829 Atlanta Highway,Cumming,GA,30040,"829 Atlanta Highway, City, GA  30040",-84.1499029,34.1812272,premise,rooftop,NA,Cumming,Forsyth County
+MSG Foundation,P406,2210 Goldmine Drive,Cumming,GA,30040,"2210 Goldmine Drive, City, GA  30040",-84.1498205,34.2335114,premise,rooftop,NA,Cumming,Forsyth County
+MM Hope House Inc.,P396,466 Simpson St.,Mcdonough,GA,30253,"466 Simpson St., City, GA  30253",-84.1494614,33.4349295,street_address,rooftop,NA,McDonough,Henry County
+"The Free Gospel Church of God In Christ, Inc.",P625,6039 Rockbridge Rd,Stone Mountain,GA,30087,"6039 Rockbridge Rd, City, GA  30087",-84.1485014,33.7886484,premise,rooftop,NA,Stone Mountain,DeKalb County
+Harvest Tabernacle International Min.,P293,5949 Fairington rd,Lithonia,GA,30038,"5949 Fairington rd, City, GA  30038",-84.1482503,33.7018251,street_address,rooftop,NA,Lithonia,DeKalb County
+Life Changers Family Worship Christian Center,P357,3256 Buford Highway,Duluth,GA,30096,"3256 Buford Highway, City, GA  30096",-84.1470999,33.9975003,premise,rooftop,NA,Duluth,Gwinnett County
+Shiloh-McDonough Community Outreach,P566,263 Macon Street,McDonough,GA,30253,"263 Macon Street, City, GA  30253",-84.1463779,33.4398644,street_address,range_interpolated,NA,McDonough,Henry County
+SVDP-Christ Our Hope Catholic Church,P610,1786 Wellborn Rd,Lithonia,GA,30058,"1786 Wellborn Rd, City, GA  30058",-84.141761,33.737963,street_address,rooftop,NA,Lithonia,DeKalb County
+Cumming Baptist Church,P160,115 Church Street,Cumming,GA,30040,"115 Church Street, City, GA  30040",-84.1390201,34.209886,premise,rooftop,NA,Cumming,Forsyth County
+Senior Community Outreach Center,P556,817 Casco Dr.,Lilburn,GA,30047,"817 Casco Dr., City, GA  30047",-84.1371855,33.910631,premise,rooftop,NA,Lilburn,Gwinnett County
+Beaver Ruin Road Baptist Church,P049,1200 Beaver Ruin Rd,Norcross,GA,30093,"1200 Beaver Ruin Rd, City, GA  30093",-84.1366484,33.9245193,street_address,rooftop,NA,Norcross,Gwinnett County
+United UMC,P659,4600 Highway 138 SW,Stockbridge,GA,30281,"4600 Highway 138 SW, City, GA  30281",-84.13607,33.591576,street_address,rooftop,NA,Stockbridge,Rockdale County
+Friendship Baptist Church of Duluth Inc.,P251,3375 Church Lane,Duluth,GA,30096,"3375 Church Lane, City, GA  30096",-84.1354952,34.0013951,premise,rooftop,NA,Duluth,Gwinnett County
+Salem Missionary Baptist Church,P538,4700 Church Street,Lilburn,GA,30047,"4700 Church Street, City, GA  30047",-84.1350729,33.893011,premise,rooftop,NA,Lilburn,Gwinnett County
+Lithonia Seventh Day Adventist Church,P367,3533 Ragsdale Road,Lithonia,GA,30058,"3533 Ragsdale Road, City, GA  30058",-84.134913,33.678664,street_address,rooftop,NA,Lithonia,DeKalb County
+Good News Atlanta Church,P271,11000 Rogers Circle,Johns Creek,GA,30097,"11000 Rogers Circle, City, GA  30097",-84.1321067,34.0500928,street_address,rooftop,NA,Duluth,Fulton County
+Age Well Forsyth,P022,595 Dahlonega Street,Cumming,GA,30040,"595 Dahlonega Street, City, GA  30040",-84.1311866,34.2210244,premise,rooftop,NA,Cumming,Forsyth County
+Rivers of Living Water Baptist Church,P522,3350 Evans Mill Road,Lithonia,GA,30038,"3350 Evans Mill Road, City, GA  30038",-84.1293479,33.690025,street_address,rooftop,NA,Lithonia,DeKalb County
+Episcopal Church of the Holy Spirit,P198,724 Pilgrim Mill Road,Cumming,GA,30040,"724 Pilgrim Mill Road, City, GA  30040",-84.1219706,34.2212111,premise,rooftop,NA,Cumming,Forsyth County
+Community Alert Inc.-Joseph Store House,P125,6788 Rockbridge Road,Stone Mountain,GA,30087,"6788 Rockbridge Road, City, GA  30087",-84.1199256,33.7866126,street_address,rooftop,NA,Stone Mountain,DeKalb County
+God's Faith Pavilion Deliverance Min Inc,P269,2230 Lithonia Industrial Blvd,Lithonia,GA,30058,"2230 Lithonia Industrial Blvd, City, GA  30058",-84.119022,33.719783,premise,rooftop,NA,Lithonia,DeKalb County
+City on a Hill,P112,1645 Dahlonega Highway,Cumming,GA,30040,"1645 Dahlonega Highway, City, GA  30040",-84.1183621,34.2432148,premise,rooftop,NA,Cumming,Forsyth County
+Abba House,P007,6800 Dahlonega Hwy,Cumming,GA,30040,"6800 Dahlonega Hwy, City, GA  30040",-84.1137661,34.3346859,street_address,range_interpolated,NA,Cumming,Forsyth County
+Senior Society of Dominican Sisters,P558,704 Rebecca Street NW,Lilburn,GA,30047,"704 Rebecca Street NW, City, GA  30047",-84.1117014,33.9185355,premise,rooftop,NA,Lilburn,Gwinnett County
+Ministerio Shalom Inc.,P394,3865 Lawrenceville Highway,Lawrenceville,GA,30044,"3865 Lawrenceville Highway, City, GA  30044",-84.1104847,33.9079907,premise,rooftop,NA,Lawrenceville,Gwinnett County
+First St. Paul AME Church,P232,2687 Klondike Road,Lithonia,GA,30058,"2687 Klondike Road, City, GA  30058",-84.1096597,33.706587,premise,rooftop,NA,Lithonia,DeKalb County
+"Overcomer's Cathedral Tabernacle of Prayer, Inc.",P475,7698 Covington Hwy,Lithonia,GA,30058,"7698 Covington Hwy, City, GA  30058",-84.109007,33.70433,street_address,rooftop,NA,Lithonia,DeKalb County
+Lithonia First UMC,P366,3099 Stone Mountain Street,Lithonia,GA,30058,"3099 Stone Mountain Street, City, GA  30058",-84.1086698,33.7133286,street_address,rooftop,NA,Lithonia,DeKalb County
+Next Generation Youth Development,P440,462 Memory Lane.  Ste. 100,Dawsonville,GA,30534,"462 Memory Lane.  Ste. 100, City, GA  30534",-84.1075149,34.4184829,subpremise,rooftop,NA,Dawsonville,Dawson County
+Ric-Rack Resource Interaction Council,P519,829 Highway 9 North,Dawsonville,GA,30534,"829 Highway 9 North, City, GA  30534",-84.1061949,34.4255006,premise,rooftop,NA,Dawsonville,Dawson County
+"Mothers Rebuilding America, Inc.",P401,7302 Conyers St,Lithonia,GA,30058,"7302 Conyers St, City, GA  30058",-84.104524,33.71172,street_address,rooftop,NA,Lithonia,DeKalb County
+The Place of Forsyth,P632,2550 The Place Circle,Cumming,GA,30040,"2550 The Place Circle, City, GA  30040",-84.1023587,34.2318895,establishment,rooftop,NA,Cumming,Forsyth County
+The Arts Academy - PALS,P621,792 South Deshon Road,Lithonia,GA,30058,"792 South Deshon Road, City, GA  30058",-84.1020627,33.7730102,street_address,rooftop,NA,Lithonia,DeKalb County
+New Life Church of God - Backpack Buddies,P433,1508 Hwy 53 E,Dawsonville,GA,30534,"1508 Hwy 53 E, City, GA  30534",-84.1007498,34.4045111,premise,rooftop,NA,Dawsonville,Dawson County
+New Bethel International COG,P422,1025 Killian Hill Rd SW,Lilburn,GA,30047,"1025 Killian Hill Rd SW, City, GA  30047",-84.092256,33.8671311,street_address,rooftop,NA,Lilburn,Gwinnett County
+Mercy Seed Resource Center Inc,P388,4037 Darling Court,Lilburn,GA,30047,"4037 Darling Court, City, GA  30047",-84.0889504,33.8680437,premise,rooftop,NA,Lilburn,Gwinnett County
+Jesus Name Apostolic Church,P330,77 Hugh Stowers Road,Dawsonville,GA,30534,"77 Hugh Stowers Road, City, GA  30534",-84.0872381,34.3902331,premise,rooftop,NA,Dawsonville,Dawson County
+Cross Pointe the Church at Gwinnett Ctr,P158,1800 Satellite Blvd.,Duluth,GA,30097,"1800 Satellite Blvd., City, GA  30097",-84.0835423,33.9935505,street_address,rooftop,NA,Duluth,Gwinnett County
+Conyers Monastery of the Holy Spirit,P143,2625 Hwy 212 SW,Conyers,GA,30094,"2625 Hwy 212 SW, City, GA  30094",-84.0831534,33.5824755,street_address,rooftop,NA,Conyers,Rockdale County
+"Divine Faith Ministries, Inc. - Suwanee",P177,4154 Silver Peak Parkway,Suwanee,GA,30024,"4154 Silver Peak Parkway, City, GA  30024",-84.081523,34.054649,premise,rooftop,NA,Suwanee,Gwinnett County
+Word of Faith Missions Inc.,P685,1860 Duluth Hwy,Lawrenceville,GA,30043,"1860 Duluth Hwy, City, GA  30043",-84.0780386,33.9755343,street_address,rooftop,NA,Lawrenceville,Gwinnett County
+New Bethel A.M.E. Church,P421,8350 Rockbridge Road,Lithonia,GA,30058,"8350 Rockbridge Road, City, GA  30058",-84.0631157,33.7728337,premise,rooftop,NA,Lithonia,DeKalb County
+Gethsemane Haitian Church of God,P261,260 Shannon Way,Lawrenceville,GA,30044,"260 Shannon Way, City, GA  30044",-84.0625378,33.9271404,premise,rooftop,NA,Lawrenceville,Gwinnett County
+Peace House Inc.,P482,2158 McDaniels Bridge Ct.,Lilburn,GA,30047,"2158 McDaniels Bridge Ct., City, GA  30047",-84.0619599,33.8428514,premise,rooftop,NA,Lilburn,Gwinnett County
+Place of Seven Springs,P491,3541 Stone Mountain Highway 78,Snellville,GA,30078,"3541 Stone Mountain Highway 78, City, GA  30078",-84.0546948,33.8455854,car_rental,rooftop,NA,Snellville,Gwinnett County
+Christ First Comunity Church,P102,1905 Highpoint Rd,Snellville,GA,30078,"1905 Highpoint Rd, City, GA  30078",-84.0486665,33.8575053,premise,rooftop,NA,Snellville,Gwinnett County
+Christ Fellowship Church of Dawson Inc,P101,139 Hightower Pkwy  Suite 100,Dawsonville,GA,30534,"139 Hightower Pkwy  Suite 100, City, GA  30534",-84.0443311,34.3678735,subpremise,rooftop,NA,Dawsonville,Dawson County
+"Casa Vida, Inc.",P082,2020 Lawrenceville-Suwanee Rd,Suwanee,GA,30024,"2020 Lawrenceville-Suwanee Rd, City, GA  30024",-84.0387927,33.9997959,street_address,rooftop,NA,Suwanee,Gwinnett County
+Under the Bridge Ministries - Lumpkin Co.,P656,523 Ben Higgins Road,Dahlonega,GA,30533,"523 Ben Higgins Road, City, GA  30533",-84.0384684,34.5223294,street_address,rooftop,NA,Dahlonega,Lumpkin County
+Bread of Life Development Ministries Inc.,P065,2533 Stanton Rd SE,Conyers,GA,30094,"2533 Stanton Rd SE, City, GA  30094",-84.0373545,33.6252996,street_address,rooftop,NA,Conyers,Rockdale County
+Emmanuel Community Church Fish and Loaves Food Pan,P192,1400 Hwy 212,Conyers,GA,30094,"1400 Hwy 212, City, GA  30094",-84.035914,33.553119,street_address,rooftop,NA,Conyers,Rockdale County
+"Overcomers House, Inc.",P476,2100C Fountain Square,Snellville,GA,30078,"2100C Fountain Square, City, GA  30078",-84.034414,33.856255,street_address,rooftop,NA,Snellville,Gwinnett County
+Rockdale County Senior Services,P527,1240 Dogwood Drive SW,Conyers,GA,30012,"1240 Dogwood Drive SW, City, GA  30012",-84.0292612,33.6656537,street_address,range_interpolated,NA,Conyers,Rockdale County
+Conyers Housing Authority,P142,1214 Summer Circle,Conyers,GA,30012,"1214 Summer Circle, City, GA  30012",-84.0266766,33.6758618,premise,rooftop,NA,Conyers,Rockdale County
+Three Angels Food Network Inc.,P643,1303 Parker Rd SE,Conyers,GA,30094,"1303 Parker Rd SE, City, GA  30094",-84.021086,33.655251,street_address,rooftop,NA,Conyers,Rockdale County
+Rising Star Baptist Center,P520,1644 Highway 16 West,Jackson,GA,30233,"1644 Highway 16 West, City, GA  30233",-84.0164119,33.2911756,street_address,range_interpolated,NA,Jackson,Butts County
+House of Prayer/Cottage Food Bank -  Blairsville,P315,1441 Pat Colwell Road,Blairsville,GA,30514,"1441 Pat Colwell Road, City, GA  30514",-84.0100704,34.8877443,premise,rooftop,NA,Blairsville,Union County
+"Rockdale County Emergency Relief Fund, Inc.",P526,350 Tall Oaks Drive,Conyers,GA,30013,"350 Tall Oaks Drive, City, GA  30013",-83.9971293,33.647682,street_address,range_interpolated,NA,Conyers,Rockdale County
+Nothing But The Truth,P465,250 Langley DR,Lawrenceville,GA,30045,"250 Langley DR, City, GA  30045",-83.9968277,33.9562073,premise,rooftop,NA,Lawrenceville,Gwinnett County
+Union Baptist Church,P657,251 Bona Road,Buford,GA,30518,"251 Bona Road, City, GA  30518",-83.9967037,34.1258547,premise,rooftop,NA,Buford,Gwinnett County
+"Greater Mission Outreach Ministries, Inc.",P282,525 Bona Road,Buford,GA,30518,"525 Bona Road, City, GA  30518",-83.9951127,34.1238927,premise,rooftop,NA,Buford,Gwinnett County
+Conyers Seventh Day Adventist Church,P144,3001 Old Salem Road,Conyers,GA,30013,"3001 Old Salem Road, City, GA  30013",-83.993645,33.6103499,street_address,rooftop,NA,Conyers,Rockdale County
+Presbyterian Church of the Resurrection,P495,3676 Highway 20 NE,Conyers,GA,30012,"3676 Highway 20 NE, City, GA  30012",-83.991767,33.742396,street_address,rooftop,NA,Conyers,Rockdale County
+Step By Step Recovery Inc.,P596,191 Plainview DR,Lawrenceville,GA,30046,"191 Plainview DR, City, GA  30046",-83.9912487,33.9450422,premise,rooftop,NA,Lawrenceville,Gwinnett County
+Lumpkin County Backpack Buddies,P377,44 School Drive,Dahlonega,GA,30533,"44 School Drive, City, GA  30533",-83.9910714,34.5424015,street_address,range_interpolated,NA,Dahlonega,Lumpkin County
+The Quinn House,P635,120 South Perry Street,Lawrenceville,GA,30045,"120 South Perry Street, City, GA  30045",-83.9898229,33.9556705,premise,rooftop,NA,Lawrenceville,Gwinnett County
+Springfield Christian Ministries Inc,P584,1877 Iris Drive SE,Conyers,GA,30013,"1877 Iris Drive SE, City, GA  30013",-83.9893006,33.6398902,street_address,rooftop,NA,Conyers,Rockdale County
+Lawrenceville Co-Op Ministry,P353,176 Church Street,Lawrenceville,GA,30045,"176 Church Street, City, GA  30045",-83.9859586,33.9512941,premise,rooftop,NA,Lawrenceville,Gwinnett County
+"Joy Community Kitchen, Inc.",P337,329 Grayson Highway,Lawrenceville,GA,30046,"329 Grayson Highway, City, GA  30046",-83.9846438,33.9424571,street_address,rooftop,NA,Lawrenceville,Gwinnett County
+New Hope Fellowship Baptist Church,P429,1456 Blue Ridge Hwy,Blairsville,GA,30512,"1456 Blue Ridge Hwy, City, GA  30512",-83.981908,34.8567412,premise,rooftop,NA,Blairsville,Union County
+Joshua's Place,P336,114 Duffey Rd.,Jackson,GA,30233,"114 Duffey Rd., City, GA  30233",-83.9800766,33.2772854,street_address,rooftop,NA,Jackson,Butts County
+Unseen Hands,P661,Antioch Baptist Church,Dahlonega,GA,30533,"Antioch Baptist Church, City, GA  30533",-83.979533,34.527042,point,manual,NA,Dawsonville,Lumpkin County
+United in Faith Christian Ministry,P658,330 Viewpoint Drive,Jackson,GA,30233,"330 Viewpoint Drive, City, GA  30233",-83.9687829,33.2703811,street_address,rooftop,NA,Jackson,Butts County
+Highlands Associated Reformed Presbyterian Church,P305,830 Grayson Parkway,Grayson,GA,30017,"830 Grayson Parkway, City, GA  30017",-83.9670097,33.8842989,street_address,rooftop,NA,Grayson,Gwinnett County
+Love Outreach Mission - World Outreach Mission,P373,1294 Braselton Highway,Lawrenceville,GA,30043,"1294 Braselton Highway, City, GA  30043",-83.965308,34.011256,street_address,rooftop,NA,Lawrenceville,Gwinnett County
+First Baptist Church of Blairsville,P221,296 Blueridge Street,Blairsville,GA,30514,"296 Blueridge Street, City, GA  30514",-83.9629743,34.8729843,premise,rooftop,NA,Blairsville,Union County
+Community Helping Place Inc,P134,1127 Georgia 52,Dahlonega,GA,30533,"1127 Georgia 52, City, GA  30533",-83.9564619,34.5430324,premise,rooftop,NA,Dahlonega,Lumpkin County
+"Streetwise Georgia, Inc.",P601,1770 Cedars Road,Lawrenceville,GA,30045,"1770 Cedars Road, City, GA  30045",-83.949217,33.980794,street_address,rooftop,NA,Lawrenceville,Gwinnett County
+Southeast Gwinnett Co Op,P579,55 Grayson Industrial Parkway,Grayson,GA,30017,"55 Grayson Industrial Parkway, City, GA  30017",-83.9490447,33.8929257,premise,rooftop,NA,Grayson,Gwinnett County
+Belmont Baptist Church,P050,3275 Iris Drive,Conyers,GA,30013,"3275 Iris Drive, City, GA  30013",-83.9427281,33.6254554,street_address,rooftop,NA,Conyers,Newton County
+Sinai Seventh - Day Adventist Church,P569,387 Stark Road,Jackson,GA,30233,"387 Stark Road, City, GA  30233",-83.9426284,33.3162164,premise,rooftop,NA,Jackson,Butts County
+Covenant Connections Church,P150,5818 Atlanta Highway,Flowery Branch,GA,30542,"5818 Atlanta Highway, City, GA  30542",-83.9367963,34.1727552,premise,rooftop,NA,Flowery Branch,Hall County
+"Waypoint Center, Inc.",P673,129 Centerpoint Drive,Dahlonega,GA,30533,"129 Centerpoint Drive, City, GA  30533",-83.9318828,34.6223252,street_address,rooftop,NA,Dahlonega,Lumpkin County
+"Living Waters Outreach, Inc. - Manna Life",P370,5833 Bark Camp Road,Murrayville,GA,30564,"5833 Bark Camp Road, City, GA  30564",-83.912996,34.405816,street_address,rooftop,NA,Murrayville,Hall County
+Gateway House,P259,Confidential,Gainesville,GA,30506,"Confidential, City, GA  30506",-83.9108968,34.335219,postal_code,approximate,NA,Gainesville,Hall County
+The Refuge - Pillar of Fire,P636,5434 Marlow Road,Murrayville,GA,30564,"5434 Marlow Road, City, GA  30564",-83.906272,34.415096,street_address,rooftop,NA,Murrayville,Hall County
+The River Community Assembly of God,P637,5043 Thompson Bridge Rd.,Murrayville,GA,30564,"5043 Thompson Bridge Rd., City, GA  30564",-83.8965285,34.4064855,street_address,rooftop,NA,Murrayville,Hall County
+Hamilton Mill United Methodist,P290,1450 Pine Rd,Dacula,GA,30019,"1450 Pine Rd, City, GA  30019",-83.8876141,34.0571961,street_address,rooftop,NA,Dacula,Gwinnett County
+South Hall Community Food Pantry,P578,4211 Walnut Street,Oakwood,GA,30566,"4211 Walnut Street, City, GA  30566",-83.8837473,34.227466,street_address,range_interpolated,NA,Oakwood,Hall County
+"Newton County Community Food Pantry, Inc.",P439,7125 Turner Lake Circle SW,Covington,GA,30014,"7125 Turner Lake Circle SW, City, GA  30014",-83.8799092,33.5911708,street_address,range_interpolated,NA,Covington,Newton County
+Rainbow Community Center,P507,7133 Turner Lake Circle,Covington,GA,30014,"7133 Turner Lake Circle, City, GA  30014",-83.8784312,33.5908834,street_address,rooftop,NA,Covington,Newton County
+Spirit of Joy Church,P583,3622 Atlanta Hwy,Flowery  Branch,GA,30542,"3622 Atlanta Hwy, City, GA  30542",-83.875161,34.217417,street_address,rooftop,NA,Flowery Branch,Hall County
+Rescate 2000,P515,2920 Florence Drive,Gainesville,GA,30504,"2920 Florence Drive, City, GA  30504",-83.874995,34.274724,street_address,rooftop,NA,Gainesville,Hall County
+Blackshear Place Back Pack Love,P060,3489 Atlanta Hwy,Flowery Branch,GA,30542,"3489 Atlanta Hwy, City, GA  30542",-83.866622,34.217915,street_address,rooftop,NA,Flowery Branch,Hall County
+Good Samaritan Food Bank,P273,1220 McEver Road,Gainesville,GA,30504,"1220 McEver Road, City, GA  30504",-83.8651164,34.2849793,street_address,rooftop,NA,Gainesville,Hall County
+University of North Georgia Food Pantry,P660,3820 Mundy Mill Rd,Oakwood,GA,30566,"3820 Mundy Mill Rd, City, GA  30566",-83.8646552,34.2376243,street_address,rooftop,NA,Oakwood,Hall County
+Cabin in the Woods,P072,3832 Lafayette Place,Gainesville,GA,30506,"3832 Lafayette Place, City, GA  30506",-83.862785,34.377858,street_address,rooftop,NA,Gainesville,Hall County
+Covington Square,P153,2101 Washington Street,Covington,GA,30014,"2101 Washington Street, City, GA  30014",-83.8625853,33.595661,premise,rooftop,NA,Covington,Newton County
+Covington First UMC,P152,1113 Conyers St SW,Covington,GA,30014,"1113 Conyers St SW, City, GA  30014",-83.8598686,33.5941381,street_address,rooftop,NA,Covington,Newton County
+City of Refuge - Straight Street Revolution,P110,2145 Centennial Drive,Gainesville,GA,30504,"2145 Centennial Drive, City, GA  30504",-83.858785,34.265688,street_address,rooftop,NA,Gainesville,Hall County
+"First United Methodist Church, Gainesvil",P235,2780 Thompson Bridge Road NE,Gainesville,GA,30506,"2780 Thompson Bridge Road NE, City, GA  30506",-83.8510296,34.3476973,premise,rooftop,NA,Gainesville,Hall County
+The John Paul II Training Center,P627,107 Stringer Ave.,Gainesville,GA,30501,"107 Stringer Ave., City, GA  30501",-83.8369237,34.2776457,premise,rooftop,NA,Gainesville,Hall County
+Community Food Pantry,P130,615 Oak Street,Gainesville,GA,30501,"615 Oak Street, City, GA  30501",-83.8337541,34.2997709,premise,rooftop,NA,Gainesville,Hall County
+Pentecostal Church Triumphants of Jesus,P486,794 Jesse Jewel Pkwy SW,Gainesville,GA,30501,"794 Jesse Jewel Pkwy SW, City, GA  30501",-83.8323246,34.2913781,premise,rooftop,NA,Gainesville,Hall County
+Salvation Army Shelter - Gainesville,P542,681 Dorsey Street,Gainesville,GA,30503,"681 Dorsey Street, City, GA  30503",-83.83229,34.28715,point,manual,NA,Gainesville,Hall County
+Junior League of Hall County,P339,1547 Riverside Drive,Gainesville,GA,30501,"1547 Riverside Drive, City, GA  30501",-83.831415,34.324547,street_address,rooftop,NA,Gainesville,Hall County
+Grace Episcopal Church,P277,422 Brenau Avenue,Gainesville,GA,30501,"422 Brenau Avenue, City, GA  30501",-83.8229055,34.3022608,premise,rooftop,NA,Gainesville,Hall County
+Angel House of Georgia,P031,822 Maple Street SW,Gainesville,GA,30501,"822 Maple Street SW, City, GA  30501",-83.822338,34.290616,premise,rooftop,NA,Gainesville,Hall County
+The Way,P641,857 South Bradford St,Gainesville,GA,30501,"857 South Bradford St, City, GA  30501",-83.8198064,34.2908147,street_address,range_interpolated,NA,Gainesville,Hall County
+Gainesville Hall County Community Council on Aging,P255,"430 Prior Street, SE",Gainesville,GA,30501,"430 Prior Street, SE, City, GA  30501",-83.8190848,34.2992052,premise,rooftop,NA,Gainesville,Hall County
+Fair Street-Butler High Schools Alumni Association,P202,731 EE Butler Parkway,Gainesville,GA,30501,"731 EE Butler Parkway, City, GA  30501",-83.817231,34.295817,street_address,rooftop,NA,Gainesville,Hall County
+St. John Baptist Church,P587,741 E.E. Butler Parkway,Gainesville,GA,30501,"741 E.E. Butler Parkway, City, GA  30501",-83.8170126,34.2955563,premise,rooftop,NA,Gainesville,Hall County
+SVDP  St. Michael's,P605,1440 Pearce Circle,Gainesville,GA,30501,"1440 Pearce Circle, City, GA  30501",-83.8165981,34.3153302,premise,rooftop,NA,Gainesville,Hall County
+First Presbyterian Church,P228,800 S. Enota Drive NE,Gainesville,GA,30501,"800 S. Enota Drive NE, City, GA  30501",-83.8150646,34.3161603,premise,rooftop,NA,Gainesville,Hall County
+Good Shepherd Lutheran Church,P274,600 South Enota Drive NE,Gainesville,GA,30501,"600 South Enota Drive NE, City, GA  30501",-83.8140906,34.3131077,premise,rooftop,NA,Gainesville,Hall County
+Riverbend Baptist Church - Joe's Place,P521,1715 Cleveland Hwy,Gainesville,GA,30501,"1715 Cleveland Hwy, City, GA  30501",-83.8140699,34.3302834,premise,rooftop,NA,Gainesville,Hall County
+Northside Church - Backpack Love,P461,4125 Cleveland Highway,Gainesville,GA,30506,"4125 Cleveland Highway, City, GA  30506",-83.805807,34.406601,street_address,rooftop,NA,Gainesville,Hall County
+"Damascus Road Recovery, Inc.",P164,270 Elks Club Rd.,Covington,GA,30015,"270 Elks Club Rd., City, GA  30015",-83.8042669,33.5862016,premise,rooftop,NA,Covington,Newton County
+New Gainesville Seventh Day Adventist,P426,1813 Floyd Road,Gainesville,GA,30507,"1813 Floyd Road, City, GA  30507",-83.792902,34.288639,street_address,rooftop,NA,Gainesville,Hall County
+Hopewell Baptist Church,P313,5086 Poplar Springs Rd.,Gainesville,GA,30507,"5086 Poplar Springs Rd., City, GA  30507",-83.7862594,34.2133085,street_address,rooftop,NA,Gainesville,Hall County
+Three Dimensional Life,P644,4141 Old Cornelia Hwy.,Gainesville,GA,30507,"4141 Old Cornelia Hwy., City, GA  30507",-83.7195295,34.3517487,street_address,rooftop,NA,Gainesville,Hall County
+Monroe First Congregational Holiness Church,P397,1113 South Broad ST,Monroe,GA,30655,"1113 South Broad ST, City, GA  30655",-83.7072822,33.781097,street_address,range_interpolated,NA,Monroe,Walton County
+Faith In Serving Humanity,P206,700 S. Madison Avenue,Monroe,GA,30655,"700 S. Madison Avenue, City, GA  30655",-83.7062553,33.7861174,premise,rooftop,NA,Monroe,Walton County
+First Day Outreach Baptist Ministries,P226,2483 Whitney Road,Social Circle,GA,30655,"2483 Whitney Road, City, GA  30655",-83.7044284,33.7138518,premise,rooftop,NA,Monroe,Walton County
+Monroe SDA Church,P398,1627 S Broad St # A,Monroe,GA,30655,"1627 S Broad St # A, City, GA  30655",-83.7009783,33.7704956,subpremise,rooftop,NA,Monroe,Walton County
+Walton County Senior Citizens Council,P671,1400 South Madison Ave.,Monroe,GA,30655,"1400 South Madison Ave., City, GA  30655",-83.7001856,33.7728581,street_address,rooftop,NA,Monroe,Walton County
+Walker Baptist Church,P670,1150 Good Hope Road,Monroe,GA,30655,"1150 Good Hope Road, City, GA  30655",-83.6758458,33.7985221,street_address,rooftop,NA,Monroe,Walton County
+Lula UMC - Shared Blessings,P376,5915 Toombs Street,Lula,GA,30554,"5915 Toombs Street, City, GA  30554",-83.670062,34.3867649,street_address,rooftop,NA,Lula,Hall County
+"Lula Church, Inc",P375,6455 Main Street,Lula,GA,30554,"6455 Main Street, City, GA  30554",-83.6574304,34.3964896,premise,rooftop,NA,Lula,Hall County
+Liberty Baptist Church - Loaves and Fishes,P356,7439 W. County Line Road,Lula,GA,30554,"7439 W. County Line Road, City, GA  30554",-83.6495143,34.3410029,premise,rooftop,NA,Lula,Hall County
+Morgan Madison The Caring Place,P399,1140 Monticello Road Suite 400,Madison,GA,30650,"1140 Monticello Road Suite 400, City, GA  30650",-83.4906514,33.5774154,subpremise,rooftop,NA,Madison,Morgan County
+Boys & Girls Club/Calvary Baptist Church,P064,184 Academy St.,Madison,GA,30650,"184 Academy St., City, GA  30650",-83.4708984,33.5959168,premise,rooftop,NA,Madison,Morgan County
+Rainbow Community Center  Food Pantry,P508,9 Hemlock St,Porterdale,GA,30070,"9 Hemlock St, City, GA  30070",-83.89949,33.57336,point,manual,NA,Porterdale,Newton County
+New Jerusalem Outreach,P432,315 5th Avenue,Decatur,GA,30034,"315 5th Avenue, City, GA  30034",-84.30561,33.75275,point,manual,NA,Decatur,DeKalb County
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
