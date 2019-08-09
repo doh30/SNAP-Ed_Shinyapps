@@ -356,7 +356,7 @@ output$map1<-renderLeaflet({
 
   leaflet(cty_boundary3()) %>%
   fitBounds(long_min3,latit_min3,long_max3,latit_max3) %>%
-   addProviderTiles(providers$CartoDB.Positron)
+   addTiles()
 })
 
 # observeEvent(input$county1,{
