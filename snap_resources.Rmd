@@ -60,6 +60,20 @@ checkboxGroupInput("auth_program",
                     choices = list("SNAP" = "SNAP", 
                                    "WIC" = "WIC"),
                               selected = c("SNAP","WIC"))
+                              
+checkboxGroupInput("storegroup",
+                    ("Store group"),
+                    choices = list("Farmers Market" = "Farmers Market",
+                                   "Food Pantry" = "Food Pantry",
+                                   "Grocery" = "Grocer",
+                                   "Local Foods" = "Local foods",
+                                   "Small Retail" = "Small retail",
+                                   "Specialty" = "Specialty",
+                                   "Supermarket" = "Supermarket",
+                                   "Other Store" = "Other store",
+                                   "WIC_No Category" = "WIC_No category"),
+                              selected = c("Farmers Market","Food Pantry", "Grocer", "Local foods",
+                                             "Small retail", "Specialty", "Supermarket", "Other store", "WIC_No category"))
 
 HTML("If no stores are visible, click on the button below")
 
@@ -107,14 +121,12 @@ cty_boundary<-reactive({
 
 #Load ga_retailers
 retailersdata<-reactive({
-    data<-read_csv("data/program_retail_ga.csv") %>%
-      st_as_sf(coords=c("X","Y"),crs=4326)
+    data<-st_read("data/program_retail_ga.GeoJSON")
   })
 
 #Load store data from county selection
 countydata_reactive<-reactive({
-  data<-read_csv("data/program_retail_ga.csv") %>%
-    st_as_sf(coords=c("X","Y"),crs=4326,remove=FALSE) %>%
+  data<-st_read("data/program_retail_ga.GeoJSON") %>%
     mutate(lat=X,long=Y,
       #Define the popup
       addr_full=if_else(is.na(addr_add),
@@ -129,13 +141,24 @@ countydata_reactive<-reactive({
                        "<br><b>Group category: </b>",store_grou,
                        "<br><b>Authorization: </b>",program,
                        # "<br><b>Years authorized for SNAP*: </b>",year_range,
-                       "<br>*2018 year data are available.",sep="")) %>%
-    filter(Source %in% input$auth_program)
+                       "<br>*2018 year data are available.",sep=""))
   })
+
+#Subset data based on source
+countydata_select<-reactive({
+  countydata_reactive() %>%
+    filter(sour_auth %in% input$auth_program)
+})
+
+#Subset data based on store type
+countydata_select<-reactive({
+  countydata_reactive() %>%
+    filter(store_grou %in% input$storegroup)
+})
 
 # observeEvent
 countydata_df<-reactive({
-  countydata_reactive() %>%
+  countydata_select() %>%
   st_set_geometry(NULL) %>%
     select(-lat,-long,-addr_full,-content)
 })
@@ -173,13 +196,13 @@ observeEvent(input$update,{
   
   # this updates the map by: 
   leafletProxy("map") %>% 
-  setView(lng=longitude, lat=latitude, zoom=12) %>%  # recentering it around the provided address and setting zoom level
+  setView(lng=longitude, lat=latitude, zoom=15) %>%  # recentering it around the provided address and setting zoom level
   addMarkers(lng=longitude, lat=latitude, popup=input$address) # adding a marker for the address
     })
     
-observeEvent(c(input$Source, input$store_grou, input$county, input$loadstores1, input$update),{
+observeEvent(c(input$sour_auth, input$store_grou, input$county, input$loadstores1, input$update),{
  #storepal<-colorFactor(palette="YlOrRd",msadata_reactive()$year_range,reverse=TRUE)
-  storepal<-colorFactor(palette="Dark2",countydata_reactive()$store_grou,reverse=TRUE)
+  storepal<-colorFactor(palette="Paired",countydata_reactive()$store_grou,reverse=TRUE)
 
  leafletProxy("map") %>%
     clearMarkers() %>%
@@ -189,6 +212,14 @@ observeEvent(c(input$Source, input$store_grou, input$county, input$loadstores1, 
                 opacity=0.7,
                 stroke=TRUE,
                 color="black") %>%
+    addCircleMarkers(data=countydata_select(),
+                opacity=0.4,
+                color="#603a31",
+                weight=2,
+                fillOpacity=0.8,
+                radius=4,
+                fillColor=~storepal(store_grou),
+                popup=countydata_select()$content) %>%              
     addCircleMarkers(data=retailersdata(),
                opacity=0.4,
                color="#603a31",
