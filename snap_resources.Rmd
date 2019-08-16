@@ -322,7 +322,7 @@ county1data_reactive<-reactive({
     mutate(fips=paste("G",stcty_fips,sep="")) %>%
     select(fips))
 
-  data<-st_read("data/snap_programs_gacounties.gpkg",layer=fips,stringsAsFactors=FALSE) %>%
+  data<-st_read("data/programloc_190816.gpkg",layer=fips,stringsAsFactors=FALSE) %>%
     mutate(lat=X,long=Y,
       #Define the popup
       addr_full=if_else(is.na(Zip),
