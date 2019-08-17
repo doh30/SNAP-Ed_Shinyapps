@@ -370,7 +370,8 @@ output$map1<-renderLeaflet({
 
 observeEvent(c(input$officegroup, input$county1, input$loadstores2),{
  #storepal<-colorFactor(palette="YlOrRd",msadata_reactive()$year_range,reverse=TRUE)
-  storepal<-colorFactor(palette="Dark2",county1data_reactive()$Type,reverse=TRUE)
+  # storepal<-colorFactor(palette="Dark2",county1data_reactive()$Type,reverse=TRUE)
+  storepal<-colorFactor(topo.colors(7), county1data_reactive()$Type)
 
   long_max4<-as.vector(st_bbox(cty_boundary3()))[3]+buffer
   latit_max4<-as.vector(st_bbox(cty_boundary3()))[4]+buffer
