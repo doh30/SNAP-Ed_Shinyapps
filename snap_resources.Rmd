@@ -331,8 +331,11 @@ county1data_reactive<-reactive({
       addr_full=if_else(is.na(Zip),
                          paste("<br>",addresses),
                          paste("<br>",addresses," ",Zip,sep="")),
-      content=paste("<size=1>",Name,"</size>", 
-                       addr_full))
+      content=paste("<b>Program category: </b>",Type,
+                    "<br><b>Program name: </b><size=1>",Name,"</size>", 
+                    "<br><b>Program location: </b>",addr_full
+                    ))
+  
   })
 
 #Subset data based on store type
@@ -375,7 +378,7 @@ observeEvent(c(input$officegroup, input$county1, input$loadstores2),{
  #storepal<-colorFactor(palette="YlOrRd",msadata_reactive()$year_range,reverse=TRUE)
   # storepal<-colorFactor(palette="Dark2",county1data_reactive()$Type,reverse=TRUE)
   #storepal1<-colorFactor(topo.colors(7), county1data_reactive()$Type)
-  storepal1<-colorFactor(palette=c("red","blue","green","purple","orange"),unique(programloc$Type),reverse=TRUE)
+  storepal1<-colorFactor(palette= c("greenyellow","limegreen","turquoise1","dodgerblue2","goldenrod1","brown2","mediumpurple1"),unique(programloc$Type),reverse=TRUE)
 
   long_max4<-as.vector(st_bbox(cty_boundary3()))[3]+buffer
   latit_max4<-as.vector(st_bbox(cty_boundary3()))[4]+buffer

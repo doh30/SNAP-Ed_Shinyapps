@@ -1,12 +1,13 @@
 ##Create the geopackage data for the Shiny application and data for the analysis
+setwd("C:/Project/SNAP-Ed/snap-resource-shiny")
 
 library(tidyverse)
 library(sf)
 
 #Read the store data
-stores<-read_csv("data/snap_retailers_usda_ga_ver3.csv")
+stores<-read_csv("data/programloc_190816.csv")
 stores_sf<-st_as_sf(stores,coords=c("X","Y"),crs=4326,remove=FALSE)
-stores_sf<-st_write(stores_sf,"data/snap_retailers_usda_ga_ver3.gpkg",delete_layer=TRUE)
+stores_sf<-st_write(stores_sf,"data/programloc_190816.gpkg",delete_layer=TRUE)
 
 # #Write to the github repo
 # stores_usda<-stores %>% select(store_name:dup)
@@ -51,7 +52,7 @@ cty_write<-function(cty_id){
   
   stores_select_sf<-st_as_sf(stores_select,coords=c("X","Y"),crs=4326,remove=FALSE)
   filename<-paste("G",cty_id,sep="")
-  st_write(stores_select_sf,"data/snap_retailers_usda_ga_ver3.gpkg",layer=filename,delete_layer=TRUE)
+  st_write(stores_select_sf,"data/programloc_190816.gpkg",layer=filename,delete_layer=TRUE)
 }
 
 map(counties_sm$stcty_fips,cty_write)
