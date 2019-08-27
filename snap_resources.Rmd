@@ -38,22 +38,9 @@ This map allows you to view SNAP and WIC authorized retailers in Georgia by. Cho
 selectInput("county","County selection",
             choices=gacounties$fullname)
 
-textInput(inputId = "address", label = "Enter address:", 
-            value="", placeholder = "e.g. 210 Field St., Athens, GA, 30602")
-actionButton("update" , label = HTML("Update map and center<br />around provided address"), icon("refresh"), class = "btn btn-primary")
-
-# pickerInput(
-#   inputId = "years2", 
-#   label = "Select the year(s) retailers were SNAP authorized", 
-#   choices = years, 
-#   selected=max(years),
-#   options = list(
-#     `actions-box` = TRUE, 
-#     size = 10,
-#     `selected-text-format` = "count > 4"
-#   ), 
-#   multiple = TRUE
-# )
+# textInput(inputId = "address", label = "Enter address:", 
+#             value="", placeholder = "e.g. 210 Field St., Athens, GA, 30602")
+# actionButton("update" , label = HTML("Update map and center<br />around provided address"), icon("refresh"), class = "btn btn-primary")
 
 checkboxGroupInput("auth_program", 
                     ("Source"), 
@@ -64,7 +51,7 @@ checkboxGroupInput("auth_program",
 checkboxGroupInput("storegroup",
                     ("Store group"),
                     choices = list("Farmers Market" = "Farmers Market",
-                                   "Food Pantry" = "Food Pantry",
+                                   #"Food Pantry" = "Food Pantry",
                                    "Grocery" = "Grocer",
                                    "Local Foods" = "Local foods",
                                    "Small Retail" = "Small retail",
@@ -72,8 +59,12 @@ checkboxGroupInput("storegroup",
                                    "Supermarket" = "Supermarket",
                                    "Other Store" = "Other store",
                                    "WIC_No Category" = "WIC_No category"),
-                              selected = c("Farmers Market","Food Pantry", "Grocer", "Local foods",
-                                             "Small retail", "Specialty", "Supermarket", "Other store", "WIC_No category"))
+                    selected = c("Farmers Market","Grocer", "Local foods",
+                         "Small retail", "Specialty", "Supermarket", "Other store", "WIC_No category"))
+
+radioButtons("pantry_sel",
+                   ("Show food pantries?"),
+                   choices=list("Yes","No"))
 
 HTML("If no stores are visible, click on the button below")
 
@@ -125,36 +116,31 @@ cty_boundary<-reactive({
 #   })
 
 #Load store data from county selection
-countydata_reactive<-reactive({
-  data<-st_read("data/program_retail_ga.GeoJSON") %>%
+  storedata<-st_read("data/program_retail_ga.GeoJSON",quiet=TRUE) %>%
     mutate(lat=X,long=Y,
       #Define the popup
       addr_full=if_else(is.na(addr_add),
                          paste("<br><b>",addr_num," ",addr_st," ",sep=""),
                          paste("<br><b>",addr_num," ",addr_st," ",addr_add,sep="")),
-      # year_range=case_when(year_first==year_last~as.character(year_first),
-      #                      year_first!=year_last~paste(year_first,year_last,sep="-")),
       content=paste("<strong><size=1>",store_name,"</strong></size>", 
                        addr_full,
                        "<br>",city,", ",state,"  ",zip5,"</b>",
                        "<br><br><b>USDA store classification:</b> ",store_type,
                        "<br><b>Group category: </b>",store_grou,
                        "<br><b>Authorization: </b>",program,
-                       # "<br><b>Years authorized for SNAP*: </b>",year_range,
                        "<br>*2018 year data are available.",sep=""))
-  })
-
-#Subset data based on source
+  pantries<-storedata %>%
+    filter(store_grou=="Food Pantry")
+  
+#Subset data based on source 
+  ###NEED TO ADD BUTTON FOR PANTRIES
 countydata_select<-reactive({
-  countydata_reactive() %>%
-    filter(sour_auth %in% input$auth_program & store_grou %in% input$storegroup)
+  grp1<-storedata %>%
+    filter(sour_auth %in% input$auth_program & store_grou %in% input$storegroup) 
+  
+  grp2<-if(input$pantry_sel=="No"){grp1} else {rbind(grp1,pantries)}
+  grp2
 })
-
-# #Subset data based on store type
-# countydata_select<-reactive({
-#   countydata_reactive() %>%
-#     filter(store_grou %in% input$storegroup)
-# })
 
 # observeEvent
 countydata_df<-reactive({
@@ -172,9 +158,9 @@ output$map<-renderLeaflet({
   long_min<-as.vector(st_bbox(cty_boundary()))[1]-buffer
   latit_min<-as.vector(st_bbox(cty_boundary()))[2]-buffer
 
-  leaflet(countydata_reactive()) %>%
-  fitBounds(long_min,latit_min,long_max,latit_max) %>%
-  addTiles() 
+  leaflet(storedata) %>%
+    fitBounds(long_min,latit_min,long_max,latit_max) %>%
+        addProviderTiles(providers$CartoDB.Positron) 
 })
 
 observeEvent(input$county,{
@@ -186,23 +172,23 @@ observeEvent(input$county,{
   leafletProxy("map") %>%
     fitBounds(long_min1,latit_min1,long_max1,latit_max1)})
     
-# Add in any manually entered address
-observeEvent(input$update,{
-  # Geocode address
-  full.address <- paste(input$address)
-  geocoded.address <- geocode(full.address, source=c("dsk"), messaging=TRUE, override_limit=TRUE)
-  longitude <- geocoded.address$lon
-  latitude <- geocoded.address$lat
-  
-  # this updates the map by: 
-  leafletProxy("map") %>% 
-  setView(lng=longitude, lat=latitude, zoom=15) %>%  # recentering it around the provided address and setting zoom level
-  addMarkers(lng=longitude, lat=latitude, popup=input$address) # adding a marker for the address
-    })
+# # Add in any manually entered address
+# observeEvent(input$update,{
+#   # Geocode address
+#   full.address <- paste(input$address)
+#   geocoded.address <- geocode(full.address, source=c("dsk"), messaging=TRUE, override_limit=TRUE)
+#   longitude <- geocoded.address$lon
+#   latitude <- geocoded.address$lat
+#   
+#   # this updates the map by: 
+#   leafletProxy("map") %>% 
+#     addProviderTiles(providers$CartoDB.Positron) %>%
+#   setView(lng=longitude, lat=latitude, zoom=15) %>%  # recentering it around the provided address and setting zoom level
+#   addMarkers(lng=longitude, lat=latitude, popup=input$address) # adding a marker for the address
+#     })
     
-observeEvent(c(input$sour_auth, input$store_grou, input$county, input$loadstores1, input$update),{
- #storepal<-colorFactor(palette="YlOrRd",msadata_reactive()$year_range,reverse=TRUE)
-storepal<-colorFactor(palette="Paired",countydata_reactive()$store_grou,reverse=TRUE)
+observeEvent(c(input$sour_auth, input$store_grou, input$county, input$loadstores1, input$update,input$pantry_sel),{
+storepal<-colorFactor(palette="Paired",storedata$store_grou,reverse=TRUE)
 
  leafletProxy("map") %>%
     clearMarkers() %>%
@@ -220,22 +206,7 @@ storepal<-colorFactor(palette="Paired",countydata_reactive()$store_grou,reverse=
                 radius=4,
                 fillColor=~storepal(store_grou),
                 popup=countydata_select()$content) %>%
-   #  addCircleMarkers(data=retailersdata(),
-   #             opacity=0.4,
-   #             color="#603a31",
-   #             weight=2,
-   #             fillOpacity=0.8,
-   #             radius=4,
-   #             fillColor=~storepal(store_grou))%>%
-   # addCircleMarkers(data=countydata_reactive(),
-   #             opacity=0.4,
-   #             color="#603a31",
-   #             weight=2,
-   #             fillOpacity=0.8,
-   #             radius=4,
-   #             fillColor=~storepal(store_grou),
-   #             popup=countydata_reactive()$content) %>%
-   addLegend(data=countydata_reactive(),"topright",pal=storepal,
+   addLegend(data=storedata,"topright",pal=storepal,
              values=~store_grou,title="Store category",
              opacity=1)
 })
@@ -362,7 +333,7 @@ output$map1<-renderLeaflet({
 
   leaflet(cty_boundary3()) %>%
   fitBounds(long_min3,latit_min3,long_max3,latit_max3) %>%
-   addTiles()
+       addProviderTiles(providers$CartoDB.Positron) 
 })
 
 # observeEvent(input$county1,{
