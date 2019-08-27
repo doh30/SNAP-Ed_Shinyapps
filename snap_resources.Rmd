@@ -235,12 +235,12 @@ checkboxGroupInput("officegroup",
                     ("Programs"), 
                     choices = list("UGA Extension" = "UGA Extension", 
                                    "DFCS" = "DFCS", 
-                                   "County Health Office" = "HealthDep",
-                                   "UGA SNAP-Ed" = "UGA Site Loc",
+                                   "County Health Office" = "County Health Office",
+                                   "UGA SNAP-Ed" = "UGA SNAP-Ed",
                                    "Open Hand Atlanta" = "Open Hand Atlanta",
                                    "HealthMPowers" = "HealthMPowers",
-                                   "Dept of Public Health" = "DPH"),
-                              selected = c("UGA Extension","DFCS", "HealthDep", "UGA Site Loc", "Open Hand Atlanta", "HealthMPowers", "DPH"))
+                                   "Dept of Public Health" = "Dept of Public Health"),
+                              selected = c("UGA Extension","DFCS", "County Health Office", "UGA SNAP-Ed", "Open Hand Atlanta", "HealthMPowers", "Dept of Public Health"))
 
 HTML("If no offices are visible, click on the button below")
 
