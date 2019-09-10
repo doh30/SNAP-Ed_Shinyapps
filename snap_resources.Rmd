@@ -286,6 +286,10 @@ cty_boundary3<-reactive({
   spTransform(cty_boundary2, CRS("+init=epsg:4326"))
 })
 
+#Eligibility map
+eligibility <- geojsonio::geojson_read("data/eligible_area_2019.geojson",
+  what = "sp")
+  
 #Load store data from county selection
 programloc<-st_read("data/programloc_190816.gpkg",layer="programloc_190816",stringsAsFactors=FALSE,quiet=TRUE)
 
@@ -333,7 +337,14 @@ output$map1<-renderLeaflet({
 
   leaflet(cty_boundary3()) %>%
   fitBounds(long_min3,latit_min3,long_max3,latit_max3) %>%
-       addProviderTiles(providers$CartoDB.Positron) 
+       addProviderTiles(providers$CartoDB.Positron) %>%
+       addPolygons(data = eligibility,
+                   stroke = FALSE, fillColor = "grey",
+                   fillOpacity = 0.3, smoothFactor = 2, group = "SNAP-Ed eligible area") %>%
+       addLayersControl(
+         overlayGroups = c("SNAP-Ed eligible area"),
+         options = layersControlOptions(collapsed = FALSE)
+       )
 })
 
 # observeEvent(input$county1,{
