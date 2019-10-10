@@ -1,0 +1,163 @@
+id,name,address 1,address 2,city,state,zip,phone,email
+1,Appling County,83 South Oak St.,,Baxley,GA,31513,912-367-8130,uge3001@uga.edu
+2,Atkinson County,636 Austin Ave. East,,Pearson,GA,31642,912-422-3277,uge4003@uga.edu
+3,Bacon County,203 South Dixon Street,"Ag Complex, Suite 3",Alma,GA,31510,912-632-5601,uge4005@uga.edu
+4,Baker County,398 GA Highway 37 SW,Department 1,Newton,GA,39870,229-734-3015,uge4007@uga.edu
+5,Baldwin County,320 Linda Drive NE,,Milledgeville,GA,31061,478-445-4394,uge3009@uga.edu
+6,Banks County,413 Evans Street,,Homer,GA,30547,706-677-6230,uge1011@uga.edu
+7,Barrow County,"90 Lanthier Street, Suite B",,Winder,GA,30680,770-307-3029,uge1013@uga.edu
+8,Bartow County,320 West Cherokee Avenue,Room 112,Cartersville,GA,30120,770-387-5142,uge1015@uga.edu
+9,Ben Hill County,406 West Palm Street,,Fitzgerald,GA,31750,229-426-5175,uge4017@uga.edu
+10,Berrien County,"516A County Farm Road, Ste 1",,Nashville,GA,31639,229-686-5431,uge4019@uga.edu
+11,Bibb County,145 First Street,,Macon,GA,31201,478-751-6338,uge2021@uga.edu
+12,Bleckley County,165 East Peacock Street,,Cochran,GA,31014,478-934-3220,uge2023@uga.edu
+13,Brantley County,10303 North Main St.,,Nahunta,GA,31553,912-462-5724,uge3025@uga.edu
+14,Brooks County,400 E Courtland Avenue,,Quitman,GA,31643,229-263-4103,uge4027@uga.edu
+15,Bryan County,131 N. College Street,,Pembroke,GA,31321,912-653-2231,uge3029@uga.edu
+16,Bulloch County,151 Langston Chapel Road,"Bulloch Center for Agriculture, Suite 600",Statesboro,GA,30458,912-871-6130,uge3031@uga.edu
+17,Burke County,715 West 6th Street,Burke County Office Park,Waynesboro,GA,30830,706-554-2119,uge3033@uga.edu
+18,Butts County,576 Ernest Biles Drive,Butts Co,Jackson,GA,30233,770-775-8209,uge2035@uga.edu
+19,Calhoun County,10971 Dickey Street,,Morgan,GA,39866,229-849-2685,uge4037@uga.edu
+20,Camden County,1409 Georgia Avenue,,Woodbine,GA,31569,912-576-3219,uge3039@uga.edu
+21,Candler County,"1075 E Hiawatha St, Suite B",,Metter,GA,30439,912-685-2408,uge3043@uga.edu
+22,Carroll County,900 Newnan Rd,,Carrollton,GA,30117,770-836-8546,uge2045@uga.edu
+23,Catoosa County,43 Maple Street,,Ringgold,GA,30736,706-935-4211,uge1047@uga.edu
+24,Charlton County,55 Kingsland Drive,,Folkston,GA,31537,912-496-2040,uge4049@uga.edu
+25,Chatham County,17 Minus Avenue,,Garden City,GA,31408,912-652-7981,uge3051@uga.edu
+26,Chattahoochee County,420 10th Street,Muscogee County County,Columbus,GA,31901,706-653-4200,uge2215@uga.edu
+27,Chattooga County,40 Middle School Rd.,,Summerville,GA,30747,706-857-0744,uge1055@uga.edu
+28,Cherokee County,1130 Bluffs Parkway,,Canton,GA,30114,770-721-7803,uge1057@uga.edu
+29,Clarke County,2152 West Broad Street,,Athens,GA,30606,706-613-3640,uge1059@uga.edu
+30,Clay County,107 East Commerce St,,Fort Gaines,GA,39851,229-768-2247,uge4061@uga.edu
+31,Clayton County,"1262 Government Circle, Ste 40",,Jonesboro,GA,30236,770-473-3945,uge1063@uga.edu
+32,Clinch County,"313 West Dame Avenue, Suite A",,Homerville,GA,31634,912-487-2169,uge4065@uga.edu
+33,Cobb County,"678 South Cobb Drive, Suite 200",,Marietta,GA,30060,770-528-4070,uge1067@uga.edu
+34,Coffee County,709 East Ward Street,,Douglas,GA,31533,912-384-1402,uge4069@uga.edu
+35,Colquitt County,"350 Building 1, Room 132",Veterans Parkway North,Moultrie,GA,31788,229-616-7455,uge4071@uga.edu
+36,Columbia County,6420 Pollards Pond Road,,Appling,GA,30802,706-541-4011,uge3073@uga.edu
+37,Cook County,206 East 9th Street,,Adel,GA,31620,229-896-7456,uge4075@uga.edu
+38,Coweta County,255 Pine Road,,Newnan,GA,30263,770-254-2620,uge2077@uga.edu
+39,Crawford County,100 Wright Avenue,,Roberta,GA,31078,478-836-3121,uge2079@uga.edu
+40,Crisp County,"110 W 13th Avenue, Suite C",,Cordele,GA,31015,229-276-2612,uge2081@uga.edu
+41,Dade County,114 Pace Drive,,Trenton,GA,30752,706-657-4116,uge1083@uga.edu
+42,Dawson County,298 Academy Avenue,,Dawsonville,GA,30534,706-265-2442,uge1085@uga.edu
+43,Decatur County,101 B Ag Lane,Ag Bldg.,Bainbridge,GA,39817,229-248-3033,uge4087@uga.edu
+44,DeKalb County,"4380 Memorial Drive, Ste. 200",,Decatur,GA,30032,404-298-4080,uge1089@uga.edu
+45,Dodge County,230 Foster Street,Suite A,Eastman,GA,31023,478-374-8137,uge2091@uga.edu
+46,Dooly County,"1150 Industrial Drive, Suite 132",,Vienna,GA,31092,229-268-4171,uge2093@uga.edu
+47,Dougherty County,"125 Pine Avenue, Suite 100",,Albany,GA,31701,229-436-7216,uge4095@uga.edu
+48,Douglas County,6279 Fairburn Rd.,,Douglasville,GA,30134,770-920-7224,uge2097@uga.edu
+49,Early County,14415 Magnolia Street,,Blakely,GA,39823,229-723-3072,uge4099@uga.edu
+50,Echols County,109 Courthouse Street,,Statenville,GA,31648,229-559-5562,uge4101@uga.edu
+51,Effingham County,284 Highway 119  S.,,Springfield,GA,31329,912-754-8040,uge3103@uga.edu
+52,Elbert County,1088 Ruckersville Rd.,,Elberton,GA,30635,706-283-2037,uge1105@uga.edu
+53,Emanuel County,129 N Anderson Drive,,Swainsboro,GA,30401,478-237-1226,uge3107@uga.edu
+54,Evans County,102 Daniel St.,,Claxton,GA,30417,912-739-1292,uge3109@uga.edu
+55,Fannin County,"205 Church Street, Suite 1",,Blue Ridge,GA,30513,706-632-3061,uge1111@uga.edu
+56,Fayette County,140 Stonewall Avenue W,Suite 209,Fayetteville,GA,30214,"770-305-5412, Ext. 7",uge2113@uga.edu
+57,Floyd County,12 East 4th Avenue,Old Courthouse,Rome,GA,30161,706-295-6210,uge1115@uga.edu
+58,Forsyth County,"875 Lanier 400 Parkway, Suite 158",,Cumming,GA,30040,770-887-2418,uge1117@uga.edu
+59,Franklin County,"280 Busha Rd., Suite A",,Carnesville,GA,30521,706-384-2843,uge1119@uga.edu
+60,Fulton County - Atlanta History Center,Atlanta History Center,130 West Paces Ferry Road NW,Atlanta,GA,30305,404-814-4099,
+61,Fulton County - Camp Fulton/Truitt 4-H Center,4300 Herschel Road,,College Park,GA,30337,404-762-4085,
+62,Fulton County - North Office,"N Fulton Service Center, Room 248",7741 Roswell Road NE,Atlanta,GA,30350,404-613-7670,uge1918@uga.edu
+63,Fulton County - South Office,1757 Washington Road,,East Point,GA,30344,404-762-4077,uge1121E@uga.edu
+64,Gilmer County,"1123 Progress Rd, Suite A",,Ellijay,GA,30540,706-635-4426,uge1123@uga.edu
+65,Glascock County,676 West Main Street,,Gibson,GA,30810,706-598-2811,uge3125@uga.edu
+66,Glynn County,"Ballard Complex, Suite 110",325 Old Jesup Rd.,Brunswick,GA,31520,912-554-7577,uge3127@uga.edu
+67,Gordon County,1282 SR 53 Spur SW,Suite 200,Calhoun,GA,30701,706-629-8685,uge1129@uga.edu
+68,Grady County,65 11th Avenue NE,Agri-Center,Cairo,GA,39828,229-377-1312,uge4131@uga.edu
+69,Greene County,"1180 C. Weldon Smith Dr, Suite 110",,Greensboro,GA,30642,706-453-2083,uge3133@uga.edu
+70,Gwinnett County,"750 South Perry Street, Suite 400",,Lawrenceville,GA,30046,678-377-4010,uge1135@uga.edu
+71,Habersham County,555 Monroe Street,Unit 50 Box 13,Clarkesville,GA,30523,706-754-2318,uge1137@uga.edu
+72,Hall County,"734 E. Crescent Drive, Suite 300",,Gainesville,GA,30501,770-535-8293,uge1139@uga.edu
+73,Hancock County,12534 Augusta Hwy,,Sparta,GA,31087,706-444-7573,uge3141@uga.edu
+74,Haralson County,4266 Ga Highway 120,County Office Building,Buchanan,GA,30113,770-646-2026,uge2143@uga.edu
+75,Harris County,121 N. Old College Street,,Hamilton,GA,31811,706-628-4824,uge2145@uga.edu
+76,Hart County,200 Arthur Street,,Hartwell,GA,30643,706-376-3134,uge1147@uga.edu
+77,Heard County,101 Glover Road,,Franklin,GA,30217,706-675-3513,uge2149@uga.edu
+78,Henry County,97 Lake Dow Road,,McDonough,GA,30252,770-288-8421,uge2151@uga.edu
+79,Houston County,801 Main Street,,Perry,GA,31069,478-987-2028,uge2153a@uga.edu
+80,Irwin County,107 West Fourth Street,,Ocilla,GA,31774,229-468-7409,uge4155@uga.edu
+81,Jackson County,255 Curtis H. Spence Drive,,Jefferson,GA,30549,706-367-6344,uge1157@uga.edu
+82,Jasper County,162 North Warren Street,,Monticello,GA,31064,706-468-6479,uge2159@uga.edu
+83,Jeff Davis County,14 Jeff Davis Street,,Hazlehurst,GA,31539,912-375-6648,uge4161@uga.edu
+84,Jefferson County,2529 US Highway 1 N,,Louisville,GA,30434,478-625-3046,uge3163@uga.edu
+85,Jenkins County,434 East Barney Avenue,,Millen,GA,30442,478-982-4408,uge3165@uga.edu
+86,Johnson County,239 Herschel Walker Drive,,Wrightsville,GA,31096,478-864-3373,uge3167@uga.edu
+87,Jones County,166 Industrial Blvd,Jones Co Govt Center,Gray,GA,31032,478-986-3958,uge2169@uga.edu
+88,Lamar County,"118 Academy Dr, Suite A",,Barnesville,GA,30204,770-358-5163,uge2171@uga.edu
+89,Lanier County,162 West Thigpen Avenue,,Lakeland,GA,31635,229-482-3895,uge4173@uga.edu
+90,Laurens County,1511A Telfair Street,,Dublin,GA,31021,478-272-2277,uge3175@uga.edu
+91,Lee County,107 Main Street,Govt. Building,Leesburg,GA,31763,229-759-6025,uge4177@uga.edu
+92,Liberty County,"100 Main St., Suite 1200",,Hinesville,GA,31313,912-876-2133,uge3179@uga.edu
+93,Lincoln County,288 Peachtree Street,Extension Building,Lincolnton,GA,30817,706-359-3233,uge3181@uga.edu
+94,Long County,"479 South McDonald St, Suite C",,Ludowici,GA,31316,912-545-9549,uge3183@uga.edu
+95,Lowndes County,Lowndes County Extension,2102 East Hill Avenue,Valdosta,GA,31601,229-333-5185,uge4185@uga.edu
+96,Lumpkin County,"26 Johnson Street, Suite A",,Dahlonega,GA,30533,706-864-2275,uge1187@uga.edu
+97,Macon County,105 South Sumter Street,Courthouse Annex,Oglethorpe,GA,31068,478-472-7588,uge2189@uga.edu
+98,Madison County,97 Sunset Drive,,Danielsville,GA,30633,706-795-2281,uge1191@uga.edu
+99,Marion County,111 Baker Street,PO Box 389,Buena Vista,GA,31803,229-649-2625,uge2193@uga.edu
+100,McDuffie County,337 Main Street,Room 108,Thomson,GA,30824,706-595-1815,uge3195@uga.edu
+101,McIntosh County,601 North Way,Suite A,Darien,GA,31305,912-437-6651,uge3197@uga.edu
+102,Meriwether County,1250 Terrell Street,,Greenville,GA,30222,706-672-4235,uge2199@uga.edu
+103,Miller County,406 W Crawford Street,Agricultural Center,Colquitt,GA,39837,229-758-4106,uge4201@uga.edu
+104,Mitchell County,4590 Highway 37 East,,Camilla,GA,31730,229-336-2066,uge4205@uga.edu
+105,Monroe County,90 Martin Luther King Jr Dr,,Forsyth,GA,31029,478-994-7014,uge2207@uga.edu
+106,Montgomery County,130 West Broad Street,,Mount Vernon,GA,30445,912-583-2240,uge3209@uga.edu
+107,Morgan County,440 Hancock Street,,Madison,GA,30650,706-342-2214,uge3211@uga.edu
+108,Murray County,664 Highway 52,,Chatsworth,GA,30705,706-695-3031,uge1213@uga.edu
+109,Muscogee County,420 10th Street,,Columbus,GA,31901,706-653-4200,uge2215@uga.edu
+110,Newton County,1113 Usher Street NE,Suite 202,Covington,GA,30014,770-784-2010,uge2217@uga.edu
+111,Oconee County,1420 Experiment Station Road,,Watkinsville,GA,30677,706-769-3946,uge1219@uga.edu
+112,Oglethorpe County,55 Oglethorpe Drive,,Crawford,GA,30630,706-743-8341,uge1221@uga.edu
+113,Paulding County,530 W Memorial Drive,,Dallas,GA,30132,770-443-7616,uge2223@uga.edu
+114,Peach County,700 Spruce Street,Wing A,Fort Valley,GA,31030,478-825-6466,uge2225@uga.edu
+115,Pickens County,502 Stegall Drive,,Jasper,GA,30143,706-253-8840,uge1227@uga.edu
+116,Pierce County,705 College Avenue,,Blackshear,GA,31516,912-449-2034,uge4229@uga.edu
+117,Pike County,74 Gwyn Street,County Office Building,Zebulon,GA,30295,770-567-2010,uge2231@uga.edu
+118,Polk County,20 N Main Street,,Cedartown,GA,30125,770-749-2142,uge2233@uga.edu
+119,Pulaski County,87 N. Lumpkin St.,,Hawkinsville,GA,31036,478-783-1171,uge2235@uga.edu
+120,Putnam County,"663 Godfrey Rd., Suite 101",,Eatonton,GA,31024,706-485-4151,uge3237@uga.edu
+121,Quitman County,"57 Kaigler Road, Suite A",,Georgetown,GA,39854,229-334-4303,uge4239@uga.edu
+122,Rabun County,"184 South Main Street, Suite 185",,Clayton,GA,30525,706-782-3113,uge1241@uga.edu
+123,Randolph County,413 Blakely Street,PO Box 282,Cuthbert,GA,39840,229-732-2311,uge4243@uga.edu
+124,Richmond County,602 Greene Street,,Augusta,GA,30901,706-821-2350,uge3245@uga.edu
+125,Rockdale County,1261 Commercial Drive Suite A,,Conyers,GA,30094,770-278-7373,uge1247@uga.edu
+126,Schley County,14 South Broad Street,,Ellaville,GA,31806,229-937-1180,uge2249@uga.edu
+127,Screven County,321 Rocky Ford Road,,Sylvania,GA,30467,912-564-2064,uge3251@uga.edu
+128,Seminole County,Seminole County Extension,426 N. Friendship Avenue,Donalsonville,GA,39845,229-524-2326,uge4253@uga.edu
+129,Spalding County,835 Memorial Dr.,,Griffin,GA,30223,770-467-4225,uge2255@uga.edu
+130,Stephens County,582 Eastanollee School Rd,,Eastanollee,GA,30538,706-779-5501,uge1257@uga.edu
+131,Stewart County,211 Health Department Road,,Lumpkin,GA,31815,229-838-4908,uge4259@uga.edu
+132,Sumter County,127 William Bowen Pointe,,Americus,GA,31719,229-924-4476,uge2261@uga.edu
+133,Talbot County,401 S. Washington Avenue,Highway 41/80,Talbotton,GA,31827,706-665-3230,uge2263@uga.edu
+134,Taliaferro County,119 Commerce St NW ,,Crawfordville,GA,30631,706-224-9761,
+135,Tattnall County,200-A South Main Street,,Reidsville,GA,30453,912-557-6724,uge3267g@uga.edu
+136,Taylor County,7 Ivy Street,,Butler,GA,31006,478-862-5496,uge2269@uga.edu
+137,Telfair County,"91 Telfair Avenue, Suite E",,McRae,GA,31055,229-868-6489,uge4271@uga.edu
+138,Terrell County,955 Forrester Drive,,Dawson,GA,39842,229-995-2165,uge4273@uga.edu
+139,Thomas County,442 Smith Avenue,,Thomasville,GA,31792,229-225-4130,uge4275@uga.edu
+140,Tift County,1468 Carpenter Road South,,Tifton,GA,31794,229-391-7980,uge4277@uga.edu
+141,Toombs County,"200 Courthouse Sq, Suite 4",,Lyons,GA,30436,912-526-3101,uge3279@uga.edu
+142,Towns County,67 Lakeview Circle,Senior Citizens Bldg.,Hiawassee,GA,30546,706-896-2024,uge1281@uga.edu
+143,Treutlen County,,5032 S. Third St.,Soperton,GA,30457,912-529-3766,uge3283@uga.edu
+144,Troup County,144 Sam Walker Drive,,LaGrange,GA,30241,706-883-1675,uge2285@uga.edu
+145,Turner County,222 Rockhouse Road,,Ashburn,GA,31714,229-567-3448,uge4287@uga.edu
+146,Twiggs County,14072 Highway 80,Unit A,Jeffersonville,GA,31044,478-945-3391,uge2289@uga.edu
+147,Union County,165 Wellborn St. Box 5,,Blairsville,GA,30512,706-439-6030,uge1291@uga.edu
+148,Upson County,"305 S Hightower Street, Suite 170",,Thomaston,GA,30286,706-647-8989,uge2293@uga.edu
+149,Walker County,102 E Napier Street,,LaFayette,GA,30728,706-638-2548,uge1295@uga.edu
+150,Walton County,100  North Broad St.,,Monroe,GA,30655,770-267-1324,uge1297@uga.edu
+151,Ware County,3225 Harris Road,,Waycross,GA,31503,912-287-2456,uge4299@uga.edu
+152,Warren County,48 Warren Street,,Warrenton,GA,30828,706-465-2136,uge3301@uga.edu
+153,Washington County,158 W. Haynes Street,,Sandersville,GA,31082,478-552-2011,uge3303@uga.edu
+154,Wayne County,1900 Sunset Boulevard,,Jesup,GA,31545,912-427-5965,uge3305@uga.edu
+155,Webster County,7235 Washington St,Hwy. 41 South,Preston,GA,31824,229-828-2325,uge4307@uga.edu
+156,Wheeler County,"16 W. Forest Ave., Suite 109",,Alamo,GA,30411,912-568-7138,uge4309@uga.edu
+157,White County,"1241 Helen Hwy, Suite 150",Mauney Community Service Center,Cleveland,GA,30528,706-865-2832,uge1311@uga.edu
+158,Whitfield County,104 S. Thornton Ave.,,Dalton,GA,30720,706-278-8207,uge1313@uga.edu
+159,Wilcox County,667 Second Avenue,County Agriculture Bld,Rochelle,GA,31079,229-365-2323,uge2315@uga.edu
+160,Wilkes County,23 Court Street,,Washington,GA,30673,706-678-2332,uge3317@uga.edu
+161,Wilkinson County,,114 Wriley Road,Irwinton,GA,31042,478-946-2367,uge3319@uga.edu
+162,Worth County,204 East Franklin St #9,,Sylvester,GA,31791,229-776-8216,uge4321@uga.edu
