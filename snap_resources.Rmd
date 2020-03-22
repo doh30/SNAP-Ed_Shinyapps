@@ -291,7 +291,7 @@ eligibility <- geojsonio::geojson_read("data/eligible_area_2019.geojson",
   what = "sp")
   
 #Load store data from county selection
-programloc<-st_read("data/programloc_190816.gpkg",layer="programloc_190816",stringsAsFactors=FALSE,quiet=TRUE)
+programloc<-st_read("data/programloc_200321.gpkg",layer="programloc_200321",stringsAsFactors=FALSE,quiet=TRUE)
 
 county1data_reactive<-reactive({
   fips<-as.character(gacounties %>%
