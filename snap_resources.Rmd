@@ -287,7 +287,7 @@ cty_boundary3<-reactive({
 })
 
 #Eligibility map
-eligibility <- geojsonio::geojson_read("data/eligible_area_2019.geojson",
+eligibility <- geojsonio::geojson_read("data/eligible_area_2017_2018.geojson",
   what = "sp")
   
 #Load store data from county selection
