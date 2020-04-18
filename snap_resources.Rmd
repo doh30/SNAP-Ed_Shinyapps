@@ -125,6 +125,7 @@ cty_boundary<-reactive({
       content=paste("<strong><size=1>",store_name,"</strong></size>", 
                        addr_full,
                        "<br>",city,", ",state,"  ",zip5,"</b>",
+                       "<br><b>Phone: </b>",Phone,
                        "<br><br><b>USDA store classification:</b> ",store_type,
                        "<br><b>Group category: </b>",store_grou,
                        "<br><b>Authorization: </b>",program,
