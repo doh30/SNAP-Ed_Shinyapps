@@ -10,12 +10,14 @@ output:
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(shiny)
-library(tidyverse)
+#library(tidyverse)
+library(dplyr)
+library(readr)
 library(leaflet)
 library(sf)
-library(shinyWidgets)
-library(rgdal)
-library(ggmap)
+#library(shinyWidgets)
+#library(rgdal)
+#library(ggmap)
 
 gacounties<-read_csv("data/county_list.csv") %>%
   arrange(fullname)
@@ -34,9 +36,10 @@ Column {.sidebar data-width=400}
 
 This map allows you to view SNAP and WIC authorized retailers in Georgia by. Choose the name of the county in the county selection search box and then select the relevant program. Click on a point to see more information on that retailer.
 
-```{r}
+```{r input_pane}
 selectInput("county","County selection",
-            choices=gacounties$fullname)
+            choices=gacounties$fullname,
+            selected="Fulton County, GA")
 
 # textInput(inputId = "address", label = "Enter address:", 
 #             value="", placeholder = "e.g. 210 Field St., Athens, GA, 30602")
@@ -90,7 +93,7 @@ HTML("<br>Data source: USDA Benefits Redemption Division<br>")
 Column {data-height=600}
 -----------------------------------------------------------------------
 
-```{r}
+```{r retail_sites}
 #Load county boundary
 cty_boundary<-reactive({
   st_fips<-as.character(gacounties %>%
@@ -106,8 +109,9 @@ cty_boundary<-reactive({
   st_fips<-cty_fips$st_fips
   cty_select<-st_read("data/uscounties_st.gpkg",layer=st_fips) %>%
     filter(CTY_TXT==cty_fips$cty_fips_sel)
-  cty_boundary1<-as_Spatial(cty_select)
-  spTransform(cty_boundary1, CRS("+init=epsg:4326"))
+  # cty_boundary1<-as_Spatial(cty_select)
+  # spTransform(cty_boundary1, CRS("+init=epsg:4326"))
+  cty_boundary1<-st_transform(cty_select,4326)
 })
 
 # #Load ga_retailers
@@ -228,9 +232,10 @@ This map allows you to view SNAP-Ed program locations and related services by Ge
 
 Click on a point to see more information on that site.
 
-```{r}
+```{r input_2}
 selectInput("county1","County selection",
-            choices=gacounties$fullname)
+            choices=gacounties$fullname,
+            selected="Fulton County, GA")
 
 checkboxGroupInput("officegroup", 
                     ("Programs"), 
@@ -267,7 +272,7 @@ HTML("<br>Data source: USDA Benefits Redemption Division<br>")
 Column {data-height=600}
 -----------------------------------------------------------------------
 
-```{r}
+```{r program_sites}
 #Load store boundaries
 cty_boundary3<-reactive({
   st_fips<-as.character(gacounties %>%
@@ -283,14 +288,14 @@ cty_boundary3<-reactive({
   st_fips<-cty_fips$st_fips
   cty_select<-st_read("data/uscounties_st.gpkg",layer=st_fips) %>%
     filter(CTY_TXT==cty_fips$cty_fips_sel)
-  cty_boundary2<-as_Spatial(cty_select)
-  spTransform(cty_boundary2, CRS("+init=epsg:4326"))
+  # cty_boundary2<-as_Spatial(cty_select)
+  # spTransform(cty_boundary2, CRS("+init=epsg:4326"))
+  cty_boundary2<-st_transform(cty_select,4326)
 })
 
 #Eligibility map
-eligibility <- geojsonio::geojson_read("data/eligible_area_2017_2018.geojson",
-  what = "sp")
-  
+eligibility<-st_read("data/eligible_area_2017_2018.geojson",quiet=TRUE)
+#   
 #Load store data from county selection
 programloc<-st_read("data/programloc_200321.gpkg",layer="programloc_200321",stringsAsFactors=FALSE,quiet=TRUE)
 
