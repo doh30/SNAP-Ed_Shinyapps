@@ -81,7 +81,7 @@ downloadHandler(filename = function() {
      paste("SNAPretailers_",input$county,"_",Sys.Date(),".csv",sep="")
    },
      content = function(file) {
-     write.csv(countydata_df(), file, row.names = FALSE)
+     write.csv(countydata_select(), file, row.names = FALSE)
    }
 )
 
@@ -111,7 +111,7 @@ cty_boundary<-reactive({
     filter(CTY_TXT==cty_fips$cty_fips_sel)
   # cty_boundary1<-as_Spatial(cty_select)
   # spTransform(cty_boundary1, CRS("+init=epsg:4326"))
-  cty_boundary1<-st_transform(cty_select,4326)
+  # cty_boundary1<-st_transform(cty_select,4326)
 })
 
 # #Load ga_retailers
@@ -148,11 +148,11 @@ countydata_select<-reactive({
 })
 
 # observeEvent
-countydata_df<-reactive({
-  countydata_select()
-  # st_set_geometry(NULL) %>%
-  #   select(-lat,-long,-addr_full,-content)
-})
+# countydata_df<-reactive({
+#   countydata_select()
+# st_set_geometry(NULL) %>%
+#   select(-lat,-long,-addr_full,-content)
+# })
 
 #Create a map  
   buffer<-0.02
@@ -260,7 +260,7 @@ downloadHandler(filename = function() {
      paste("SNAPoffices_",input$county1,"_",Sys.Date(),".csv",sep="")
    },
      content = function(file) {
-     write.csv(county1data_df(), file, row.names = FALSE)
+     write.csv(county1data_select(), file, row.names = FALSE)
    }
 )
 
@@ -290,7 +290,7 @@ cty_boundary3<-reactive({
     filter(CTY_TXT==cty_fips$cty_fips_sel)
   # cty_boundary2<-as_Spatial(cty_select)
   # spTransform(cty_boundary2, CRS("+init=epsg:4326"))
-  cty_boundary2<-st_transform(cty_select,4326)
+  # cty_boundary2<-st_transform(cty_select,4326)
 })
 
 #Eligibility map
@@ -326,11 +326,11 @@ county1data_select<-reactive({
 })
 
 # observeEvent
-county1data_df<-reactive({
-  county1data_select()
+# county1data_df<-reactive({
+#   county1data_select()
   # st_set_geometry(NULL) %>%
   #   select(-lat,-long,-addr_full,-content)
-})
+# })
 
 #Create a map  
   buffer<-0.02
