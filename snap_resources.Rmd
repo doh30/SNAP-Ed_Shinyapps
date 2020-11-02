@@ -120,7 +120,7 @@ cty_boundary<-reactive({
 #   })
 
 #Load store data from county selection
-  storedata<-st_read("data/program_retail_ga.GeoJSON",quiet=TRUE) %>%
+  storedata<-st_read("data/program_retail_ga_2020.GeoJSON",quiet=TRUE) %>%
     mutate(lat=X,long=Y,
       #Define the popup
       addr_full=if_else(is.na(addr_add),
@@ -133,7 +133,7 @@ cty_boundary<-reactive({
                        "<br><br><b>USDA store classification:</b> ",store_type,
                        "<br><b>Group category: </b>",store_grou,
                        "<br><b>Authorization: </b>",program,
-                       "<br>*2018 year data are available.",sep=""))
+                       "<br>*2020 year data are available.",sep=""))
   pantries<-storedata %>%
     filter(store_grou=="Food Pantry")
   
@@ -402,7 +402,7 @@ About this map
 =====================================  
 
 1. SNAP-Ed Food Resources
-This map allows users to exlore the database of SNAP authorized retailers in 2018 in 159 counties in GA. Users can compare their locations to the WIC authorized retailers by using the "Source" check box in the sidebar. Also, SNAP exclusive/WIC exclusive/both SNAP & WIC authorized details are addressed in the pop-up box when users click on a point. 
+This map allows users to exlore the database of SNAP authorized retailers in 2020 in 159 counties in GA. Users can compare their locations to the WIC authorized retailers by using the "Source" check box in the sidebar. Also, SNAP exclusive/WIC exclusive/both SNAP & WIC authorized details are addressed in the pop-up box when users click on a point. 
 
     <strong>SNAP authorized retailers are classified as follows (Store category): Farmers Market/Grocer/Local Foods/Small retail/Specialty/Supermarket/Other store.<br>
     There is no specific category for WIC authorized retailers.</strong>
