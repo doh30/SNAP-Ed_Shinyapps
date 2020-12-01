@@ -61,7 +61,7 @@ checkboxGroupInput("storegroup",
                                    "Specialty" = "Specialty",
                                    "Supermarket" = "Supermarket",
                                    "Other Store" = "Other store",
-                                   "WIC_No Category" = "WIC_No category"),
+                                   "WIC_No_Category" = "WIC_No_Category"),
                     selected = c("Farmers Market","Grocer", "Local foods",
                          "Small retail", "Specialty", "Supermarket", "Other store", "WIC_No category"))
 
@@ -120,7 +120,7 @@ cty_boundary<-reactive({
 #   })
 
 #Load store data from county selection
-  storedata<-st_read("data/program_retail_ga_2020.GeoJSON",quiet=TRUE) %>%
+  storedata<-st_read("data/program_retail_ga_Dec2020.GeoJSON",quiet=TRUE) %>%
     mutate(lat=X,long=Y,
       #Define the popup
       addr_full=if_else(is.na(addr_add),
